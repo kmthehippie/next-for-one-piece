@@ -1,0 +1,30 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "validate:watch-order": "python3 scripts/validate-watch-order.py",
+    "check:display": "node scripts/check-display-rules.mjs",
+    "test": "npm run validate:watch-order && npm run check:display"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "latest",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.6.0",
+    "vite": "^7.3.5"
+  },
+  "overrides": {
+    "esbuild": "^0.28.1"
+  }
+}
