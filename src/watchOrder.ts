@@ -1,7 +1,7 @@
 import items from "../watch-order.json";
 
 export type WatchItem =
-  | { id: string; type: "episode"; number: number }
+  | { id: string; type: "episode"; number: number; title: string }
   | { id: string; type: "movie" | "special"; name: string; after_episode: number };
 
 export const watchOrder = items as WatchItem[];

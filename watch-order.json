@@ -2,42 +2,50 @@
   {
     "id": "episode-1",
     "type": "episode",
-    "number": 1
+    "number": 1,
+    "title": "I'm Luffy! The Man Who's Gonna Be King of the Pirates!"
   },
   {
     "id": "episode-2",
     "type": "episode",
-    "number": 2
+    "number": 2,
+    "title": "Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!"
   },
   {
     "id": "episode-3",
     "type": "episode",
-    "number": 3
+    "number": 3,
+    "title": "Morgan versus Luffy! Who's the Mysterious Pretty Girl?"
   },
   {
     "id": "episode-4",
     "type": "episode",
-    "number": 4
+    "number": 4,
+    "title": "Luffy's Past! Enter Red-Haired Shanks!"
   },
   {
     "id": "episode-5",
     "type": "episode",
-    "number": 5
+    "number": 5,
+    "title": "A Terrifying Mysterious Power! Captain Buggy, the Clown Pirate!"
   },
   {
     "id": "episode-6",
     "type": "episode",
-    "number": 6
+    "number": 6,
+    "title": "Desperate Situation! Beast Tamer Mohji vs. Luffy!"
   },
   {
     "id": "episode-7",
     "type": "episode",
-    "number": 7
+    "number": 7,
+    "title": "Epic Showdown! Swordsman Zoro vs. Acrobat Cabaji!"
   },
   {
     "id": "episode-8",
     "type": "episode",
-    "number": 8
+    "number": 8,
+    "title": "Who is the Victor? Devil Fruit Power Showdown!"
   },
   {
     "id": "special-defeat-him-the-pirate-ganzack",
@@ -48,52 +56,62 @@
   {
     "id": "episode-9",
     "type": "episode",
-    "number": 9
+    "number": 9,
+    "title": "The Honorable Liar? Captain Usopp!"
   },
   {
     "id": "episode-10",
     "type": "episode",
-    "number": 10
+    "number": 10,
+    "title": "The Weirdest Guy Ever! Jango the Hypnotist!"
   },
   {
     "id": "episode-11",
     "type": "episode",
-    "number": 11
+    "number": 11,
+    "title": "Expose the Plot! Pirate Butler, Captain Kuro!"
   },
   {
     "id": "episode-12",
     "type": "episode",
-    "number": 12
+    "number": 12,
+    "title": "Clash with the Black Cat Pirates! The Great Battle on the Slope!"
   },
   {
     "id": "episode-13",
     "type": "episode",
-    "number": 13
+    "number": 13,
+    "title": "The Terrifying Duo! Meowban Brothers vs. Zoro!"
   },
   {
     "id": "episode-14",
     "type": "episode",
-    "number": 14
+    "number": 14,
+    "title": "Luffy Back in Action! Miss Kaya's Desperate Resistance!"
   },
   {
     "id": "episode-15",
     "type": "episode",
-    "number": 15
+    "number": 15,
+    "title": "Beat Kuro! Usopp the Man's Tearful Resolve!"
   },
   {
     "id": "episode-16",
     "type": "episode",
-    "number": 16
+    "number": 16,
+    "title": "Protect Kaya! The Usopp Pirates' Great Efforts!"
   },
   {
     "id": "episode-17",
     "type": "episode",
-    "number": 17
+    "number": 17,
+    "title": "Angry Explosion! Kuro vs. Luffy! How it Ends!"
   },
   {
     "id": "episode-18",
     "type": "episode",
-    "number": 18
+    "number": 18,
+    "title": "You're the Weird Creature! Gaimon and His Strange Friends!"
   },
   {
     "id": "movie-movie-1-one-piece-the-movie",
@@ -104,177 +122,212 @@
   {
     "id": "episode-19",
     "type": "episode",
-    "number": 19
+    "number": 19,
+    "title": "The Three-Sword Style's Past! Zoro and Kuina's Vow!"
   },
   {
     "id": "episode-20",
     "type": "episode",
-    "number": 20
+    "number": 20,
+    "title": "Famous Cook! Sanji of the Sea Restaurant!"
   },
   {
     "id": "episode-21",
     "type": "episode",
-    "number": 21
+    "number": 21,
+    "title": "Unwelcome Customer! Sanji's Food and Gin's Debt!"
   },
   {
     "id": "episode-22",
     "type": "episode",
-    "number": 22
+    "number": 22,
+    "title": "The Strongest Pirate Fleet! Commodore Don Krieg!"
   },
   {
     "id": "episode-23",
     "type": "episode",
-    "number": 23
+    "number": 23,
+    "title": "Protect Baratie! The Great Pirate, Red Foot Zeff!"
   },
   {
     "id": "episode-24",
     "type": "episode",
-    "number": 24
+    "number": 24,
+    "title": "Hawk-Eye Mihawk! The Great Swordsman Zoro Falls At Sea!"
   },
   {
     "id": "episode-25",
     "type": "episode",
-    "number": 25
+    "number": 25,
+    "title": "The Deadly Foot Technique Bursts Forth! Sanji vs. The Invincible Pearl!"
   },
   {
     "id": "episode-26",
     "type": "episode",
-    "number": 26
+    "number": 26,
+    "title": "Zeff and Sanji's Dream! The Illusory All Blue!"
   },
   {
     "id": "episode-27",
     "type": "episode",
-    "number": 27
+    "number": 27,
+    "title": "Cool-headed, Cold-hearted Demon! Pirate Fleet Chief Commander Gin!"
   },
   {
     "id": "episode-28",
     "type": "episode",
-    "number": 28
+    "number": 28,
+    "title": "I Won't Die! Fierce Battle, Luffy vs. Krieg!"
   },
   {
     "id": "episode-29",
     "type": "episode",
-    "number": 29
+    "number": 29,
+    "title": "The Conclusion of the Deadly Battle! A Spear of Blind Determination!"
   },
   {
     "id": "episode-30",
     "type": "episode",
-    "number": 30
+    "number": 30,
+    "title": "Set Sail! The Seafaring Cook Sets off With Luffy!"
   },
   {
     "id": "episode-31",
     "type": "episode",
-    "number": 31
+    "number": 31,
+    "title": "The Worst Man in the Eastern Seas! Fishman Pirate Arlong!"
   },
   {
     "id": "episode-32",
     "type": "episode",
-    "number": 32
+    "number": 32,
+    "title": "Witch of Cocoyashi Village! Arlong's Female Leader!"
   },
   {
     "id": "episode-33",
     "type": "episode",
-    "number": 33
+    "number": 33,
+    "title": "Usopp Dead?! When is Luffy Going to Make Landfall?!"
   },
   {
     "id": "episode-34",
     "type": "episode",
-    "number": 34
+    "number": 34,
+    "title": "Everyone's Gathered! Usopp Speaks the Truth About Nami!"
   },
   {
     "id": "episode-35",
     "type": "episode",
-    "number": 35
+    "number": 35,
+    "title": "Untold Past! Female Warrior Bellemere!"
   },
   {
     "id": "episode-36",
     "type": "episode",
-    "number": 36
+    "number": 36,
+    "title": "Survive! Mother Bellemere and Nami's Bond!"
   },
   {
     "id": "episode-37",
     "type": "episode",
-    "number": 37
+    "number": 37,
+    "title": "Luffy Rises! Result of the Broken Promise!"
   },
   {
     "id": "episode-38",
     "type": "episode",
-    "number": 38
+    "number": 38,
+    "title": "Luffy in Big Trouble! Fishmen vs. the Luffy Pirates!"
   },
   {
     "id": "episode-39",
     "type": "episode",
-    "number": 39
+    "number": 39,
+    "title": "Luffy Submerged! Zoro vs. Hatchan the Octopus!"
   },
   {
     "id": "episode-40",
     "type": "episode",
-    "number": 40
+    "number": 40,
+    "title": "Proud Warriors! Sanji and Usopp's Fierce Battles!"
   },
   {
     "id": "episode-41",
     "type": "episode",
-    "number": 41
+    "number": 41,
+    "title": "Luffy at Full Power! Nami's Determination and the Straw Hat!"
   },
   {
     "id": "episode-42",
     "type": "episode",
-    "number": 42
+    "number": 42,
+    "title": "Explosion! Fishman Arlong's Fierce Assault From the Sea!"
   },
   {
     "id": "episode-43",
     "type": "episode",
-    "number": 43
+    "number": 43,
+    "title": "End of the Fishman Empire! Nami's My Friend!"
   },
   {
     "id": "episode-44",
     "type": "episode",
-    "number": 44
+    "number": 44,
+    "title": "Setting Out with a Smile! Farewell, Hometown Cocoyashi Village!"
   },
   {
     "id": "episode-45",
     "type": "episode",
-    "number": 45
+    "number": 45,
+    "title": "Bounty! Straw Hat Luffy Becomes Known to the World!"
   },
   {
     "id": "episode-46",
     "type": "episode",
-    "number": 46
+    "number": 46,
+    "title": "Chase Straw Hat! Little Buggy's Big Adventure!"
   },
   {
     "id": "episode-47",
     "type": "episode",
-    "number": 47
+    "number": 47,
+    "title": "The Wait is Over! The Return of Captain Buggy!"
   },
   {
     "id": "episode-48",
     "type": "episode",
-    "number": 48
+    "number": 48,
+    "title": "The Town of the Beginning and the End! Landfall at Logue Town!"
   },
   {
     "id": "episode-49",
     "type": "episode",
-    "number": 49
+    "number": 49,
+    "title": "Kitetsu III and Yubashiri! Zoro's New Swords and the Woman Sergeant Major!"
   },
   {
     "id": "episode-50",
     "type": "episode",
-    "number": 50
+    "number": 50,
+    "title": "Usopp vs. Daddy the Parent! Showdown at High!"
   },
   {
     "id": "episode-51",
     "type": "episode",
-    "number": 51
+    "number": 51,
+    "title": "Fiery Cooking Battle? Sanji vs. the Beautiful Chef!"
   },
   {
     "id": "episode-52",
     "type": "episode",
-    "number": 52
+    "number": 52,
+    "title": "Buggy's Revenge! The Man Who Smiles On the Execution Platform!"
   },
   {
     "id": "episode-53",
     "type": "episode",
-    "number": 53
+    "number": 53,
+    "title": "The Legend Has Started! Head for the Grand Line!"
   },
   {
     "id": "special-tv-special-1-adventure-in-the-ocean-s-navel",
@@ -297,192 +350,230 @@
   {
     "id": "episode-54",
     "type": "episode",
-    "number": 54
+    "number": 54,
+    "title": "Precursor to a New Adventure! Apis, a Mysterious Girl!"
   },
   {
     "id": "episode-55",
     "type": "episode",
-    "number": 55
+    "number": 55,
+    "title": "Miraculous Creature! Apis' Secret and the Legendary Island!"
   },
   {
     "id": "episode-56",
     "type": "episode",
-    "number": 56
+    "number": 56,
+    "title": "Eric Attacks! Great Escape from Warship Island!"
   },
   {
     "id": "episode-57",
     "type": "episode",
-    "number": 57
+    "number": 57,
+    "title": "A Solitary Island in the Distant Sea! The Legendary Lost Island!"
   },
   {
     "id": "episode-58",
     "type": "episode",
-    "number": 58
+    "number": 58,
+    "title": "Showdown in the Ruins! Tense Zoro vs. Eric!"
   },
   {
     "id": "episode-59",
     "type": "episode",
-    "number": 59
+    "number": 59,
+    "title": "Luffy, Completely Surrounded! Commodore Nelson's Secret Strategy!"
   },
   {
     "id": "episode-60",
     "type": "episode",
-    "number": 60
+    "number": 60,
+    "title": "Through the Sky They Soar! The 1000 Year Legend Lives Again!"
   },
   {
     "id": "episode-61",
     "type": "episode",
-    "number": 61
+    "number": 61,
+    "title": "An Angry Showdown! Cross the Red Line!"
   },
   {
     "id": "episode-62",
     "type": "episode",
-    "number": 62
+    "number": 62,
+    "title": "The First Line of Defense? The Giant Whale Laboon Appears!"
   },
   {
     "id": "episode-63",
     "type": "episode",
-    "number": 63
+    "number": 63,
+    "title": "A Promise Between Men! Luffy and the Whale Vow to Meet Again!"
   },
   {
     "id": "episode-64",
     "type": "episode",
-    "number": 64
+    "number": 64,
+    "title": "A Town That Welcomes Pirates? Setting Foot on Whiskey Peak!"
   },
   {
     "id": "episode-65",
     "type": "episode",
-    "number": 65
+    "number": 65,
+    "title": "Explosion! The Three Swords Style! Zoro vs. Baroque Works!"
   },
   {
     "id": "episode-66",
     "type": "episode",
-    "number": 66
+    "number": 66,
+    "title": "All Out Battle! Luffy vs. Zoro, Mysterious Grand Duel!"
   },
   {
     "id": "episode-67",
     "type": "episode",
-    "number": 67
+    "number": 67,
+    "title": "Deliver Princess Vivi! The Luffy Pirates Set Sail!"
   },
   {
     "id": "episode-68",
     "type": "episode",
-    "number": 68
+    "number": 68,
+    "title": "Try Hard, Coby! Coby and Helmeppo's Struggles in the Marines!"
   },
   {
     "id": "episode-69",
     "type": "episode",
-    "number": 69
+    "number": 69,
+    "title": "Coby and Helmeppo's Resolve! Vice-Admiral Garp's Parental Affection!"
   },
   {
     "id": "episode-70",
     "type": "episode",
-    "number": 70
+    "number": 70,
+    "title": "An Ancient Island! The Shadow Hiding in Little Garden!"
   },
   {
     "id": "episode-71",
     "type": "episode",
-    "number": 71
+    "number": 71,
+    "title": "Huge Duel! The Giants Dorry and Brogy!"
   },
   {
     "id": "episode-72",
     "type": "episode",
-    "number": 72
+    "number": 72,
+    "title": "Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!"
   },
   {
     "id": "episode-73",
     "type": "episode",
-    "number": 73
+    "number": 73,
+    "title": "Broggy's Bitter Tears of Victory! The Conclusion of Elbaf!"
   },
   {
     "id": "episode-74",
     "type": "episode",
-    "number": 74
+    "number": 74,
+    "title": "The Devilish Candle! Tears of Regret and Tears of Anger!"
   },
   {
     "id": "episode-75",
     "type": "episode",
-    "number": 75
+    "number": 75,
+    "title": "A Hex on Luffy! Colors Trap!"
   },
   {
     "id": "episode-76",
     "type": "episode",
-    "number": 76
+    "number": 76,
+    "title": "Time to Fight Back! Usopp's Quick Thinking and Fire Star!"
   },
   {
     "id": "episode-77",
     "type": "episode",
-    "number": 77
+    "number": 77,
+    "title": "Farewell Giant Island! Head for Alabasta!"
   },
   {
     "id": "episode-78",
     "type": "episode",
-    "number": 78
+    "number": 78,
+    "title": "Nami's Sick? Beyond the Snow Falling on the Sea!"
   },
   {
     "id": "episode-79",
     "type": "episode",
-    "number": 79
+    "number": 79,
+    "title": "A Raid! The Bliking and Blik Wapol!"
   },
   {
     "id": "episode-80",
     "type": "episode",
-    "number": 80
+    "number": 80,
+    "title": "An Island without Doctors? Adventure in a Nameless Land!"
   },
   {
     "id": "episode-81",
     "type": "episode",
-    "number": 81
+    "number": 81,
+    "title": "Are You Happy? The Doctor Called Witch!"
   },
   {
     "id": "episode-82",
     "type": "episode",
-    "number": 82
+    "number": 82,
+    "title": "Dalton's Resolve! Wapol's Corps Lands on the Island!"
   },
   {
     "id": "episode-83",
     "type": "episode",
-    "number": 83
+    "number": 83,
+    "title": "The Island Where Snow Lives! Climb the Drum Rockies!"
   },
   {
     "id": "episode-84",
     "type": "episode",
-    "number": 84
+    "number": 84,
+    "title": "Blue-nosed Reindeer! Chopper's Secret!"
   },
   {
     "id": "episode-85",
     "type": "episode",
-    "number": 85
+    "number": 85,
+    "title": "An Outcast's Dream! Hiluluk the Quack!"
   },
   {
     "id": "episode-86",
     "type": "episode",
-    "number": 86
+    "number": 86,
+    "title": "Hiluluk's Cherry Blossoms and the Will that Gets Carried On!"
   },
   {
     "id": "episode-87",
     "type": "episode",
-    "number": 87
+    "number": 87,
+    "title": "Fight Wapol's Crew! The Power of the Munch Munch Fruit!"
   },
   {
     "id": "episode-88",
     "type": "episode",
-    "number": 88
+    "number": 88,
+    "title": "Zoan-type Devil Fruit! Chopper's Seven-form Transformation!"
   },
   {
     "id": "episode-89",
     "type": "episode",
-    "number": 89
+    "number": 89,
+    "title": "When the Kingdom's Rule Ends! The Flag of Faith Flies Forever!"
   },
   {
     "id": "episode-90",
     "type": "episode",
-    "number": 90
+    "number": 90,
+    "title": "Hiluluk's Cherry Blossoms! Miracle in the Drum Rockies!"
   },
   {
     "id": "episode-91",
     "type": "episode",
-    "number": 91
+    "number": 91,
+    "title": "Goodbye Drum Island! I'm Going Out to Sea!"
   },
   {
     "id": "movie-movie-3-chopper-s-kingdom-on-the-island-of-strange-animals",
@@ -493,7 +584,8 @@
   {
     "id": "episode-92",
     "type": "episode",
-    "number": 92
+    "number": 92,
+    "title": "Alabasta's Hero and a Ballerina on the Ship!"
   },
   {
     "id": "special-dream-soccer-king",
@@ -510,232 +602,278 @@
   {
     "id": "episode-93",
     "type": "episode",
-    "number": 93
+    "number": 93,
+    "title": "Off to the Desert Kingdom! The Rain-Summing Powder and the Rebel Army!"
   },
   {
     "id": "episode-94",
     "type": "episode",
-    "number": 94
+    "number": 94,
+    "title": "The Reunion of Heroes! His Name is Fire Fist Ace!"
   },
   {
     "id": "episode-95",
     "type": "episode",
-    "number": 95
+    "number": 95,
+    "title": "Ace and Luffy! Hot Emotions and Brotherly Bonds!"
   },
   {
     "id": "episode-96",
     "type": "episode",
-    "number": 96
+    "number": 96,
+    "title": "Erumalu, the City of Green and the Kung Fu Dugongs!"
   },
   {
     "id": "episode-97",
     "type": "episode",
-    "number": 97
+    "number": 97,
+    "title": "Adventure in the Country of Sand! The Monsters that Live in the Scorching Land!"
   },
   {
     "id": "episode-98",
     "type": "episode",
-    "number": 98
+    "number": 98,
+    "title": "Enter the Desert Pirates! The Men Who Live Freely!"
   },
   {
     "id": "episode-99",
     "type": "episode",
-    "number": 99
+    "number": 99,
+    "title": "False Fortitude! Camu, Rebel Soldier at Heart!"
   },
   {
     "id": "episode-100",
     "type": "episode",
-    "number": 100
+    "number": 100,
+    "title": "Rebel Warrior Kohza! The Dream Vowed to Vivi!"
   },
   {
     "id": "episode-101",
     "type": "episode",
-    "number": 101
+    "number": 101,
+    "title": "Showdown in a Heat Haze! Ace vs. the Gallant Scorpion!"
   },
   {
     "id": "episode-102",
     "type": "episode",
-    "number": 102
+    "number": 102,
+    "title": "Ruins and Lost Ways! Vivi, Her Friends, and the Country's Form!"
   },
   {
     "id": "episode-103",
     "type": "episode",
-    "number": 103
+    "number": 103,
+    "title": "Spiders Caf\u00e9 at 8 o'Clock! The Enemy Leaders Gather!"
   },
   {
     "id": "episode-104",
     "type": "episode",
-    "number": 104
+    "number": 104,
+    "title": "Luffy vs. Vivi! The Tearful Vow to Put Friends on the Line!"
   },
   {
     "id": "episode-105",
     "type": "episode",
-    "number": 105
+    "number": 105,
+    "title": "The Battlefront of Alabasta! Rainbase, the City of Dreams!"
   },
   {
     "id": "episode-106",
     "type": "episode",
-    "number": 106
+    "number": 106,
+    "title": "The Trap of Certain Defeat! Storming Raindinners!"
   },
   {
     "id": "episode-107",
     "type": "episode",
-    "number": 107
+    "number": 107,
+    "title": "Operation Utopia Commences! The Swell of Rebellion Stirs!"
   },
   {
     "id": "episode-108",
     "type": "episode",
-    "number": 108
+    "number": 108,
+    "title": "The Terrifying Banana Gators and Mr. Prince!"
   },
   {
     "id": "episode-109",
     "type": "episode",
-    "number": 109
+    "number": 109,
+    "title": "The Key to a Great Comeback Escape! The Wax-Wax Ball!"
   },
   {
     "id": "episode-110",
     "type": "episode",
-    "number": 110
+    "number": 110,
+    "title": "Merciless Mortal Combat! Luffy vs. Crocodile!"
   },
   {
     "id": "episode-111",
     "type": "episode",
-    "number": 111
+    "number": 111,
+    "title": "Dash For a Miracle! Alabasta Animal Land!"
   },
   {
     "id": "episode-112",
     "type": "episode",
-    "number": 112
+    "number": 112,
+    "title": "Rebel Army vs. Royal Army! Showdown at Alubarna!"
   },
   {
     "id": "episode-113",
     "type": "episode",
-    "number": 113
+    "number": 113,
+    "title": "Alubarna Grieves! The Fierce Captain Carue!"
   },
   {
     "id": "episode-114",
     "type": "episode",
-    "number": 114
+    "number": 114,
+    "title": "Sworn on a Friend's Dream! The Battle of Molehill, Block 4!"
   },
   {
     "id": "episode-115",
     "type": "episode",
-    "number": 115
+    "number": 115,
+    "title": "Big Performance's Today! The Copy-Copy Montage!"
   },
   {
     "id": "episode-116",
     "type": "episode",
-    "number": 116
+    "number": 116,
+    "title": "Transformed into Nami! Bon Clay's Rapid-Fire Ballet Kenpo!"
   },
   {
     "id": "episode-117",
     "type": "episode",
-    "number": 117
+    "number": 117,
+    "title": "Nami's Cyclone Advisory! Clima Tact Burst!"
   },
   {
     "id": "episode-118",
     "type": "episode",
-    "number": 118
+    "number": 118,
+    "title": "Secret Passed Down in the Royal Family! The Ancient Weapon Pluton!"
   },
   {
     "id": "episode-119",
     "type": "episode",
-    "number": 119
+    "number": 119,
+    "title": "Secret of Powerful Swordplay! Ability to Cut Steel and the Rhythm Things Have!"
   },
   {
     "id": "episode-120",
     "type": "episode",
-    "number": 120
+    "number": 120,
+    "title": "The Battle is Over! Kohza Raises the White Flag!"
   },
   {
     "id": "episode-121",
     "type": "episode",
-    "number": 121
+    "number": 121,
+    "title": "Where Vivi's Voice Gets Heard! The Hero Descends!"
   },
   {
     "id": "episode-122",
     "type": "episode",
-    "number": 122
+    "number": 122,
+    "title": "Sand Croc and Water Luffy! The Second Round of the Duel!"
   },
   {
     "id": "episode-123",
     "type": "episode",
-    "number": 123
+    "number": 123,
+    "title": "That Looks Croc-ish! Luffy, Run to the Royal Tomb!"
   },
   {
     "id": "episode-124",
     "type": "episode",
-    "number": 124
+    "number": 124,
+    "title": "The Nightmare Draws Near! This is the Sand-Sand Clan's Secret Base!"
   },
   {
     "id": "episode-125",
     "type": "episode",
-    "number": 125
+    "number": 125,
+    "title": "Magnificent Wings! My Name is Pell, Guardian Deity of the Country!"
   },
   {
     "id": "episode-126",
     "type": "episode",
-    "number": 126
+    "number": 126,
+    "title": "I Will Surpass You! Rain Falls in Alabasta!"
   },
   {
     "id": "episode-127",
     "type": "episode",
-    "number": 127
+    "number": 127,
+    "title": "A Farewell to Arms! Pirates and Different Ideas of Justice!"
   },
   {
     "id": "episode-128",
     "type": "episode",
-    "number": 128
+    "number": 128,
+    "title": "The Pirates' Banquet and Operation Escape from Alabasta!"
   },
   {
     "id": "episode-129",
     "type": "episode",
-    "number": 129
+    "number": 129,
+    "title": "It All Started On That Day! Vivi Tells the Story of Her Adventure!"
   },
   {
     "id": "episode-130",
     "type": "episode",
-    "number": 130
+    "number": 130,
+    "title": "Scent of Danger! The Seventh Member is Nico Robin!"
   },
   {
     "id": "episode-131",
     "type": "episode",
-    "number": 131
+    "number": 131,
+    "title": "The First Patient! The Untold Story of the Rumble Ball!"
   },
   {
     "id": "episode-132",
     "type": "episode",
-    "number": 132
+    "number": 132,
+    "title": "Uprising of the Navigator! For the Unyielding Dream!"
   },
   {
     "id": "episode-133",
     "type": "episode",
-    "number": 133
+    "number": 133,
+    "title": "A Recipe Handed Down! Sanji, the Iron Man of Curry!"
   },
   {
     "id": "episode-134",
     "type": "episode",
-    "number": 134
+    "number": 134,
+    "title": "I Will Make it Bloom! Usopp, the Man, and the Eight-Foot Shell!"
   },
   {
     "id": "episode-135",
     "type": "episode",
-    "number": 135
+    "number": 135,
+    "title": "The Fabled Pirate Hunter! Zoro, the Wandering Swordsman!"
   },
   {
     "id": "episode-136",
     "type": "episode",
-    "number": 136
+    "number": 136,
+    "title": "Zenny of the Island of Goats and the Pirate Ship in the Mountains!"
   },
   {
     "id": "episode-137",
     "type": "episode",
-    "number": 137
+    "number": 137,
+    "title": "How's Tricks? The Designs of Zenny the Moneylender!"
   },
   {
     "id": "episode-138",
     "type": "episode",
-    "number": 138
+    "number": 138,
+    "title": "Whereabouts of the Island Treasure! Attack of the Zenny Pirates!"
   },
   {
     "id": "movie-movie-4-dead-end-adventure",
@@ -758,287 +896,344 @@
   {
     "id": "episode-139",
     "type": "episode",
-    "number": 139
+    "number": 139,
+    "title": "Legend of the Rainbow Mist! Old Man Henzo of Luluka Island!"
   },
   {
     "id": "episode-140",
     "type": "episode",
-    "number": 140
+    "number": 140,
+    "title": "Residents of the Land of Eternity! The Pumpkin Pirates!"
   },
   {
     "id": "episode-141",
     "type": "episode",
-    "number": 141
+    "number": 141,
+    "title": "Thoughts of Home! The Pirate Graveyard of No Escape!"
   },
   {
     "id": "episode-142",
     "type": "episode",
-    "number": 142
+    "number": 142,
+    "title": "An Inevitable Melee! Wetton's Schemes and the Rainbow Tower!"
   },
   {
     "id": "episode-143",
     "type": "episode",
-    "number": 143
+    "number": 143,
+    "title": "And so, the Legend Begins! To the Other Side of the Rainbow!"
   },
   {
     "id": "episode-144",
     "type": "episode",
-    "number": 144
+    "number": 144,
+    "title": "Caught Log! The King of Salvagers, Masira!"
   },
   {
     "id": "episode-145",
     "type": "episode",
-    "number": 145
+    "number": 145,
+    "title": "Monsters Appear! Don't Mess with the Whitebeard Pirates!"
   },
   {
     "id": "episode-146",
     "type": "episode",
-    "number": 146
+    "number": 146,
+    "title": "Quit Dreaming! Mock Town, the Town of Ridicule!"
   },
   {
     "id": "episode-147",
     "type": "episode",
-    "number": 147
+    "number": 147,
+    "title": "Distinguished Pirates! A Man Who Talks of Dreams and the King of Undersea Search!"
   },
   {
     "id": "episode-148",
     "type": "episode",
-    "number": 148
+    "number": 148,
+    "title": "Legendary Family! Noland, the Liar!"
   },
   {
     "id": "episode-149",
     "type": "episode",
-    "number": 149
+    "number": 149,
+    "title": "Steer for the Clouds! Capture the South Bird!"
   },
   {
     "id": "episode-150",
     "type": "episode",
-    "number": 150
+    "number": 150,
+    "title": "Dreams Don't Come True?! Bellamy vs. the Saruyama Alliance!"
   },
   {
     "id": "episode-151",
     "type": "episode",
-    "number": 151
+    "number": 151,
+    "title": "100 Million Man! World's Greatest Power and Pirate Black Beard!"
   },
   {
     "id": "episode-152",
     "type": "episode",
-    "number": 152
+    "number": 152,
+    "title": "Take to the Sky! Ride the Knockup Stream!"
   },
   {
     "id": "episode-153",
     "type": "episode",
-    "number": 153
+    "number": 153,
+    "title": "Sail the White Sea! The Sky Knight and the Gate in the Clouds!"
   },
   {
     "id": "episode-154",
     "type": "episode",
-    "number": 154
+    "number": 154,
+    "title": "Godland, Skypiea! Angels on a Beach of Clouds!"
   },
   {
     "id": "episode-155",
     "type": "episode",
-    "number": 155
+    "number": 155,
+    "title": "The Forbidden Sacred Ground! The Island Where God Lives and Heaven's Judgement!"
   },
   {
     "id": "episode-156",
     "type": "episode",
-    "number": 156
+    "number": 156,
+    "title": "Already Criminals?! Skypiea's Upholder of the Law!"
   },
   {
     "id": "episode-157",
     "type": "episode",
-    "number": 157
+    "number": 157,
+    "title": "Is Escape Possible?!? God's Challenge is Set in Motion"
   },
   {
     "id": "episode-158",
     "type": "episode",
-    "number": 158
+    "number": 158,
+    "title": "A Trap on Lovely Street! The Almighty God Eneru"
   },
   {
     "id": "episode-159",
     "type": "episode",
-    "number": 159
+    "number": 159,
+    "title": "Onward Crow! To the Sacrificial Altar!"
   },
   {
     "id": "episode-160",
     "type": "episode",
-    "number": 160
+    "number": 160,
+    "title": "10% Survival Rate! Satori, the Mantra Master!"
   },
   {
     "id": "episode-161",
     "type": "episode",
-    "number": 161
+    "number": 161,
+    "title": "The Ordeal of Spheres! Desperate Struggle in the Lost Forest!"
   },
   {
     "id": "episode-162",
     "type": "episode",
-    "number": 162
+    "number": 162,
+    "title": "Chopper in Danger! Former God vs. Priest Shura!"
   },
   {
     "id": "episode-163",
     "type": "episode",
-    "number": 163
+    "number": 163,
+    "title": "Profound Mystery! Ordeal of String and Ordeal of Love?!?"
   },
   {
     "id": "episode-164",
     "type": "episode",
-    "number": 164
+    "number": 164,
+    "title": "Light the Fire of Shandora! Wiper the Warrior!"
   },
   {
     "id": "episode-165",
     "type": "episode",
-    "number": 165
+    "number": 165,
+    "title": "Jaya, City of Gold in the Sky! Head for God's Shrine!"
   },
   {
     "id": "episode-166",
     "type": "episode",
-    "number": 166
+    "number": 166,
+    "title": "Festival on the Night Before Gold-Hunting! Feelings for Varse!"
   },
   {
     "id": "episode-167",
     "type": "episode",
-    "number": 167
+    "number": 167,
+    "title": "Enter God Eneru! Farewell to the Survivors!"
   },
   {
     "id": "episode-168",
     "type": "episode",
-    "number": 168
+    "number": 168,
+    "title": "A Giant Snake Bares Its Fangs! The Survival Game Begins!"
   },
   {
     "id": "episode-169",
     "type": "episode",
-    "number": 169
+    "number": 169,
+    "title": "The Deadly Reject! War Demon Wiper's Resolve!"
   },
   {
     "id": "episode-170",
     "type": "episode",
-    "number": 170
+    "number": 170,
+    "title": "Fierce Mid-Air Battle! Pirate Zoro vs. Warrior Braham!"
   },
   {
     "id": "episode-171",
     "type": "episode",
-    "number": 171
+    "number": 171,
+    "title": "The Roaring Burn Bazooka! Luffy vs. War Demon Wyper!"
   },
   {
     "id": "episode-172",
     "type": "episode",
-    "number": 172
+    "number": 172,
+    "title": "The Ordeal of the Swamp! Chopper vs. Sky Punk Gedatsu!"
   },
   {
     "id": "episode-173",
     "type": "episode",
-    "number": 173
+    "number": 173,
+    "title": "Unbeatable Powers! Eneru's True Form is Revealed!"
   },
   {
     "id": "episode-174",
     "type": "episode",
-    "number": 174
+    "number": 174,
+    "title": "A Mystical City! The Grand Ruins of Shandora!"
   },
   {
     "id": "episode-175",
     "type": "episode",
-    "number": 175
+    "number": 175,
+    "title": "0% Survival Rate! Chopper vs Ohm, the Sword Wielding Priest!"
   },
   {
     "id": "episode-176",
     "type": "episode",
-    "number": 176
+    "number": 176,
+    "title": "Climb Giant Jack! Deadly Combat in the Upper Ruins!"
   },
   {
     "id": "episode-177",
     "type": "episode",
-    "number": 177
+    "number": 177,
+    "title": "The Ordeal of Iron! White Barbed Death Match!"
   },
   {
     "id": "episode-178",
     "type": "episode",
-    "number": 178
+    "number": 178,
+    "title": "Bursting Slash! Zoro vs Ohm!"
   },
   {
     "id": "episode-179",
     "type": "episode",
-    "number": 179
+    "number": 179,
+    "title": "Collapsing Upper Ruins! The Quintet for the Finale!"
   },
   {
     "id": "episode-180",
     "type": "episode",
-    "number": 180
+    "number": 180,
+    "title": "Showdown in the Ancient Ruins! Sky God Enel's Goal!"
   },
   {
     "id": "episode-181",
     "type": "episode",
-    "number": 181
+    "number": 181,
+    "title": "Ambition Towards the Endless Vearth! The Ark Maxim!"
   },
   {
     "id": "episode-182",
     "type": "episode",
-    "number": 182
+    "number": 182,
+    "title": "They Finally Clash! Pirate Luffy vs God Enel!"
   },
   {
     "id": "episode-183",
     "type": "episode",
-    "number": 183
+    "number": 183,
+    "title": "Maxim Surfaces! Deathpiea is Activated!"
   },
   {
     "id": "episode-184",
     "type": "episode",
-    "number": 184
+    "number": 184,
+    "title": "Luffy Falls! Eneru's Judgement and Nami's Wish!"
   },
   {
     "id": "episode-185",
     "type": "episode",
-    "number": 185
+    "number": 185,
+    "title": "The Two Awaken! On the Front Lines of the Burning Love Rescue!"
   },
   {
     "id": "episode-186",
     "type": "episode",
-    "number": 186
+    "number": 186,
+    "title": "Capriccio for Despair! The Impending Doom of Sky Island!"
   },
   {
     "id": "episode-187",
     "type": "episode",
-    "number": 187
+    "number": 187,
+    "title": "Lead by a Bell's Sound! Tale of the Great Warrior and the Explorer!"
   },
   {
     "id": "episode-188",
     "type": "episode",
-    "number": 188
+    "number": 188,
+    "title": "Free From the Spell! The Great Warrior Sheds Tears!"
   },
   {
     "id": "episode-189",
     "type": "episode",
-    "number": 189
+    "number": 189,
+    "title": "Eternal Friends! The Vowed Bell Echoes Across the Mighty Seas!"
   },
   {
     "id": "episode-190",
     "type": "episode",
-    "number": 190
+    "number": 190,
+    "title": "Angel Island, Obliterated! The Horror of The Raigo's Advent!!"
   },
   {
     "id": "episode-191",
     "type": "episode",
-    "number": 191
+    "number": 191,
+    "title": "Knock Over Giant Jack! Last Hope for Escape!"
   },
   {
     "id": "episode-192",
     "type": "episode",
-    "number": 192
+    "number": 192,
+    "title": "Miracle on Skypiea! The Love Song Heard in the Clouds!"
   },
   {
     "id": "episode-193",
     "type": "episode",
-    "number": 193
+    "number": 193,
+    "title": "The Battle Ends! Proud Fantasia Echoes Far!"
   },
   {
     "id": "episode-194",
     "type": "episode",
-    "number": 194
+    "number": 194,
+    "title": "I Made it here! The Yarn the Poneglyphs Spin!"
   },
   {
     "id": "episode-195",
     "type": "episode",
-    "number": 195
+    "number": 195,
+    "title": "Off to the Blue Sea!! A Heartfelt Finale!!"
   },
   {
     "id": "special-wapol-cover-story",
@@ -1049,57 +1244,68 @@
   {
     "id": "episode-196",
     "type": "episode",
-    "number": 196
+    "number": 196,
+    "title": "A State of Emergency is Issued! A Notorious Pirate Ship has Infiltrated!"
   },
   {
     "id": "episode-197",
     "type": "episode",
-    "number": 197
+    "number": 197,
+    "title": "Sanji the Cook! Proving His Merit at the Marine Dining Hall!"
   },
   {
     "id": "episode-198",
     "type": "episode",
-    "number": 198
+    "number": 198,
+    "title": "Captured Zoro! Chopper's Emergency Operations!"
   },
   {
     "id": "episode-199",
     "type": "episode",
-    "number": 199
+    "number": 199,
+    "title": "The Marines Dragnet Closes In! The Second Member Captured!"
   },
   {
     "id": "episode-200",
     "type": "episode",
-    "number": 200
+    "number": 200,
+    "title": "Luffy and Sanji's Daring Rescue Mission!"
   },
   {
     "id": "episode-201",
     "type": "episode",
-    "number": 201
+    "number": 201,
+    "title": "Enter the Hot-Blooded Special Forces! Battle on the Bridge!"
   },
   {
     "id": "episode-202",
     "type": "episode",
-    "number": 202
+    "number": 202,
+    "title": "Breaking Through the Siege! The Going Merry is Recovered!"
   },
   {
     "id": "episode-203",
     "type": "episode",
-    "number": 203
+    "number": 203,
+    "title": "The Pirate Ship Disappears! Fortress Battle, Round #2!"
   },
   {
     "id": "episode-204",
     "type": "episode",
-    "number": 204
+    "number": 204,
+    "title": "The Gold and Waver Recovery Operations!"
   },
   {
     "id": "episode-205",
     "type": "episode",
-    "number": 205
+    "number": 205,
+    "title": "The One Fell Swoop Plan! Jonathan's Surefire Secret Tactic!"
   },
   {
     "id": "episode-206",
     "type": "episode",
-    "number": 206
+    "number": 206,
+    "title": "Farewell, Marine Fortress! The Last Battle for Escape!"
   },
   {
     "id": "special-ace-cover-story",
@@ -1110,67 +1316,80 @@
   {
     "id": "episode-207",
     "type": "episode",
-    "number": 207
+    "number": 207,
+    "title": "Great Adventure in Long Ring Long Land!"
   },
   {
     "id": "episode-208",
     "type": "episode",
-    "number": 208
+    "number": 208,
+    "title": "A Davy Back with the Foxy Pirates!"
   },
   {
     "id": "episode-209",
     "type": "episode",
-    "number": 209
+    "number": 209,
+    "title": "Round 1! One Lap of the Donut Race!"
   },
   {
     "id": "episode-210",
     "type": "episode",
-    "number": 210
+    "number": 210,
+    "title": "Silver Fox Foxy! The Merciless Interference!"
   },
   {
     "id": "episode-211",
     "type": "episode",
-    "number": 211
+    "number": 211,
+    "title": "Round 2! Shoot It into the Groggy Ring!"
   },
   {
     "id": "episode-212",
     "type": "episode",
-    "number": 212
+    "number": 212,
+    "title": "A Barrage of Red Cards in Groggy Ring!"
   },
   {
     "id": "episode-213",
     "type": "episode",
-    "number": 213
+    "number": 213,
+    "title": "Round 3! The Round-and-Round Roller Race!"
   },
   {
     "id": "episode-214",
     "type": "episode",
-    "number": 214
+    "number": 214,
+    "title": "A Seriously Heated Race! Into the Final Round!"
   },
   {
     "id": "episode-215",
     "type": "episode",
-    "number": 215
+    "number": 215,
+    "title": "Screaming-Hot Bombardment! Pirate Dodgeball!"
   },
   {
     "id": "episode-216",
     "type": "episode",
-    "number": 216
+    "number": 216,
+    "title": "Showdown on the Cliff! Red Light, Green Light!"
   },
   {
     "id": "episode-217",
     "type": "episode",
-    "number": 217
+    "number": 217,
+    "title": "The Captains Square Off! The Final Combat Round!"
   },
   {
     "id": "episode-218",
     "type": "episode",
-    "number": 218
+    "number": 218,
+    "title": "Full-Blast Slow-Slow Onslaught Vs. Invulnerable Luffy!"
   },
   {
     "id": "episode-219",
     "type": "episode",
-    "number": 219
+    "number": 219,
+    "title": "Epic, Heated Combat! The Fateful Final Conclusion!"
   },
   {
     "id": "special-tv-special-3-protect-the-last-great-performance",
@@ -1193,27 +1412,32 @@
   {
     "id": "episode-220",
     "type": "episode",
-    "number": 220
+    "number": 220,
+    "title": "Was It Lost? Stolen? Who Are You?"
   },
   {
     "id": "episode-221",
     "type": "episode",
-    "number": 221
+    "number": 221,
+    "title": "A Mysterious Boy With a Horn and Robin's Deduction!"
   },
   {
     "id": "episode-222",
     "type": "episode",
-    "number": 222
+    "number": 222,
+    "title": "Now, Let's Get Back Our Memories! The Pirate Crew Lands On the Island!"
   },
   {
     "id": "episode-223",
     "type": "episode",
-    "number": 223
+    "number": 223,
+    "title": "Zoro Bares His Fangs! A Savage Animal Stands in the Way!"
   },
   {
     "id": "episode-224",
     "type": "episode",
-    "number": 224
+    "number": 224,
+    "title": "The Last Counterattack by the Memory Thief Who Reveals His True Colors!"
   },
   {
     "id": "movie-movie-6-baron-omatsuri-and-the-secret-island",
@@ -1236,492 +1460,590 @@
   {
     "id": "episode-225",
     "type": "episode",
-    "number": 225
+    "number": 225,
+    "title": "Proud Man! Silver Fox Foxy!"
   },
   {
     "id": "episode-226",
     "type": "episode",
-    "number": 226
+    "number": 226,
+    "title": "The Guy Who's the Closest to Invincible? And the Most Dangerous Man!"
   },
   {
     "id": "episode-227",
     "type": "episode",
-    "number": 227
+    "number": 227,
+    "title": "Navy Headquarters Admiral Aokiji! The Ferocity of an Ultimate Powerhouse!"
   },
   {
     "id": "episode-228",
     "type": "episode",
-    "number": 228
+    "number": 228,
+    "title": "Duel Between Rubber and Ice! Luffy vs. Aokiji!"
   },
   {
     "id": "episode-229",
     "type": "episode",
-    "number": 229
+    "number": 229,
+    "title": "The Dashing Sea Train and the City of Water: Water Seven!"
   },
   {
     "id": "episode-230",
     "type": "episode",
-    "number": 230
+    "number": 230,
+    "title": "Adventure in the City on the Water! Head to the Mammoth Shipbuilding Plant!"
   },
   {
     "id": "episode-231",
     "type": "episode",
-    "number": 231
+    "number": 231,
+    "title": "The Franky Family and Iceburg!"
   },
   {
     "id": "episode-232",
     "type": "episode",
-    "number": 232
+    "number": 232,
+    "title": "Galley-La Company! A Grand Sight: Dock #1!"
   },
   {
     "id": "episode-233",
     "type": "episode",
-    "number": 233
+    "number": 233,
+    "title": "Pirate Abduction Incident! A Pirate Ship That Can Only Await Her End!"
   },
   {
     "id": "episode-234",
     "type": "episode",
-    "number": 234
+    "number": 234,
+    "title": "Rescuing Our Friend! Raid On the Franky House!"
   },
   {
     "id": "episode-235",
     "type": "episode",
-    "number": 235
+    "number": 235,
+    "title": "Big Fight Under the Moon! The Pirate Flag Flutters With Sorrow!"
   },
   {
     "id": "episode-236",
     "type": "episode",
-    "number": 236
+    "number": 236,
+    "title": "Luffy vs. Usopp! Collision of Two Men's Pride!"
   },
   {
     "id": "episode-237",
     "type": "episode",
-    "number": 237
+    "number": 237,
+    "title": "Severe Shock Hits the City of Water! Iceberg Targeted!"
   },
   {
     "id": "episode-238",
     "type": "episode",
-    "number": 238
+    "number": 238,
+    "title": "Gum-Gum Human vs. Fire-Breathing Cyborg!"
   },
   {
     "id": "episode-239",
     "type": "episode",
-    "number": 239
+    "number": 239,
+    "title": "The Straw Hat Pirates Are the Culprits? The Protectors of the City of Water!"
   },
   {
     "id": "episode-240",
     "type": "episode",
-    "number": 240
+    "number": 240,
+    "title": "Eternal Farewell? Nico Robin: The Woman Who Draws Darkness!"
   },
   {
     "id": "episode-241",
     "type": "episode",
-    "number": 241
+    "number": 241,
+    "title": "Capture Robin! The Determination of the Straw Hats!"
   },
   {
     "id": "episode-242",
     "type": "episode",
-    "number": 242
+    "number": 242,
+    "title": "Cannon Fire Is the Signal! CP9 Goes Into Action!"
   },
   {
     "id": "episode-243",
     "type": "episode",
-    "number": 243
+    "number": 243,
+    "title": "CP9 Takes Off Their Masks! Their Shocking True Faces!"
   },
   {
     "id": "episode-244",
     "type": "episode",
-    "number": 244
+    "number": 244,
+    "title": "Secret Bond! Iceberg and Franky!"
   },
   {
     "id": "episode-245",
     "type": "episode",
-    "number": 245
+    "number": 245,
+    "title": "Come Back, Robin! Showdown With CP9!"
   },
   {
     "id": "episode-246",
     "type": "episode",
-    "number": 246
+    "number": 246,
+    "title": "The Straw Hat Pirates Annihilated? The Menace of the Leopard Model!"
   },
   {
     "id": "episode-247",
     "type": "episode",
-    "number": 247
+    "number": 247,
+    "title": "The Man Who Is Loved Even by His Ship! Usopp's Tears!"
   },
   {
     "id": "episode-248",
     "type": "episode",
-    "number": 248
+    "number": 248,
+    "title": "Franky's Past! The Day the Sea Train First Ran!"
   },
   {
     "id": "episode-249",
     "type": "episode",
-    "number": 249
+    "number": 249,
+    "title": "Spandam's Scheme! The Day the Sea Train Shook!"
   },
   {
     "id": "episode-250",
     "type": "episode",
-    "number": 250
+    "number": 250,
+    "title": "The End of the Legendary Man! The Day the Sea Train Cried!"
   },
   {
     "id": "episode-251",
     "type": "episode",
-    "number": 251
+    "number": 251,
+    "title": "The Truth Behind Her Betrayal! Robin's Sorrowful Decision!"
   },
   {
     "id": "episode-252",
     "type": "episode",
-    "number": 252
+    "number": 252,
+    "title": "The Steam Whistle Forces Friends Apart! The Sea Train Starts to Run!"
   },
   {
     "id": "episode-253",
     "type": "episode",
-    "number": 253
+    "number": 253,
+    "title": "Sanji Barges In! Sea Train Battle in the Storm!"
   },
   {
     "id": "episode-254",
     "type": "episode",
-    "number": 254
+    "number": 254,
+    "title": "Nami's Soul Cries Out! Straw Hat Luffy Makes a Comeback!"
   },
   {
     "id": "episode-255",
     "type": "episode",
-    "number": 255
+    "number": 255,
+    "title": "Another Sea Train? Rocketman Charges Forth!"
   },
   {
     "id": "episode-256",
     "type": "episode",
-    "number": 256
+    "number": 256,
+    "title": "Rescue Our Friends! A Bond Among Foes Sworn with Fists!"
   },
   {
     "id": "episode-257",
     "type": "episode",
-    "number": 257
+    "number": 257,
+    "title": "Smash the Wave! Luffy and Zoro Use the Strongest Combo!"
   },
   {
     "id": "episode-258",
     "type": "episode",
-    "number": 258
+    "number": 258,
+    "title": "A Mysterious Man Appears?! His Name Is Sniperking!"
   },
   {
     "id": "episode-259",
     "type": "episode",
-    "number": 259
+    "number": 259,
+    "title": "Showdown Between Cooks! Sanji vs. Ramen Kenpo"
   },
   {
     "id": "episode-260",
     "type": "episode",
-    "number": 260
+    "number": 260,
+    "title": "Rooftop Duel! Franky vs. Nero"
   },
   {
     "id": "episode-261",
     "type": "episode",
-    "number": 261
+    "number": 261,
+    "title": "Clash! Demon-Slasher Zoro vs. Ship-Slasher T-Bone!"
   },
   {
     "id": "episode-262",
     "type": "episode",
-    "number": 262
+    "number": 262,
+    "title": "Scramble over Robin! A Cunning Plan by Sniperking!!"
   },
   {
     "id": "episode-263",
     "type": "episode",
-    "number": 263
+    "number": 263,
+    "title": "The Judicial Island! Full View of Enies Lobby!"
   },
   {
     "id": "episode-264",
     "type": "episode",
-    "number": 264
+    "number": 264,
+    "title": "Landing Operations Start! Charge in, Straw Hats!"
   },
   {
     "id": "episode-265",
     "type": "episode",
-    "number": 265
+    "number": 265,
+    "title": "Luffy Cuts Through! Big Showdown on the Judicial Island!"
   },
   {
     "id": "episode-266",
     "type": "episode",
-    "number": 266
+    "number": 266,
+    "title": "Battle Against Giants! Open the Second Gate!"
   },
   {
     "id": "episode-267",
     "type": "episode",
-    "number": 267
+    "number": 267,
+    "title": "Find a Way Out! Rocketman Takes Flight!"
   },
   {
     "id": "episode-268",
     "type": "episode",
-    "number": 268
+    "number": 268,
+    "title": "Catch Up with Luffy! The Straw Hats' All-Out Battle"
   },
   {
     "id": "episode-269",
     "type": "episode",
-    "number": 269
+    "number": 269,
+    "title": "Robin Betrayed! The Motive of the World Government!"
   },
   {
     "id": "episode-270",
     "type": "episode",
-    "number": 270
+    "number": 270,
+    "title": "Give Robin Back! Luffy vs. Blueno!"
   },
   {
     "id": "episode-271",
     "type": "episode",
-    "number": 271
+    "number": 271,
+    "title": "Don't Stop! Hoist the Counterattack Signal!"
   },
   {
     "id": "episode-272",
     "type": "episode",
-    "number": 272
+    "number": 272,
+    "title": "Almost to Luffy! Gather at the Courthouse Plaza!"
   },
   {
     "id": "episode-273",
     "type": "episode",
-    "number": 273
+    "number": 273,
+    "title": "Everything is to Protect My Friends! Second Gear Activated!"
   },
   {
     "id": "episode-274",
     "type": "episode",
-    "number": 274
+    "number": 274,
+    "title": "Give us your answer, Robin! The Straw Hats' Outcry!"
   },
   {
     "id": "episode-275",
     "type": "episode",
-    "number": 275
+    "number": 275,
+    "title": "Robin's Past! The Girl was called a Devil!"
   },
   {
     "id": "episode-276",
     "type": "episode",
-    "number": 276
+    "number": 276,
+    "title": "Fated Mother and Daughter! The Mother's Name is Olvia!"
   },
   {
     "id": "episode-277",
     "type": "episode",
-    "number": 277
+    "number": 277,
+    "title": "The Tragedy of Ohara! The Terror of the Buster Call!"
   },
   {
     "id": "episode-278",
     "type": "episode",
-    "number": 278
+    "number": 278,
+    "title": "Say You Want to Live! We Are Your Friends!!"
   },
   {
     "id": "episode-279",
     "type": "episode",
-    "number": 279
+    "number": 279,
+    "title": "Jump Towards the Falls! Luffy's Feelings!"
   },
   {
     "id": "episode-280",
     "type": "episode",
-    "number": 280
+    "number": 280,
+    "title": "The Ways of Men! Zoro's Techniques, Usopp's Dream!"
   },
   {
     "id": "episode-281",
     "type": "episode",
-    "number": 281
+    "number": 281,
+    "title": "A Bond of Friendship Woven by Tears! Nami's World Map!"
   },
   {
     "id": "episode-282",
     "type": "episode",
-    "number": 282
+    "number": 282,
+    "title": "Parting Builds a Man's Character! Sanji and Chopper!"
   },
   {
     "id": "episode-283",
     "type": "episode",
-    "number": 283
+    "number": 283,
+    "title": "Everything is for Her Friends! Robin in the Darkness!"
   },
   {
     "id": "episode-284",
     "type": "episode",
-    "number": 284
+    "number": 284,
+    "title": "I'm Not Gonna Hand Over the Blueprints! Franky's Decision!"
   },
   {
     "id": "episode-285",
     "type": "episode",
-    "number": 285
+    "number": 285,
+    "title": "Obtain the 5 Keys! The Straw Hat Pirates vs. CP9!"
   },
   {
     "id": "episode-286",
     "type": "episode",
-    "number": 286
+    "number": 286,
+    "title": "Devil Fruit Powers! Kaku and Jabra Transform!"
   },
   {
     "id": "episode-287",
     "type": "episode",
-    "number": 287
+    "number": 287,
+    "title": "I Won't Kick Even If It Costs Me My Life! Sanji's Chivalry!"
   },
   {
     "id": "episode-288",
     "type": "episode",
-    "number": 288
+    "number": 288,
+    "title": "Fukurou's Miscalculation! My Cola is the Water of Life!"
   },
   {
     "id": "episode-289",
     "type": "episode",
-    "number": 289
+    "number": 289,
+    "title": "Zoro Busts Out a New Technique! The Sword's Name is Sniperking?"
   },
   {
     "id": "episode-290",
     "type": "episode",
-    "number": 290
+    "number": 290,
+    "title": "Uncontrollable! Chopper's Forbidden Rumble!"
   },
   {
     "id": "episode-293",
     "type": "episode",
-    "number": 293
+    "number": 293,
+    "title": "Bubble Master Kalifa! The Soap Trap Closes in on Nami!"
   },
   {
     "id": "episode-294",
     "type": "episode",
-    "number": 294
+    "number": 294,
+    "title": "Resounding Bad News! The Buster Call Invoked!"
   },
   {
     "id": "episode-295",
     "type": "episode",
-    "number": 295
+    "number": 295,
+    "title": "Five Namis? Nami Strikes Back With Mirages!"
   },
   {
     "id": "episode-296",
     "type": "episode",
-    "number": 296
+    "number": 296,
+    "title": "Nami's Decision! Fire at the Out-Of-Control Chopper!"
   },
   {
     "id": "episode-297",
     "type": "episode",
-    "number": 297
+    "number": 297,
+    "title": "Hunter Sanji Makes An Entrance? Elegy for a Lying Wolf!"
   },
   {
     "id": "episode-298",
     "type": "episode",
-    "number": 298
+    "number": 298,
+    "title": "Fiery Kicks! Sanji's Full Course of Foot Techniques!"
   },
   {
     "id": "episode-299",
     "type": "episode",
-    "number": 299
+    "number": 299,
+    "title": "Fierce Sword Attacks! Zoro vs. Kaku, Powerful Sword Fighting Showdown!"
   },
   {
     "id": "episode-300",
     "type": "episode",
-    "number": 300
+    "number": 300,
+    "title": "Demon God Zoro! An Incarnation Of Asura Born From Fighting Spirit!"
   },
   {
     "id": "episode-301",
     "type": "episode",
-    "number": 301
+    "number": 301,
+    "title": "Spandam Frightened! The Hero on the Tower of Law!"
   },
   {
     "id": "episode-302",
     "type": "episode",
-    "number": 302
+    "number": 302,
+    "title": "Robin Freed! Luffy vs. Lucci, Showdown Between Leaders!"
   },
   {
     "id": "episode-304",
     "type": "episode",
-    "number": 304
+    "number": 304,
+    "title": "I Can't Protect Anyone Unless I Win! Third Gear Activated!"
   },
   {
     "id": "episode-305",
     "type": "episode",
-    "number": 305
+    "number": 305,
+    "title": "Shivering Past! Dark Justice and Rob Lucci!"
   },
   {
     "id": "episode-306",
     "type": "episode",
-    "number": 306
+    "number": 306,
+    "title": "A Mysterious Mermaid Appears? As Consciousness Fades Away..."
   },
   {
     "id": "episode-307",
     "type": "episode",
-    "number": 307
+    "number": 307,
+    "title": "Cannon Fire Sinks the Island! Franky's Lamentation!"
   },
   {
     "id": "episode-308",
     "type": "episode",
-    "number": 308
+    "number": 308,
+    "title": "Wait for Luffy! Mortal Combat on the Bridge of Hesitation!"
   },
   {
     "id": "episode-309",
     "type": "episode",
-    "number": 309
+    "number": 309,
+    "title": "Fists Full of Emotion! Luffy Unleashes Gatling with All His Might!"
   },
   {
     "id": "episode-310",
     "type": "episode",
-    "number": 310
+    "number": 310,
+    "title": "From the Sea, a Friend Arrives! The Straw Hats Share the Strongest Bond!"
   },
   {
     "id": "episode-311",
     "type": "episode",
-    "number": 311
+    "number": 311,
+    "title": "Everyone Makes a Great Escape! The Road to Victory is for the Pirates!"
   },
   {
     "id": "episode-312",
     "type": "episode",
-    "number": 312
+    "number": 312,
+    "title": "Thank You, Merry! Snow Falls over the Parting Sea!"
   },
   {
     "id": "episode-313",
     "type": "episode",
-    "number": 313
+    "number": 313,
+    "title": "Peace Interrupted! A Navy Vice Admiral with a Fist of Love!"
   },
   {
     "id": "episode-314",
     "type": "episode",
-    "number": 314
+    "number": 314,
+    "title": "The Strongest Family? Luffy's Father Revealed!"
   },
   {
     "id": "episode-315",
     "type": "episode",
-    "number": 315
+    "number": 315,
+    "title": "Its Name Is The New World! The Fate of the Grand Line!"
   },
   {
     "id": "episode-316",
     "type": "episode",
-    "number": 316
+    "number": 316,
+    "title": "Shanks Makes a Move! The Linchpin to the Reckless Era!"
   },
   {
     "id": "episode-317",
     "type": "episode",
-    "number": 317
+    "number": 317,
+    "title": "The Girl in Search of Her Yagara! Great Search in the City of Water!"
   },
   {
     "id": "episode-318",
     "type": "episode",
-    "number": 318
+    "number": 318,
+    "title": "Mothers are Strong! Zoro's Hectic Household Chores!"
   },
   {
     "id": "episode-319",
     "type": "episode",
-    "number": 319
+    "number": 319,
+    "title": "Sanji's Shock! Mysterious Old Man and His Super Yummy Cooking!"
   },
   {
     "id": "episode-320",
     "type": "episode",
-    "number": 320
+    "number": 320,
+    "title": "Everyone Finally Has A Bounty! A Pirate Group Worth Over Six Hundred Million!"
   },
   {
     "id": "episode-321",
     "type": "episode",
-    "number": 321
+    "number": 321,
+    "title": "The King of Animals that Overlooks the Sea! The Dream Ship Magnificently Completed!"
   },
   {
     "id": "episode-322",
     "type": "episode",
-    "number": 322
+    "number": 322,
+    "title": "Goodbye My Dear Underlings! Franky Departs!"
   },
   {
     "id": "episode-323",
     "type": "episode",
-    "number": 323
+    "number": 323,
+    "title": "Departing the City of Water! Usopp Mans Up and Brings Closure to the Duel!"
   },
   {
     "id": "episode-324",
     "type": "episode",
-    "number": 324
+    "number": 324,
+    "title": "Wanted Posters Make It Around the World! Celebrations in Their Hometowns as the Ship Moves Forward!"
   },
   {
     "id": "episode-325",
     "type": "episode",
-    "number": 325
+    "number": 325,
+    "title": "The Most Heinous Power! Blackbeard's Darkness Attacks Ace!"
   },
   {
     "id": "special-baroque-works-cover-story",
@@ -1732,297 +2054,356 @@
   {
     "id": "episode-326",
     "type": "episode",
-    "number": 326
+    "number": 326,
+    "title": "The Mysterious Band of Pirates! Sunny and the Dangerous Trap!"
   },
   {
     "id": "episode-327",
     "type": "episode",
-    "number": 327
+    "number": 327,
+    "title": "Sunny in a Pinch! Roar, Secret Superspeed Mecha!"
   },
   {
     "id": "episode-328",
     "type": "episode",
-    "number": 328
+    "number": 328,
+    "title": "The Dream Sinking in the New World! The Disillusioned Pirate, Puzzle!"
   },
   {
     "id": "episode-329",
     "type": "episode",
-    "number": 329
+    "number": 329,
+    "title": "The Assassins Attack! The Great Battle on Ice Begins!"
   },
   {
     "id": "episode-330",
     "type": "episode",
-    "number": 330
+    "number": 330,
+    "title": "The Staw Hat's Hard Battles! A Pirate Soul Risking It All for the Flag!"
   },
   {
     "id": "episode-331",
     "type": "episode",
-    "number": 331
+    "number": 331,
+    "title": "Hot Full Throttle! The Twin's Magnetic Power Drawing Near!"
   },
   {
     "id": "episode-332",
     "type": "episode",
-    "number": 332
+    "number": 332,
+    "title": "Mansion of Great Chaos! The Enraged Don and the Captured Crew!"
   },
   {
     "id": "episode-333",
     "type": "episode",
-    "number": 333
+    "number": 333,
+    "title": "The Return of the Phoenix! The Dream of the Pirate Flag Sworn to a Friend!"
   },
   {
     "id": "episode-334",
     "type": "episode",
-    "number": 334
+    "number": 334,
+    "title": "The Red Hot Decisive Battle! Luffy vs. The Scorching Don!"
   },
   {
     "id": "episode-335",
     "type": "episode",
-    "number": 335
+    "number": 335,
+    "title": "Waiting in the New World! Farewell to the Brave Pirates!"
   },
   {
     "id": "episode-336",
     "type": "episode",
-    "number": 336
+    "number": 336,
+    "title": "Chopperman to the Rescue! Protect the TV Station by the Shore!"
   },
   {
     "id": "episode-337",
     "type": "episode",
-    "number": 337
+    "number": 337,
+    "title": "Plunging into the Devil's Sea! The Mysterious Skeleton Floating in the Fog!"
   },
   {
     "id": "episode-338",
     "type": "episode",
-    "number": 338
+    "number": 338,
+    "title": "The Joy of Seeing People! The Gentleman Skeleton's True Identity!"
   },
   {
     "id": "episode-339",
     "type": "episode",
-    "number": 339
+    "number": 339,
+    "title": "One Unnatural Phenomenon After the Next! Disembarking on Thriller Bark!"
   },
   {
     "id": "episode-340",
     "type": "episode",
-    "number": 340
+    "number": 340,
+    "title": "The Man Called a Genius! Hogback Makes His Appearance!"
   },
   {
     "id": "episode-341",
     "type": "episode",
-    "number": 341
+    "number": 341,
+    "title": "Nami's in a Major Pinch! The Zombie Mansion and the Invisible Man!"
   },
   {
     "id": "episode-342",
     "type": "episode",
-    "number": 342
+    "number": 342,
+    "title": "The Zombie's Secret! Hogback's Nightmarish Laboratory!"
   },
   {
     "id": "episode-343",
     "type": "episode",
-    "number": 343
+    "number": 343,
+    "title": "His Name is Moria! The Great Shadow-Seizing Pirate's Trap!"
   },
   {
     "id": "episode-344",
     "type": "episode",
-    "number": 344
+    "number": 344,
+    "title": "Feast of the Zombie Song! The Night Raid's Bell is the Sound of Darkness!"
   },
   {
     "id": "episode-345",
     "type": "episode",
-    "number": 345
+    "number": 345,
+    "title": "A Bunch of Animals? Perona's Wonder Garden!"
   },
   {
     "id": "episode-346",
     "type": "episode",
-    "number": 346
+    "number": 346,
+    "title": "The Vanishing Straw Hat Crew! A Mysterious Swordsman Appears!"
   },
   {
     "id": "episode-347",
     "type": "episode",
-    "number": 347
+    "number": 347,
+    "title": "Chivalry Remains! The Traitorous Zombie Protects Nami!"
   },
   {
     "id": "episode-348",
     "type": "episode",
-    "number": 348
+    "number": 348,
+    "title": "Appearing from the Sky! That Man Is the Humming Swordsman!"
   },
   {
     "id": "episode-349",
     "type": "episode",
-    "number": 349
+    "number": 349,
+    "title": "Luffy's Emergency Situation! The Ultimate Shadow's Destination!"
   },
   {
     "id": "episode-350",
     "type": "episode",
-    "number": 350
+    "number": 350,
+    "title": "The Warrior Known As the Devil!! The Moment of Oars' Revival"
   },
   {
     "id": "episode-351",
     "type": "episode",
-    "number": 351
+    "number": 351,
+    "title": "Awakening After 500 Years!! Oars Opens His Eyes!!"
   },
   {
     "id": "episode-352",
     "type": "episode",
-    "number": 352
+    "number": 352,
+    "title": "A Belief Worth Begging to Live for!! Brook Defends His Afro"
   },
   {
     "id": "episode-353",
     "type": "episode",
-    "number": 353
+    "number": 353,
+    "title": "A Man's Promise Never Dies!! To the Friend Waiting Under the Distant Sky"
   },
   {
     "id": "episode-354",
     "type": "episode",
-    "number": 354
+    "number": 354,
+    "title": "I Swear to Go See Him! Brook and the Cape of Promise"
   },
   {
     "id": "episode-355",
     "type": "episode",
-    "number": 355
+    "number": 355,
+    "title": "Food, Nami and Shadows!! Luffy's Enraged Counterattack"
   },
   {
     "id": "episode-356",
     "type": "episode",
-    "number": 356
+    "number": 356,
+    "title": "Usopp's the Strongest? Leave Anything Negative to Him"
   },
   {
     "id": "episode-357",
     "type": "episode",
-    "number": 357
+    "number": 357,
+    "title": "The General Zombies Are Down in a Flash!! Oars Feels Like an Adventure!!"
   },
   {
     "id": "episode-358",
     "type": "episode",
-    "number": 358
+    "number": 358,
+    "title": "Blazing Knight Sanji!! Kick Down the Fake Wedding"
   },
   {
     "id": "episode-359",
     "type": "episode",
-    "number": 359
+    "number": 359,
+    "title": "A Clear-Clear History? Sanji's Stolen Dream"
   },
   {
     "id": "episode-360",
     "type": "episode",
-    "number": 360
+    "number": 360,
+    "title": "Save Me, Hero!! My Enemy Is the Immortal Princess"
   },
   {
     "id": "episode-361",
     "type": "episode",
-    "number": 361
+    "number": 361,
+    "title": "Perona Is Terrified!! Usopp and Untruthful Share the Same U"
   },
   {
     "id": "episode-362",
     "type": "episode",
-    "number": 362
+    "number": 362,
+    "title": "Slashes Dancing On the Rooftop!! Zoro vs. Ryuma's Showdown"
   },
   {
     "id": "episode-363",
     "type": "episode",
-    "number": 363
+    "number": 363,
+    "title": "Chopper Is Furious!! Hogback's Evil Medical Practices"
   },
   {
     "id": "episode-364",
     "type": "episode",
-    "number": 364
+    "number": 364,
+    "title": "Oars Roars! Come Out, Straw Hat Crew"
   },
   {
     "id": "episode-365",
     "type": "episode",
-    "number": 365
+    "number": 365,
+    "title": "Luffy Is the Enemy! The Ultimate Zombie vs. The Straw Hat Crew"
   },
   {
     "id": "episode-366",
     "type": "episode",
-    "number": 366
+    "number": 366,
+    "title": "You're Going Down, Absalom!! Nami's Lightning Attack of Friendship!!"
   },
   {
     "id": "episode-367",
     "type": "episode",
-    "number": 367
+    "number": 367,
+    "title": "Knock Him Down!! Special Attack: Straw Hat Docking?"
   },
   {
     "id": "episode-368",
     "type": "episode",
-    "number": 368
+    "number": 368,
+    "title": "The Silent Assault!! The Mysterious Visitor, Tyrant Kuma"
   },
   {
     "id": "episode-369",
     "type": "episode",
-    "number": 369
+    "number": 369,
+    "title": "Oars + Moria! The Most Heinous Combination of Brains and Brawn"
   },
   {
     "id": "episode-370",
     "type": "episode",
-    "number": 370
+    "number": 370,
+    "title": "The Secret Plan to Turn the Tables! Nightmare Luffy Makes His Appearance"
   },
   {
     "id": "episode-371",
     "type": "episode",
-    "number": 371
+    "number": 371,
+    "title": "The Straw Hat Crew Gets Wiped Out! The Shadow-Shadow's Powers in Full Swing"
   },
   {
     "id": "episode-372",
     "type": "episode",
-    "number": 372
+    "number": 372,
+    "title": "The Incredible Battle Starts! Luffy vs Luffy"
   },
   {
     "id": "episode-373",
     "type": "episode",
-    "number": 373
+    "number": 373,
+    "title": "The End of the Battle Is Nigh! Pound in the Finishing Move"
   },
   {
     "id": "episode-374",
     "type": "episode",
-    "number": 374
+    "number": 374,
+    "title": "Our Bodies Vanish! The Morning Sun Shines On the Nightmarish Island!"
   },
   {
     "id": "episode-375",
     "type": "episode",
-    "number": 375
+    "number": 375,
+    "title": "Not Out of Danger Yet! Orders to Annihilate the Straw Hat Crew"
   },
   {
     "id": "episode-376",
     "type": "episode",
-    "number": 376
+    "number": 376,
+    "title": "It Repels Everything! Kuma's Paw-Paw Power!"
   },
   {
     "id": "episode-377",
     "type": "episode",
-    "number": 377
+    "number": 377,
+    "title": "The Pain of My Crewmates Is My Pain! Zoro's Desperate Fight!"
   },
   {
     "id": "episode-378",
     "type": "episode",
-    "number": 378
+    "number": 378,
+    "title": "The Promise from a Distant Day! The Pirates' Song and a Small Whale!"
   },
   {
     "id": "episode-379",
     "type": "episode",
-    "number": 379
+    "number": 379,
+    "title": "Brook's Past! A Sad Farewell with His Cheerful Comrade!"
   },
   {
     "id": "episode-380",
     "type": "episode",
-    "number": 380
+    "number": 380,
+    "title": "Bink's Booze! The Song that Connects the Past with the Present!"
   },
   {
     "id": "episode-381",
     "type": "episode",
-    "number": 381
+    "number": 381,
+    "title": "A New Crewmate! The Musician, Humming Brook!"
   },
   {
     "id": "episode-382",
     "type": "episode",
-    "number": 382
+    "number": 382,
+    "title": "The Slow-Slow Menace! 'Silver Fox' Foxy Returns!"
   },
   {
     "id": "episode-383",
     "type": "episode",
-    "number": 383
+    "number": 383,
+    "title": "The Great Scramble for Treasure! Collapse! Spa Island!"
   },
   {
     "id": "episode-384",
     "type": "episode",
-    "number": 384
+    "number": 384,
+    "title": "Brook's Great Struggle! Is the Path to Becoming a True Comrade Rigorous?"
   },
   {
     "id": "special-monsters-103-mercies-dragon-damnation",
@@ -2063,7 +2444,8 @@
   {
     "id": "episode-492",
     "type": "episode",
-    "number": 492
+    "number": 492,
+    "title": "The Strongest Tag-Team! Luffy and Toriko's Hard Struggle!"
   },
   {
     "id": "special-water-7-cover-story",
@@ -2074,332 +2456,398 @@
   {
     "id": "episode-385",
     "type": "episode",
-    "number": 385
+    "number": 385,
+    "title": "Arriving at Halfway Through the Grand Line! The Red Line"
   },
   {
     "id": "episode-386",
     "type": "episode",
-    "number": 386
+    "number": 386,
+    "title": "Hatred of the Straw Hat Crew: Enter Iron Mask Duval"
   },
   {
     "id": "episode-387",
     "type": "episode",
-    "number": 387
+    "number": 387,
+    "title": "The Fated Reunion! Save the Imprisoned Fish-man"
   },
   {
     "id": "episode-388",
     "type": "episode",
-    "number": 388
+    "number": 388,
+    "title": "Tragedy! The Truth of the Unmasked Duval"
   },
   {
     "id": "episode-389",
     "type": "episode",
-    "number": 389
+    "number": 389,
+    "title": "Explosion! The Sunny's Super Secret Weapon: Gaon Cannon"
   },
   {
     "id": "episode-390",
     "type": "episode",
-    "number": 390
+    "number": 390,
+    "title": "Landing to Get to Fish-man Island: The Sabaody Archipelago"
   },
   {
     "id": "episode-391",
     "type": "episode",
-    "number": 391
+    "number": 391,
+    "title": "Tyranny! The Rulers of Sabaody, the Celestial Dragons"
   },
   {
     "id": "episode-392",
     "type": "episode",
-    "number": 392
+    "number": 392,
+    "title": "New Rivals Gather! The 11 Supernovas"
   },
   {
     "id": "episode-393",
     "type": "episode",
-    "number": 393
+    "number": 393,
+    "title": "The Target is Camie! The Looming Clutches of a Professional Kidnapper"
   },
   {
     "id": "episode-394",
     "type": "episode",
-    "number": 394
+    "number": 394,
+    "title": "Rescue Camie! The Archipelago's Lingering Dark History"
   },
   {
     "id": "episode-395",
     "type": "episode",
-    "number": 395
+    "number": 395,
+    "title": "Time Limit: The Human Auction Begins"
   },
   {
     "id": "episode-396",
     "type": "episode",
-    "number": 396
+    "number": 396,
+    "title": "The Fist Explodes! Destroy the Auction"
   },
   {
     "id": "episode-397",
     "type": "episode",
-    "number": 397
+    "number": 397,
+    "title": "Major Panic! Desperate Struggle at the Auction House"
   },
   {
     "id": "episode-398",
     "type": "episode",
-    "number": 398
+    "number": 398,
+    "title": "Admiral Kizaru Takes Action! Sabaody Archipelago Thrown into Chaos"
   },
   {
     "id": "episode-399",
     "type": "episode",
-    "number": 399
+    "number": 399,
+    "title": "Break Through the Siege! The Navy vs. the Three Captains"
   },
   {
     "id": "episode-400",
     "type": "episode",
-    "number": 400
+    "number": 400,
+    "title": "Roger and Rayleigh: The King of the Pirates and His Right Hand Man"
   },
   {
     "id": "episode-401",
     "type": "episode",
-    "number": 401
+    "number": 401,
+    "title": "No Escape!? Admiral Kizaru's Light Speed Kick!!"
   },
   {
     "id": "episode-402",
     "type": "episode",
-    "number": 402
+    "number": 402,
+    "title": "Overwhelming! The Navy's Fighting Weapons, the Pacifistas"
   },
   {
     "id": "episode-403",
     "type": "episode",
-    "number": 403
+    "number": 403,
+    "title": "An Even Stronger Enemy Appears! The Battle Axe-Carrying Sentomaru"
   },
   {
     "id": "episode-404",
     "type": "episode",
-    "number": 404
+    "number": 404,
+    "title": "Admiral Kizaru's Fierce Assault! The Straw Hats Face Certain Death!"
   },
   {
     "id": "episode-405",
     "type": "episode",
-    "number": 405
+    "number": 405,
+    "title": "Eliminated Friends: The Final Day of the Straw Hat Crew"
   },
   {
     "id": "episode-408",
     "type": "episode",
-    "number": 408
+    "number": 408,
+    "title": "Landing! The All-Female Island, Amazon Lily"
   },
   {
     "id": "episode-409",
     "type": "episode",
-    "number": 409
+    "number": 409,
+    "title": "Hurry Back to Your Friends! The Maiden Island Adventure"
   },
   {
     "id": "episode-410",
     "type": "episode",
-    "number": 410
+    "number": 410,
+    "title": "Everyone Falls in Love! Pirate Empress Hancock"
   },
   {
     "id": "episode-411",
     "type": "episode",
-    "number": 411
+    "number": 411,
+    "title": "The Secret Hidden on the Backs \u2013 Luffy and the Snake Princess Meet"
   },
   {
     "id": "episode-412",
     "type": "episode",
-    "number": 412
+    "number": 412,
+    "title": "Heartless Judgment! Margaret is Turned to Stone!!"
   },
   {
     "id": "episode-413",
     "type": "episode",
-    "number": 413
+    "number": 413,
+    "title": "A Difficult Fight for Luffy! The Snake Sisters' Haki Power!!"
   },
   {
     "id": "episode-414",
     "type": "episode",
-    "number": 414
+    "number": 414,
+    "title": "All-Out Special Power Battle!! Gum-Gum vs. Snake-Snake"
   },
   {
     "id": "episode-415",
     "type": "episode",
-    "number": 415
+    "number": 415,
+    "title": "Hancock's Confession \u2013 The Sisters' Abhorrent Past"
   },
   {
     "id": "episode-416",
     "type": "episode",
-    "number": 416
+    "number": 416,
+    "title": "Saving Ace! The Next Stop: the Great Prison!"
   },
   {
     "id": "episode-417",
     "type": "episode",
-    "number": 417
+    "number": 417,
+    "title": "Love is a Hurricane! Hancock Madly in Love!"
   },
   {
     "id": "episode-418",
     "type": "episode",
-    "number": 418
+    "number": 418,
+    "title": "The Friends' Whereabouts \u2013 The Science of Weather and the Mechanical Island"
   },
   {
     "id": "episode-419",
     "type": "episode",
-    "number": 419
+    "number": 419,
+    "title": "The Friends' Whereabouts! An Island of Giant Birds and a Pink Paradise!"
   },
   {
     "id": "episode-420",
     "type": "episode",
-    "number": 420
+    "number": 420,
+    "title": "The Friends' Whereabouts \u2013 Bridging the Islands and Vicious Vegetations!"
   },
   {
     "id": "episode-421",
     "type": "episode",
-    "number": 421
+    "number": 421,
+    "title": "The Friends' Whereabouts! A Princess Negativity and the King of Demons!"
   },
   {
     "id": "episode-422",
     "type": "episode",
-    "number": 422
+    "number": 422,
+    "title": "A Deadly Infiltration! The Underwater Prison Impel Down!"
   },
   {
     "id": "episode-423",
     "type": "episode",
-    "number": 423
+    "number": 423,
+    "title": "A Reunion in Hell?! The Man Who Ate the Chop-Chop Fruit!"
   },
   {
     "id": "episode-424",
     "type": "episode",
-    "number": 424
+    "number": 424,
+    "title": "Break Through the Crimson Hell! Buggy's Chaos-Inducing Plan!"
   },
   {
     "id": "episode-425",
     "type": "episode",
-    "number": 425
+    "number": 425,
+    "title": "The Strongest Man in the Prison! Poison Man Magellan Appears!"
   },
   {
     "id": "episode-430",
     "type": "episode",
-    "number": 430
+    "number": 430,
+    "title": "The Imprisoned Warlord! Jinbei, Knight of the Sea!"
   },
   {
     "id": "episode-431",
     "type": "episode",
-    "number": 431
+    "number": 431,
+    "title": "Chief Jailer Saldeath's Trap! Level 3 - Starvation Hell!"
   },
   {
     "id": "episode-432",
     "type": "episode",
-    "number": 432
+    "number": 432,
+    "title": "The Unleashed Swan! A Reunion with Bon Clay!"
   },
   {
     "id": "episode-433",
     "type": "episode",
-    "number": 433
+    "number": 433,
+    "title": "Warden Magellan's Strategy! Straw Hat Entrapment Completed!"
   },
   {
     "id": "episode-434",
     "type": "episode",
-    "number": 434
+    "number": 434,
+    "title": "All Forces Have Gathered! The Battle on Level 4 - The Burning Heat Hell!"
   },
   {
     "id": "episode-435",
     "type": "episode",
-    "number": 435
+    "number": 435,
+    "title": "Mighty Magellan! Bon Clay Bugs Out!"
   },
   {
     "id": "episode-436",
     "type": "episode",
-    "number": 436
+    "number": 436,
+    "title": "The Showdown Has Come! Luffy's Desperate Last Attack!"
   },
   {
     "id": "episode-437",
     "type": "episode",
-    "number": 437
+    "number": 437,
+    "title": "For His Friend! Bon Clay Goes to the Deadly Rescue!"
   },
   {
     "id": "episode-438",
     "type": "episode",
-    "number": 438
+    "number": 438,
+    "title": "A Paradise in Hell! Impel Down - Level 5.5!"
   },
   {
     "id": "episode-439",
     "type": "episode",
-    "number": 439
+    "number": 439,
+    "title": "Luffy's Treatment Begins! Ivan-san's Miraculous Power!"
   },
   {
     "id": "episode-440",
     "type": "episode",
-    "number": 440
+    "number": 440,
+    "title": "Believe in Miracles! Bon Clay's Cries From the Heart!"
   },
   {
     "id": "episode-441",
     "type": "episode",
-    "number": 441
+    "number": 441,
+    "title": "Luffy's Back! Ivan-san Begins the Breakout Plan!"
   },
   {
     "id": "episode-442",
     "type": "episode",
-    "number": 442
+    "number": 442,
+    "title": "Ace's Convoy Begins! Battle on the Lowest Floor - Level 6!"
   },
   {
     "id": "episode-443",
     "type": "episode",
-    "number": 443
+    "number": 443,
+    "title": "The Ultimate Team Has Formed! Shaking Impel Down!"
   },
   {
     "id": "episode-444",
     "type": "episode",
-    "number": 444
+    "number": 444,
+    "title": "Even More Chaos! Here Comes Blackbeard Teach!"
   },
   {
     "id": "episode-445",
     "type": "episode",
-    "number": 445
+    "number": 445,
+    "title": "The Dangerous Encounter! Blackbeard and Shiryu of the Rain!"
   },
   {
     "id": "episode-446",
     "type": "episode",
-    "number": 446
+    "number": 446,
+    "title": "No Price Too High! Serious Hannyabal!"
   },
   {
     "id": "episode-447",
     "type": "episode",
-    "number": 447
+    "number": 447,
+    "title": "Jet Pistol of Anger! Luffy vs. Blackbeard!"
   },
   {
     "id": "episode-448",
     "type": "episode",
-    "number": 448
+    "number": 448,
+    "title": "Stop Magellan! Ivan-san's Esoteric Technique Explodes!"
   },
   {
     "id": "episode-449",
     "type": "episode",
-    "number": 449
+    "number": 449,
+    "title": "Magellan's Tricky Move! A Foiled Escape Plan!"
   },
   {
     "id": "episode-450",
     "type": "episode",
-    "number": 450
+    "number": 450,
+    "title": "The Escapee Team in Trouble! The Forbidden Move: Venom Demon!"
   },
   {
     "id": "episode-451",
     "type": "episode",
-    "number": 451
+    "number": 451,
+    "title": "Come, Final Miracle! Break Through the Gate of Justice!"
   },
   {
     "id": "episode-452",
     "type": "episode",
-    "number": 452
+    "number": 452,
+    "title": "To the Navy Headquarters! Off to Rescue Ace!"
   },
   {
     "id": "episode-453",
     "type": "episode",
-    "number": 453
+    "number": 453,
+    "title": "The Friends' Whereabouts! The Weatheria Report and the Cyborg Animals!"
   },
   {
     "id": "episode-454",
     "type": "episode",
-    "number": 454
+    "number": 454,
+    "title": "The Friends' Whereabouts! A Cheeper of Giant Birds and a Pink Showdown!"
   },
   {
     "id": "episode-455",
     "type": "episode",
-    "number": 455
+    "number": 455,
+    "title": "The Friends' Whereabouts! Revolutionaries and the Gorging Forest's Trap"
   },
   {
     "id": "episode-456",
     "type": "episode",
-    "number": 456
+    "number": 456,
+    "title": "The Friends' Whereabouts! A Huge Tomb and the Panty Debt!"
   },
   {
     "id": "special-strong-world-episode-0",
@@ -2410,22 +2858,26 @@
   {
     "id": "episode-426",
     "type": "episode",
-    "number": 426
+    "number": 426,
+    "title": "A Special Presentation Related to the Movie! A Gold Lion's Ambition on the Move!"
   },
   {
     "id": "episode-427",
     "type": "episode",
-    "number": 427
+    "number": 427,
+    "title": "A Special Presentation Related to the Movie! Little East Blue in Danger!"
   },
   {
     "id": "episode-428",
     "type": "episode",
-    "number": 428
+    "number": 428,
+    "title": "A Special Presentation Related to the Movie! The Fierce Onslaught of the Amigo Pirates!"
   },
   {
     "id": "episode-429",
     "type": "episode",
-    "number": 429
+    "number": 429,
+    "title": "A Special Presentation Related to the Movie! Decisive battle! Luffy vs. Largo"
   },
   {
     "id": "movie-movie-10-strong-world",
@@ -2436,297 +2888,356 @@
   {
     "id": "episode-457",
     "type": "episode",
-    "number": 457
+    "number": 457,
+    "title": "A Special Retrospective Before Marineford! The Vow of the Brotherhood!"
   },
   {
     "id": "episode-458",
     "type": "episode",
-    "number": 458
+    "number": 458,
+    "title": "A Special Retrospective Before Marineford! The Three Navy Admirals Come Together!"
   },
   {
     "id": "episode-459",
     "type": "episode",
-    "number": 459
+    "number": 459,
+    "title": "Ticking Down to the Time of Battle! The Navy's Strongest Lineup in Position!"
   },
   {
     "id": "episode-460",
     "type": "episode",
-    "number": 460
+    "number": 460,
+    "title": "A Vast Fleet Appears! Here Come the Whitebeard Pirates!"
   },
   {
     "id": "episode-461",
     "type": "episode",
-    "number": 461
+    "number": 461,
+    "title": "The Beginning of the War! Ace and Whitebeard's Past!"
   },
   {
     "id": "episode-462",
     "type": "episode",
-    "number": 462
+    "number": 462,
+    "title": "The Force That Could Destroy the World! The Power of the Tremor-Tremor Fruit!"
   },
   {
     "id": "episode-463",
     "type": "episode",
-    "number": 463
+    "number": 463,
+    "title": "An All-Consuming Inferno!! Admiral Akainu's Power!"
   },
   {
     "id": "episode-464",
     "type": "episode",
-    "number": 464
+    "number": 464,
+    "title": "A Descendant of the Beast! Little Oars Jr. - Full Speed Ahead!"
   },
   {
     "id": "episode-465",
     "type": "episode",
-    "number": 465
+    "number": 465,
+    "title": "Justice For the Winners! Sengoku's Strategy in Action!"
   },
   {
     "id": "episode-466",
     "type": "episode",
-    "number": 466
+    "number": 466,
+    "title": "Straw Hat Team Arrives! Tension Grows at the Battlefield"
   },
   {
     "id": "episode-467",
     "type": "episode",
-    "number": 467
+    "number": 467,
+    "title": "Even If It Means Death! Luffy vs. the Navy; The Battle Starts!"
   },
   {
     "id": "episode-468",
     "type": "episode",
-    "number": 468
+    "number": 468,
+    "title": "Hard Battles, One After Another! Devil Fruit Users vs. Devil Fruit Users!"
   },
   {
     "id": "episode-469",
     "type": "episode",
-    "number": 469
+    "number": 469,
+    "title": "Kuma's Transformation! Ivan-san's Blow of Anger!"
   },
   {
     "id": "episode-470",
     "type": "episode",
-    "number": 470
+    "number": 470,
+    "title": "The Great Swordsman Mihawk! Luffy Comes Under the Attack of the Black Sword!"
   },
   {
     "id": "episode-471",
     "type": "episode",
-    "number": 471
+    "number": 471,
+    "title": "The Extermination Strategy in Action! The Power of the Pacifistas!"
   },
   {
     "id": "episode-472",
     "type": "episode",
-    "number": 472
+    "number": 472,
+    "title": "Akainu's Plot! Whitebeard Entrapped!"
   },
   {
     "id": "episode-473",
     "type": "episode",
-    "number": 473
+    "number": 473,
+    "title": "The Encircling Walls Activated! The Whitebeard Pirates Backed into a Corner!!"
   },
   {
     "id": "episode-474",
     "type": "episode",
-    "number": 474
+    "number": 474,
+    "title": "Execution Order Issued! Break Through the Encircling Walls!"
   },
   {
     "id": "episode-475",
     "type": "episode",
-    "number": 475
+    "number": 475,
+    "title": "Moving Into the Final Phase! Whitebeard's Trump Card for Recovery!"
   },
   {
     "id": "episode-476",
     "type": "episode",
-    "number": 476
+    "number": 476,
+    "title": "Luffy at the End of his Tether! An All-Out Battle at the Oris Plaza!"
   },
   {
     "id": "episode-477",
     "type": "episode",
-    "number": 477
+    "number": 477,
+    "title": "The Power That Will Shorten One's Life! Energy Hormone, Redux!"
   },
   {
     "id": "episode-478",
     "type": "episode",
-    "number": 478
+    "number": 478,
+    "title": "To Live Up to a Promise! Luffy and Coby Collide!"
   },
   {
     "id": "episode-479",
     "type": "episode",
-    "number": 479
+    "number": 479,
+    "title": "The Scaffold at Last! The Way to Ace Has Opened!"
   },
   {
     "id": "episode-480",
     "type": "episode",
-    "number": 480
+    "number": 480,
+    "title": "Each on Different Paths! Luffy vs. Garp!"
   },
   {
     "id": "episode-481",
     "type": "episode",
-    "number": 481
+    "number": 481,
+    "title": "Ace Rescued! Whitebeard's Final Order!"
   },
   {
     "id": "episode-482",
     "type": "episode",
-    "number": 482
+    "number": 482,
+    "title": "The Power That Can Burn Even Fire! Akainu's Ruthless Pursuit!"
   },
   {
     "id": "episode-483",
     "type": "episode",
-    "number": 483
+    "number": 483,
+    "title": "Looking for the Answer! Fire Fist Ace Dies on the Battlefield!"
   },
   {
     "id": "episode-484",
     "type": "episode",
-    "number": 484
+    "number": 484,
+    "title": "The Navy Headquarters Falls! Whitebeard's Unspeakable Wrath!"
   },
   {
     "id": "episode-485",
     "type": "episode",
-    "number": 485
+    "number": 485,
+    "title": "Ending the Matter! Whitebeard vs. The Blackbeard Pirates!"
   },
   {
     "id": "episode-486",
     "type": "episode",
-    "number": 486
+    "number": 486,
+    "title": "The Show Begins! Blackbeard's Plot is Revealed!"
   },
   {
     "id": "episode-487",
     "type": "episode",
-    "number": 487
+    "number": 487,
+    "title": "The Insatiable Akainu! Lava Fists Pummel Luffy!"
   },
   {
     "id": "episode-488",
     "type": "episode",
-    "number": 488
+    "number": 488,
+    "title": "The Desperate Scream! Courageous Moments That Will Change the Future"
   },
   {
     "id": "episode-489",
     "type": "episode",
-    "number": 489
+    "number": 489,
+    "title": "Here Comes Shanks! The War of the Best is Finally Over!"
   },
   {
     "id": "episode-490",
     "type": "episode",
-    "number": 490
+    "number": 490,
+    "title": "Mighty Leaders Face Each Other Down! Heralding the New Era!"
   },
   {
     "id": "episode-491",
     "type": "episode",
-    "number": 491
+    "number": 491,
+    "title": "Landing at the Maiden Island! The Harsh Reality Falls Upon Luffy!"
   },
   {
     "id": "episode-493",
     "type": "episode",
-    "number": 493
+    "number": 493,
+    "title": "Luffy and Ace! The Story of How the Brothers Met!"
   },
   {
     "id": "episode-494",
     "type": "episode",
-    "number": 494
+    "number": 494,
+    "title": "Here Comes Sabo! The Boy at the Gray Terminal!"
   },
   {
     "id": "episode-495",
     "type": "episode",
-    "number": 495
+    "number": 495,
+    "title": "I Won't Run! Ace's Desperate Rescue Operation!"
   },
   {
     "id": "episode-496",
     "type": "episode",
-    "number": 496
+    "number": 496,
+    "title": "To The Sea Someday! The Pledge of the Three Brats!"
   },
   {
     "id": "episode-497",
     "type": "episode",
-    "number": 497
+    "number": 497,
+    "title": "Leaving the Dadan Family for Good?! The Kids' Hideout Has Been Built!"
   },
   {
     "id": "episode-498",
     "type": "episode",
-    "number": 498
+    "number": 498,
+    "title": "Luffy Becoming an Apprentice?! A Man Who Fought Against the King of the Pirates!"
   },
   {
     "id": "episode-499",
     "type": "episode",
-    "number": 499
+    "number": 499,
+    "title": "The Battle against the Big Tiger! Who is Going to be Captain?!"
   },
   {
     "id": "episode-500",
     "type": "episode",
-    "number": 500
+    "number": 500,
+    "title": "Freedom Taken Away! The Nobles' Plot Closing in on the Brothers!"
   },
   {
     "id": "episode-501",
     "type": "episode",
-    "number": 501
+    "number": 501,
+    "title": "The Fire Has Been Set! The Gray Terminal in Crisis!"
   },
   {
     "id": "episode-502",
     "type": "episode",
-    "number": 502
+    "number": 502,
+    "title": "Where can freedom be found? A Sad Departure of a Boy!"
   },
   {
     "id": "episode-503",
     "type": "episode",
-    "number": 503
+    "number": 503,
+    "title": "Take Good Care of Him! A Letter from the Brother!"
   },
   {
     "id": "episode-504",
     "type": "episode",
-    "number": 504
+    "number": 504,
+    "title": "To Live Up to the Promise! Departures of Their Own!"
   },
   {
     "id": "episode-505",
     "type": "episode",
-    "number": 505
+    "number": 505,
+    "title": "I Want to See Them! Luffy's Mournful Cry!"
   },
   {
     "id": "episode-506",
     "type": "episode",
-    "number": 506
+    "number": 506,
+    "title": "Straw Hats in Shock! The Bad News Has Reached Them!"
   },
   {
     "id": "episode-507",
     "type": "episode",
-    "number": 507
+    "number": 507,
+    "title": "Reunited with Dark King Rayleigh! Decision Time for Luffy!"
   },
   {
     "id": "episode-508",
     "type": "episode",
-    "number": 508
+    "number": 508,
+    "title": "Back to Our Captain! A Jail Break at the Sky Island and the Incident on the Winter Island!"
   },
   {
     "id": "episode-509",
     "type": "episode",
-    "number": 509
+    "number": 509,
+    "title": "Encounter! The Great Swordsman Mihawk! Zoro's Self-Willed Deadly Struggle!"
   },
   {
     "id": "episode-510",
     "type": "episode",
-    "number": 510
+    "number": 510,
+    "title": "A Disaster for Sanji! The Queen's Return to the Kingdom!"
   },
   {
     "id": "episode-511",
     "type": "episode",
-    "number": 511
+    "number": 511,
+    "title": "Unexpected Relanding! Luffy, to Marineford!"
   },
   {
     "id": "episode-512",
     "type": "episode",
-    "number": 512
+    "number": 512,
+    "title": "With Hopes It Will Reach My Friends! Big News Spreading Fast!"
   },
   {
     "id": "episode-513",
     "type": "episode",
-    "number": 513
+    "number": 513,
+    "title": "Pirates Get on the Move! Astounding New World!"
   },
   {
     "id": "episode-514",
     "type": "episode",
-    "number": 514
+    "number": 514,
+    "title": "Living through Hell! Sanji's Fight for His Manhood!"
   },
   {
     "id": "episode-515",
     "type": "episode",
-    "number": 515
+    "number": 515,
+    "title": "I Will Get Much, Much Stronger! Zoro's Pledge to his Captain!"
   },
   {
     "id": "episode-516",
     "type": "episode",
-    "number": 516
+    "number": 516,
+    "title": "Luffy's Training Begins! To the Place We Promised in 2 Years!"
   },
   {
     "id": "special-tv-special-4-end-of-year-special-project-the-detective-memoirs-of-chief",
@@ -2737,27 +3248,32 @@
   {
     "id": "episode-291",
     "type": "episode",
-    "number": 291
+    "number": 291,
+    "title": "Boss Luffy Returns! Is It a Dream or Reality? Lottery Ruckus!"
   },
   {
     "id": "episode-292",
     "type": "episode",
-    "number": 292
+    "number": 292,
+    "title": "A Big Rice Cake Tossing Race at the Castle! Red Nose's Plot!"
   },
   {
     "id": "episode-303",
     "type": "episode",
-    "number": 303
+    "number": 303,
+    "title": "Boss Luffy is the Culprit? Track Down the Missing Great Cherry Tree!"
   },
   {
     "id": "episode-406",
     "type": "episode",
-    "number": 406
+    "number": 406,
+    "title": "Feudal Era Side Story: Boss Luffy Appears Again"
   },
   {
     "id": "episode-407",
     "type": "episode",
-    "number": 407
+    "number": 407,
+    "title": "Feudal Era Side Story: Defeat Thriller Company's Trap"
   },
   {
     "id": "special-tv-special-12-episode-of-east-blue",
@@ -2792,32 +3308,38 @@
   {
     "id": "episode-517",
     "type": "episode",
-    "number": 517
+    "number": 517,
+    "title": "The Beginning of The New Chapter! The Straw Hats Reunited!"
   },
   {
     "id": "episode-518",
     "type": "episode",
-    "number": 518
+    "number": 518,
+    "title": "An Explosive Situation! Luffy vs. Fake Luffy!"
   },
   {
     "id": "episode-519",
     "type": "episode",
-    "number": 519
+    "number": 519,
+    "title": "The Navy Has Set Out! The Straw Hats in Danger!"
   },
   {
     "id": "episode-520",
     "type": "episode",
-    "number": 520
+    "number": 520,
+    "title": "Big Guns Assembled! The Danger of the Fake Straw Hats!"
   },
   {
     "id": "episode-521",
     "type": "episode",
-    "number": 521
+    "number": 521,
+    "title": "The Battle is on! Show Them What You Got From Training!"
   },
   {
     "id": "episode-522",
     "type": "episode",
-    "number": 522
+    "number": 522,
+    "title": "Everyone Together! Luffy, Setting Out for the New World!"
   },
   {
     "id": "special-one-piece-fan-letter",
@@ -2834,277 +3356,332 @@
   {
     "id": "episode-523",
     "type": "episode",
-    "number": 523
+    "number": 523,
+    "title": "A Surprising Fact! The Man Who Guarded the Sunny!"
   },
   {
     "id": "episode-524",
     "type": "episode",
-    "number": 524
+    "number": 524,
+    "title": "Deadly Combat under the Sea! The Demon of the Ocean Strikes!"
   },
   {
     "id": "episode-525",
     "type": "episode",
-    "number": 525
+    "number": 525,
+    "title": "Lost in the Deep Sea! The Straw Hats Get Separated!"
   },
   {
     "id": "episode-526",
     "type": "episode",
-    "number": 526
+    "number": 526,
+    "title": "Undersea Volcanic Eruption! Drifting to the Fish-Man Island!"
   },
   {
     "id": "episode-527",
     "type": "episode",
-    "number": 527
+    "number": 527,
+    "title": "Landing at the Fish-Man Island! Beautiful Mermaids!"
   },
   {
     "id": "episode-528",
     "type": "episode",
-    "number": 528
+    "number": 528,
+    "title": "Excitement Blow-out! Sanji's Life Under Threat!"
   },
   {
     "id": "episode-529",
     "type": "episode",
-    "number": 529
+    "number": 529,
+    "title": "The Fish-Man Island Will Be Annihilated?! Sharley's Prophecy!"
   },
   {
     "id": "episode-530",
     "type": "episode",
-    "number": 530
+    "number": 530,
+    "title": "The King of the Fish-Man Island! Neptune, the God of the Sea!"
   },
   {
     "id": "episode-531",
     "type": "episode",
-    "number": 531
+    "number": 531,
+    "title": "Ryugu Palace! Taken by the Shark that They Saved!"
   },
   {
     "id": "episode-532",
     "type": "episode",
-    "number": 532
+    "number": 532,
+    "title": "A Coward and a Crybaby! The Princess in the Hard Shell Tower!"
   },
   {
     "id": "episode-533",
     "type": "episode",
-    "number": 533
+    "number": 533,
+    "title": "It's an Emergency! The Ryugu Palace is Occupied!"
   },
   {
     "id": "episode-534",
     "type": "episode",
-    "number": 534
+    "number": 534,
+    "title": "The Ryugu Palace in Shock! The Kidnapping of Shirahoshi!"
   },
   {
     "id": "episode-535",
     "type": "episode",
-    "number": 535
+    "number": 535,
+    "title": "Hordy's Onslaught! The Retaliatory Plan Set Into Motion!"
   },
   {
     "id": "episode-536",
     "type": "episode",
-    "number": 536
+    "number": 536,
+    "title": "The Battle in the Ryugu Palace! Zoro vs. Hordy!"
   },
   {
     "id": "episode-537",
     "type": "episode",
-    "number": 537
+    "number": 537,
+    "title": "Keep Shirahoshi Safe! Decken Close Behind!"
   },
   {
     "id": "episode-538",
     "type": "episode",
-    "number": 538
+    "number": 538,
+    "title": "The Straw Hats Defeated?! Hordy Gains Control of the Ryugu Palace!"
   },
   {
     "id": "episode-539",
     "type": "episode",
-    "number": 539
+    "number": 539,
+    "title": "The Haunting Ties! Nami and the Fish-Man Pirates!"
   },
   {
     "id": "episode-540",
     "type": "episode",
-    "number": 540
+    "number": 540,
+    "title": "A Hero Who Freed the Slaves! An Adventurer Tiger!"
   },
   {
     "id": "episode-541",
     "type": "episode",
-    "number": 541
+    "number": 541,
+    "title": "Kizaru Appears! A Trap to Catch Tiger!"
   },
   {
     "id": "episode-543",
     "type": "episode",
-    "number": 543
+    "number": 543,
+    "title": "The Death of a Hero! A Shocking Truth of Tiger!"
   },
   {
     "id": "episode-544",
     "type": "episode",
-    "number": 544
+    "number": 544,
+    "title": "The Sun Pirates Split! Jimbei vs Arlong!"
   },
   {
     "id": "episode-545",
     "type": "episode",
-    "number": 545
+    "number": 545,
+    "title": "Shaking Fish-Man Island! A Celestial Dragon Drifts In!"
   },
   {
     "id": "episode-546",
     "type": "episode",
-    "number": 546
+    "number": 546,
+    "title": "A Sudden Tragedy! A Gunshot Shuts Down the Future!"
   },
   {
     "id": "episode-547",
     "type": "episode",
-    "number": 547
+    "number": 547,
+    "title": "Back to the Present! Hordy Makes a Move!"
   },
   {
     "id": "episode-548",
     "type": "episode",
-    "number": 548
+    "number": 548,
+    "title": "The Kingdom Quivers - Neptune's Execution Command"
   },
   {
     "id": "episode-549",
     "type": "episode",
-    "number": 549
+    "number": 549,
+    "title": "A Rift Opens Up! Luffy vs. Jimbei!"
   },
   {
     "id": "episode-550",
     "type": "episode",
-    "number": 550
+    "number": 550,
+    "title": "Something Has Happened to Hordy! The True Power of the Evil Drug!"
   },
   {
     "id": "episode-551",
     "type": "episode",
-    "number": 551
+    "number": 551,
+    "title": "The Battle is on! At Conchcorde Plaza!"
   },
   {
     "id": "episode-552",
     "type": "episode",
-    "number": 552
+    "number": 552,
+    "title": "Surprising Confession! The Truth Behind the Assassination of Otohime!"
   },
   {
     "id": "episode-553",
     "type": "episode",
-    "number": 553
+    "number": 553,
+    "title": "Shirahoshi's Tears! Luffy Finally Shows Up!"
   },
   {
     "id": "episode-554",
     "type": "episode",
-    "number": 554
+    "number": 554,
+    "title": "A Great Clash! The Straw Hat Crew vs. 100,000 Enemies"
   },
   {
     "id": "episode-555",
     "type": "episode",
-    "number": 555
+    "number": 555,
+    "title": "Deadly Attacks One After Another! Zoro and Sanji Join The Battle!"
   },
   {
     "id": "episode-556",
     "type": "episode",
-    "number": 556
+    "number": 556,
+    "title": "Unveiled! The Secret Weapons of the Sunny!"
   },
   {
     "id": "episode-557",
     "type": "episode",
-    "number": 557
+    "number": 557,
+    "title": "Iron Pirate! Here Comes General Franky!"
   },
   {
     "id": "episode-558",
     "type": "episode",
-    "number": 558
+    "number": 558,
+    "title": "The Noah Closing in! The Fish-Man Island Facing Destruction!"
   },
   {
     "id": "episode-559",
     "type": "episode",
-    "number": 559
+    "number": 559,
+    "title": "Hurry up, Luffy! Shirahoshi's Life in Jeopardy!"
   },
   {
     "id": "episode-560",
     "type": "episode",
-    "number": 560
+    "number": 560,
+    "title": "The Fierce Fight Begins! Luffy vs. Hordy!"
   },
   {
     "id": "episode-561",
     "type": "episode",
-    "number": 561
+    "number": 561,
+    "title": "A Massive Confused Fight! The Straw Hats vs. the New Fish-Man Pirates!"
   },
   {
     "id": "episode-562",
     "type": "episode",
-    "number": 562
+    "number": 562,
+    "title": "Luffy Loses the Fight?! Hordy's Long Awaited Revenge!"
   },
   {
     "id": "episode-563",
     "type": "episode",
-    "number": 563
+    "number": 563,
+    "title": "A Shocking Fact! The True Identity of Hordy!"
   },
   {
     "id": "episode-564",
     "type": "episode",
-    "number": 564
+    "number": 564,
+    "title": "Back to Zero! Earnest Wishes for Luffy!"
   },
   {
     "id": "episode-565",
     "type": "episode",
-    "number": 565
+    "number": 565,
+    "title": "Luffy's All-Out Attack! Red Hawk Blasts!"
   },
   {
     "id": "episode-566",
     "type": "episode",
-    "number": 566
+    "number": 566,
+    "title": "Coming To An End! The Final Decisive Battle Against Hordy!"
   },
   {
     "id": "episode-567",
     "type": "episode",
-    "number": 567
+    "number": 567,
+    "title": "Stop, Noah! Desperate Elephant Gatling!"
   },
   {
     "id": "episode-568",
     "type": "episode",
-    "number": 568
+    "number": 568,
+    "title": "To the Future! The Path to the Sun!"
   },
   {
     "id": "episode-569",
     "type": "episode",
-    "number": 569
+    "number": 569,
+    "title": "The Secret Revealed! The Truth about the Ancient Weapon!"
   },
   {
     "id": "episode-570",
     "type": "episode",
-    "number": 570
+    "number": 570,
+    "title": "The Straw Hats Stunned! The New Fleet Admiral of the Navy!"
   },
   {
     "id": "episode-571",
     "type": "episode",
-    "number": 571
+    "number": 571,
+    "title": "She Loves Sweets! Big Mom of the Four Emperors!"
   },
   {
     "id": "episode-572",
     "type": "episode",
-    "number": 572
+    "number": 572,
+    "title": "Many Problems Lie Ahead! A Trap Awaiting in the New World!"
   },
   {
     "id": "episode-573",
     "type": "episode",
-    "number": 573
+    "number": 573,
+    "title": "Finally Time to Go! Goodbye, Fish-Man Island!"
   },
   {
     "id": "episode-574",
     "type": "episode",
-    "number": 574
+    "number": 574,
+    "title": "To the New World! Heading for the Ultimate Sea!"
   },
   {
     "id": "episode-575",
     "type": "episode",
-    "number": 575
+    "number": 575,
+    "title": "Z's Ambition! Lily the Little Giant!"
   },
   {
     "id": "episode-576",
     "type": "episode",
-    "number": 576
+    "number": 576,
+    "title": "Z's Ambition! A Dark and Powerful Army!"
   },
   {
     "id": "episode-577",
     "type": "episode",
-    "number": 577
+    "number": 577,
+    "title": "Z's Ambition! A Great and Desperate Escape Plan!"
   },
   {
     "id": "episode-578",
     "type": "episode",
-    "number": 578
+    "number": 578,
+    "title": "Z's Ambition! Luffy vs. Shuzo!"
   },
   {
     "id": "special-tv-special-7-episode-of-merry",
@@ -3139,7 +3716,8 @@
   {
     "id": "episode-542",
     "type": "episode",
-    "number": 542
+    "number": 542,
+    "title": "A Team is Formed! Save Chopper"
   },
   {
     "id": "special-tv-special-6-episode-of-luffy",
@@ -3168,237 +3746,284 @@
   {
     "id": "episode-590",
     "type": "episode",
-    "number": 590
+    "number": 590,
+    "title": "History's Strongest Collaboration vs. Glutton of the Sea"
   },
   {
     "id": "episode-579",
     "type": "episode",
-    "number": 579
+    "number": 579,
+    "title": "Arriving! A Burning Island - Punk Hazard!"
   },
   {
     "id": "episode-580",
     "type": "episode",
-    "number": 580
+    "number": 580,
+    "title": "A Battle in the Heat! Luffy vs. The Giant Dragon!"
   },
   {
     "id": "episode-581",
     "type": "episode",
-    "number": 581
+    "number": 581,
+    "title": "The Straw Hats Stunned! Enter: A Samurai's Horrifying Severed Head!"
   },
   {
     "id": "episode-582",
     "type": "episode",
-    "number": 582
+    "number": 582,
+    "title": "Startling! The Secret of the Island is Finally Revealed!"
   },
   {
     "id": "episode-583",
     "type": "episode",
-    "number": 583
+    "number": 583,
+    "title": "Save the Children! The Straw Hats Start to Fight!"
   },
   {
     "id": "episode-584",
     "type": "episode",
-    "number": 584
+    "number": 584,
+    "title": "A Swordplay Showdown! Brook vs. the Mysterious Torso Samurai!"
   },
   {
     "id": "episode-585",
     "type": "episode",
-    "number": 585
+    "number": 585,
+    "title": "The Warlord! Trafalgar Law!"
   },
   {
     "id": "episode-586",
     "type": "episode",
-    "number": 586
+    "number": 586,
+    "title": "In a Real Pinch! Luffy Sinks into the Ice-cold Lake!"
   },
   {
     "id": "episode-587",
     "type": "episode",
-    "number": 587
+    "number": 587,
+    "title": "A Collision! Law vs. Vice Admiral Smoker!"
   },
   {
     "id": "episode-588",
     "type": "episode",
-    "number": 588
+    "number": 588,
+    "title": "Meeting Again After Two Years! Luffy and Law!"
   },
   {
     "id": "episode-589",
     "type": "episode",
-    "number": 589
+    "number": 589,
+    "title": "The Worst in the World! A Scientist of Terror - Caesar!"
   },
   {
     "id": "episode-591",
     "type": "episode",
-    "number": 591
+    "number": 591,
+    "title": "Chopper's Fury! The Master's Inhumane Experiment!"
   },
   {
     "id": "episode-592",
     "type": "episode",
-    "number": 592
+    "number": 592,
+    "title": "To Annihilate the Straw Hats! Legendary Assassins Descend!"
   },
   {
     "id": "episode-593",
     "type": "episode",
-    "number": 593
+    "number": 593,
+    "title": "Save Nami! Luffy's Fight on the Snow-Capped Mountains!"
   },
   {
     "id": "episode-594",
     "type": "episode",
-    "number": 594
+    "number": 594,
+    "title": "Formed! Luffy and Law's Pirate Alliance!"
   },
   {
     "id": "episode-595",
     "type": "episode",
-    "number": 595
+    "number": 595,
+    "title": "Capture M! The Pirate Alliance's Operation Launches!"
   },
   {
     "id": "episode-596",
     "type": "episode",
-    "number": 596
+    "number": 596,
+    "title": "On the Verge of Annihilation! A Deadly Monster Comes Flying In!"
   },
   {
     "id": "episode-597",
     "type": "episode",
-    "number": 597
+    "number": 597,
+    "title": "An Intense Battle! Caesar Exercises His True Power!"
   },
   {
     "id": "episode-598",
     "type": "episode",
-    "number": 598
+    "number": 598,
+    "title": "A Samurai Who Can Cut Fire! Foxfire Kin'emon!"
   },
   {
     "id": "episode-599",
     "type": "episode",
-    "number": 599
+    "number": 599,
+    "title": "Shocking! The True Identity of the Mystery Man Vergo!"
   },
   {
     "id": "episode-600",
     "type": "episode",
-    "number": 600
+    "number": 600,
+    "title": "Save the Children! The Master's Evil Hands Close in!"
   },
   {
     "id": "episode-601",
     "type": "episode",
-    "number": 601
+    "number": 601,
+    "title": "Shaking Up the New World! Caesar's Horrendous Experiment!"
   },
   {
     "id": "episode-602",
     "type": "episode",
-    "number": 602
+    "number": 602,
+    "title": "The Deadliest Weapon of Mass Destruction in History! Shinokuni!"
   },
   {
     "id": "episode-603",
     "type": "episode",
-    "number": 603
+    "number": 603,
+    "title": "Launching the Counter Attack! Luffy and Law's Great Escape!"
   },
   {
     "id": "episode-604",
     "type": "episode",
-    "number": 604
+    "number": 604,
+    "title": "Get to Building R! The Pirate Alliance's Great Advance!"
   },
   {
     "id": "episode-605",
     "type": "episode",
-    "number": 605
+    "number": 605,
+    "title": "Tashigi's Tears! G-5's Desperate Breakthrough Plan!"
   },
   {
     "id": "episode-606",
     "type": "episode",
-    "number": 606
+    "number": 606,
+    "title": "The Treacherous Vice Admiral! Demon Bamboo Vergo!"
   },
   {
     "id": "episode-607",
     "type": "episode",
-    "number": 607
+    "number": 607,
+    "title": "A Fierce Battle Gets Heated! Luffy vs. Caesar!"
   },
   {
     "id": "episode-608",
     "type": "episode",
-    "number": 608
+    "number": 608,
+    "title": "A Mastermind Underground! Doflamingo Makes His Move!"
   },
   {
     "id": "episode-609",
     "type": "episode",
-    "number": 609
+    "number": 609,
+    "title": "Luffy Dies from Exposure?! The Spine-chilling Snow Woman Monet!"
   },
   {
     "id": "episode-610",
     "type": "episode",
-    "number": 610
+    "number": 610,
+    "title": "Fists Collide! A Battle of the Two Vice Admirals!"
   },
   {
     "id": "episode-611",
     "type": "episode",
-    "number": 611
+    "number": 611,
+    "title": "A Small Dragon! Momonosuke Appears!"
   },
   {
     "id": "episode-612",
     "type": "episode",
-    "number": 612
+    "number": 612,
+    "title": "A Deadly Fight in a Blizzard! The Straw Hats vs. The Snow Woman!"
   },
   {
     "id": "episode-613",
     "type": "episode",
-    "number": 613
+    "number": 613,
+    "title": "Showing Off His Techniques! Zoro's Formidable One-Sword Style!"
   },
   {
     "id": "episode-614",
     "type": "episode",
-    "number": 614
+    "number": 614,
+    "title": "To Save Her Friends! Mocha Runs at the Risk of Her Life!"
   },
   {
     "id": "episode-615",
     "type": "episode",
-    "number": 615
+    "number": 615,
+    "title": "Brownbeard in Grief! Luffy Lands a Furious Blow!"
   },
   {
     "id": "episode-616",
     "type": "episode",
-    "number": 616
+    "number": 616,
+    "title": "A Surprising Outcome! White Chase vs. Vergo!"
   },
   {
     "id": "episode-617",
     "type": "episode",
-    "number": 617
+    "number": 617,
+    "title": "Caesar's Defeat! The Powerful Grizzly Magnum!"
   },
   {
     "id": "episode-618",
     "type": "episode",
-    "number": 618
+    "number": 618,
+    "title": "Raid! An Assassin From Dressrosa!"
   },
   {
     "id": "episode-619",
     "type": "episode",
-    "number": 619
+    "number": 619,
+    "title": "Running Wild! Invincible General Franky!"
   },
   {
     "id": "episode-620",
     "type": "episode",
-    "number": 620
+    "number": 620,
+    "title": "A Critical Situation! Punk Hazard Explodes!"
   },
   {
     "id": "episode-621",
     "type": "episode",
-    "number": 621
+    "number": 621,
+    "title": "Capture Caesar! General Cannon Blasts!"
   },
   {
     "id": "episode-622",
     "type": "episode",
-    "number": 622
+    "number": 622,
+    "title": "A Touching Reunion! Momonosuke and Kin'emon!"
   },
   {
     "id": "episode-623",
     "type": "episode",
-    "number": 623
+    "number": 623,
+    "title": "It's Time to Say Goodbye! Leaving Punk Hazard!"
   },
   {
     "id": "episode-624",
     "type": "episode",
-    "number": 624
+    "number": 624,
+    "title": "The G-5 Wiped Out! Doflamingo's Sudden Attack!"
   },
   {
     "id": "episode-625",
     "type": "episode",
-    "number": 625
+    "number": 625,
+    "title": "Intense! Aokiji vs. Doflamingo!"
   },
   {
     "id": "special-caribou-cover-story",
@@ -3409,272 +4034,326 @@
   {
     "id": "episode-626",
     "type": "episode",
-    "number": 626
+    "number": 626,
+    "title": "Caesar Goes Missing! The Pirate Alliance Makes a Sortie!"
   },
   {
     "id": "episode-627",
     "type": "episode",
-    "number": 627
+    "number": 627,
+    "title": "Luffy Dies at Sea!? The Pirate Alliance Comes Apart!"
   },
   {
     "id": "episode-628",
     "type": "episode",
-    "number": 628
+    "number": 628,
+    "title": "A Major Turnaround! Luffy's Angry Iron Fist Strikes!"
   },
   {
     "id": "episode-629",
     "type": "episode",
-    "number": 629
+    "number": 629,
+    "title": "Startling! The Big News Shakes Up The New World!"
   },
   {
     "id": "episode-630",
     "type": "episode",
-    "number": 630
+    "number": 630,
+    "title": "Explore! A Kingdom of Love and Passion Dressrosa!"
   },
   {
     "id": "episode-631",
     "type": "episode",
-    "number": 631
+    "number": 631,
+    "title": "Full of Enthusiasm! The Corrida Colosseum!"
   },
   {
     "id": "episode-632",
     "type": "episode",
-    "number": 632
+    "number": 632,
+    "title": "A Dangerous Love! The Dancer Girl - Violet!"
   },
   {
     "id": "episode-633",
     "type": "episode",
-    "number": 633
+    "number": 633,
+    "title": "A Formidable, Unknown Warrior! Here Comes Lucy!"
   },
   {
     "id": "episode-634",
     "type": "episode",
-    "number": 634
+    "number": 634,
+    "title": "A Pirate Noble! Cavendish!"
   },
   {
     "id": "episode-635",
     "type": "episode",
-    "number": 635
+    "number": 635,
+    "title": "The Fateful Reunion! Bellamy the Hyena!"
   },
   {
     "id": "episode-636",
     "type": "episode",
-    "number": 636
+    "number": 636,
+    "title": "A Super Rookie! Bartolomeo the Cannibal!"
   },
   {
     "id": "episode-637",
     "type": "episode",
-    "number": 637
+    "number": 637,
+    "title": "Big Names Duke It Out! The Heated Block B Battle!"
   },
   {
     "id": "episode-638",
     "type": "episode",
-    "number": 638
+    "number": 638,
+    "title": "A Deadly Blow! The Astonishing King Punch!"
   },
   {
     "id": "episode-639",
     "type": "episode",
-    "number": 639
+    "number": 639,
+    "title": "The Fishing Fish Strike! Across the Deadly Iron Bridge!"
   },
   {
     "id": "episode-640",
     "type": "episode",
-    "number": 640
+    "number": 640,
+    "title": "Explore! Fairies' Island - Green Bit!"
   },
   {
     "id": "episode-641",
     "type": "episode",
-    "number": 641
+    "number": 641,
+    "title": "The Unknown World! The Tontatta Kingdom!"
   },
   {
     "id": "episode-642",
     "type": "episode",
-    "number": 642
+    "number": 642,
+    "title": "The Stratagem of the Century! Doflamingo Makes His Move!"
   },
   {
     "id": "episode-643",
     "type": "episode",
-    "number": 643
+    "number": 643,
+    "title": "Shaking Heaven and Earth! Admiral Fujitora's Power!"
   },
   {
     "id": "episode-644",
     "type": "episode",
-    "number": 644
+    "number": 644,
+    "title": "A Blow of Anger! A Giant vs. Lucy!"
   },
   {
     "id": "episode-645",
     "type": "episode",
-    "number": 645
+    "number": 645,
+    "title": "Destruction Cannon Blasts! Lucy in Trouble!"
   },
   {
     "id": "episode-646",
     "type": "episode",
-    "number": 646
+    "number": 646,
+    "title": "The Legendary Pirate! Don Chinjao!"
   },
   {
     "id": "episode-647",
     "type": "episode",
-    "number": 647
+    "number": 647,
+    "title": "Light and Shadow! Darkness behind Dressrosa!"
   },
   {
     "id": "episode-648",
     "type": "episode",
-    "number": 648
+    "number": 648,
+    "title": "Making a Sortie! The Legendary Hero Usoland!"
   },
   {
     "id": "episode-649",
     "type": "episode",
-    "number": 649
+    "number": 649,
+    "title": "The Fierce Battle Coming to the End! Lucy vs. Chinjao!"
   },
   {
     "id": "episode-650",
     "type": "episode",
-    "number": 650
+    "number": 650,
+    "title": "Luffy and the Gladiator of Fate - Rebecca!"
   },
   {
     "id": "episode-651",
     "type": "episode",
-    "number": 651
+    "number": 651,
+    "title": "Protect You to the End! Rebecca and the Toy Soldier!"
   },
   {
     "id": "episode-652",
     "type": "episode",
-    "number": 652
+    "number": 652,
+    "title": "The Last - and Bloodiest - Block! Block D Battle Begins!"
   },
   {
     "id": "episode-653",
     "type": "episode",
-    "number": 653
+    "number": 653,
+    "title": "A Decisive Battle! Giolla vs. the Straw Hats!"
   },
   {
     "id": "episode-654",
     "type": "episode",
-    "number": 654
+    "number": 654,
+    "title": "Beautiful Sword! Cavendish of the White Horse!"
   },
   {
     "id": "episode-655",
     "type": "episode",
-    "number": 655
+    "number": 655,
+    "title": "A Big Clash! Sanji vs. Doflamingo"
   },
   {
     "id": "episode-656",
     "type": "episode",
-    "number": 656
+    "number": 656,
+    "title": "Rebecca's Special Attack! Last-Ditch Sword Dance!"
   },
   {
     "id": "episode-657",
     "type": "episode",
-    "number": 657
+    "number": 657,
+    "title": "The Most Violent Fighter! Logan vs Rebecca!"
   },
   {
     "id": "episode-658",
     "type": "episode",
-    "number": 658
+    "number": 658,
+    "title": "A Big Surprise! The True Identity Of The Toy Soldier!"
   },
   {
     "id": "episode-659",
     "type": "episode",
-    "number": 659
+    "number": 659,
+    "title": "A Horrible Past! The Secret of Dressrosa"
   },
   {
     "id": "episode-660",
     "type": "episode",
-    "number": 660
+    "number": 660,
+    "title": "A Nightmare! The Tragic Night of Dressrosa!"
   },
   {
     "id": "episode-661",
     "type": "episode",
-    "number": 661
+    "number": 661,
+    "title": "A Showdown Between the Warlords! Law vs. Doflamingo!"
   },
   {
     "id": "episode-662",
     "type": "episode",
-    "number": 662
+    "number": 662,
+    "title": "Two Great Rivals Meet Each Other! Straw Hat and Heavenly Demon!"
   },
   {
     "id": "episode-663",
     "type": "episode",
-    "number": 663
+    "number": 663,
+    "title": "Luffy Astonished! The Man Who Inherits Ace's Will!"
   },
   {
     "id": "episode-664",
     "type": "episode",
-    "number": 664
+    "number": 664,
+    "title": "Operation SOP Starts! Usoland Charges Forth!"
   },
   {
     "id": "episode-665",
     "type": "episode",
-    "number": 665
+    "number": 665,
+    "title": "A Burning Passion! Rebecca vs. Suleiman!"
   },
   {
     "id": "episode-666",
     "type": "episode",
-    "number": 666
+    "number": 666,
+    "title": "The End of the Match?! A Surprising Result of Block D!"
   },
   {
     "id": "episode-667",
     "type": "episode",
-    "number": 667
+    "number": 667,
+    "title": "The Admiral's Decision! Fujitora vs. Doflamingo!"
   },
   {
     "id": "episode-668",
     "type": "episode",
-    "number": 668
+    "number": 668,
+    "title": "The Final Round Starts! Diamante The Hero Shows Up!"
   },
   {
     "id": "episode-669",
     "type": "episode",
-    "number": 669
+    "number": 669,
+    "title": "A Moving Castle! The Top Executive Pica Rises up!"
   },
   {
     "id": "episode-670",
     "type": "episode",
-    "number": 670
+    "number": 670,
+    "title": "Dragon Claw Strikes! Lucy's Intimidating Attack!"
   },
   {
     "id": "episode-671",
     "type": "episode",
-    "number": 671
+    "number": 671,
+    "title": "Defeat Sugar! The Army of the Little People Charges!"
   },
   {
     "id": "episode-672",
     "type": "episode",
-    "number": 672
+    "number": 672,
+    "title": "The Last Light of Hope! The Secret of Our Commander!"
   },
   {
     "id": "episode-673",
     "type": "episode",
-    "number": 673
+    "number": 673,
+    "title": "The Rupture Human! Gladius Blows Up Big Time!"
   },
   {
     "id": "episode-674",
     "type": "episode",
-    "number": 674
+    "number": 674,
+    "title": "A Liar! Usoland on the Run!"
   },
   {
     "id": "episode-675",
     "type": "episode",
-    "number": 675
+    "number": 675,
+    "title": "A Fateful Encounter! Kyros and King Riku!"
   },
   {
     "id": "episode-676",
     "type": "episode",
-    "number": 676
+    "number": 676,
+    "title": "Operation Failed! Usoland the Hero Dies!?"
   },
   {
     "id": "episode-677",
     "type": "episode",
-    "number": 677
+    "number": 677,
+    "title": "The Legend is Back! Kyros' All-Out Attack!"
   },
   {
     "id": "episode-678",
     "type": "episode",
-    "number": 678
+    "number": 678,
+    "title": "The Fire Fist Strikes! The Flare-Flare Fruit Power Returns!"
   },
   {
     "id": "episode-679",
     "type": "episode",
-    "number": 679
+    "number": 679,
+    "title": "Dashing onto the Scene! The Chief of Staff of the Revolutionary Army - Sabo!"
   },
   {
     "id": "special-tv-special-9-episode-of-sabo",
@@ -3685,302 +4364,362 @@
   {
     "id": "episode-680",
     "type": "episode",
-    "number": 680
+    "number": 680,
+    "title": "The Devil's Trap! A Dressrosa Extermination Plan!"
   },
   {
     "id": "episode-681",
     "type": "episode",
-    "number": 681
+    "number": 681,
+    "title": "The 500 Million Berry Man! Target: Usoland!"
   },
   {
     "id": "episode-682",
     "type": "episode",
-    "number": 682
+    "number": 682,
+    "title": "Breaking through Enemy Lines! Luffy and Zoro Launch the Counter-Attack!"
   },
   {
     "id": "episode-683",
     "type": "episode",
-    "number": 683
+    "number": 683,
+    "title": "With a Rumbling of the Ground! The God of Destruction - Giant Pica Descends!"
   },
   {
     "id": "episode-684",
     "type": "episode",
-    "number": 684
+    "number": 684,
+    "title": "Gathering into a Powerful Front! Luffy and a Group of Brutal Warriors!"
   },
   {
     "id": "episode-685",
     "type": "episode",
-    "number": 685
+    "number": 685,
+    "title": "Steady Progress! Luffy's Army vs. Pica!"
   },
   {
     "id": "episode-686",
     "type": "episode",
-    "number": 686
+    "number": 686,
+    "title": "A Shocking Confession! Law's Soulful Vow!"
   },
   {
     "id": "episode-687",
     "type": "episode",
-    "number": 687
+    "number": 687,
+    "title": "A Big Collision! Chief of Staff - Sabo vs. Admiral Fujitora!"
   },
   {
     "id": "episode-688",
     "type": "episode",
-    "number": 688
+    "number": 688,
+    "title": "A Desperate Situation! Luffy Gets Caught in a Trap!"
   },
   {
     "id": "episode-689",
     "type": "episode",
-    "number": 689
+    "number": 689,
+    "title": "A Great Escape! Luffy's Tide-turning Elephant Gun!"
   },
   {
     "id": "episode-690",
     "type": "episode",
-    "number": 690
+    "number": 690,
+    "title": "A United Front \u2013 Luffy's Breakthrough Towards Victory!"
   },
   {
     "id": "episode-691",
     "type": "episode",
-    "number": 691
+    "number": 691,
+    "title": "The Second Samurai \u2013 Evening Shower Kanjuro Appears"
   },
   {
     "id": "episode-692",
     "type": "episode",
-    "number": 692
+    "number": 692,
+    "title": "The Struggle with Pica \u2013 Zoro's One Finishing Move"
   },
   {
     "id": "episode-693",
     "type": "episode",
-    "number": 693
+    "number": 693,
+    "title": "The Little People's Princess! Captive Mansherry!"
   },
   {
     "id": "episode-694",
     "type": "episode",
-    "number": 694
+    "number": 694,
+    "title": "Invincible! A Gruesome Army of Headcracker Dolls!"
   },
   {
     "id": "episode-695",
     "type": "episode",
-    "number": 695
+    "number": 695,
+    "title": "Risking Their Lives! Luffy is the Trump Card for Victory!"
   },
   {
     "id": "episode-696",
     "type": "episode",
-    "number": 696
+    "number": 696,
+    "title": "A Tearful Reunion! Rebecca and Kyros!"
   },
   {
     "id": "episode-697",
     "type": "episode",
-    "number": 697
+    "number": 697,
+    "title": "One Shot One Kill! The Man Who Will Save Dressrosa!"
   },
   {
     "id": "episode-698",
     "type": "episode",
-    "number": 698
+    "number": 698,
+    "title": "Anger Erupts! Luffy and Law's Ultimate Stratagem!"
   },
   {
     "id": "episode-699",
     "type": "episode",
-    "number": 699
+    "number": 699,
+    "title": "A Noble Family! The True Identity of Doflamingo!"
   },
   {
     "id": "episode-700",
     "type": "episode",
-    "number": 700
+    "number": 700,
+    "title": "The Ultimate Power! The Secret of the Op-Op Fruit!"
   },
   {
     "id": "episode-701",
     "type": "episode",
-    "number": 701
+    "number": 701,
+    "title": "Sad Memories! Law, the Boy from the White Town!"
   },
   {
     "id": "episode-702",
     "type": "episode",
-    "number": 702
+    "number": 702,
+    "title": "A Celestial Dragon! Doffy's Stormy Past!"
   },
   {
     "id": "episode-703",
     "type": "episode",
-    "number": 703
+    "number": 703,
+    "title": "A Rocky Road! Law and Corazon's Journey of Life!"
   },
   {
     "id": "episode-704",
     "type": "episode",
-    "number": 704
+    "number": 704,
+    "title": "The Time is Ticking Down! Seize the Op-Op Fruit!"
   },
   {
     "id": "episode-705",
     "type": "episode",
-    "number": 705
+    "number": 705,
+    "title": "The Moment of Resolution! Corazon's Farewell Smile!"
   },
   {
     "id": "episode-706",
     "type": "episode",
-    "number": 706
+    "number": 706,
+    "title": "Advance, Law! The Kindhearted Man's Final Fight!"
   },
   {
     "id": "episode-707",
     "type": "episode",
-    "number": 707
+    "number": 707,
+    "title": "To Be Free! Law's Injection Shot Blasts!"
   },
   {
     "id": "episode-708",
     "type": "episode",
-    "number": 708
+    "number": 708,
+    "title": "An Intense Battle! Law vs. Doflamingo!"
   },
   {
     "id": "episode-709",
     "type": "episode",
-    "number": 709
+    "number": 709,
+    "title": "A Decisive Battle Against the Executives! Proud Hajrudin!"
   },
   {
     "id": "episode-710",
     "type": "episode",
-    "number": 710
+    "number": 710,
+    "title": "The Battle of Love! The New Leader Sai vs. Baby 5!"
   },
   {
     "id": "episode-711",
     "type": "episode",
-    "number": 711
+    "number": 711,
+    "title": "The Man's Pride! Bellamy's Last Charge!"
   },
   {
     "id": "episode-712",
     "type": "episode",
-    "number": 712
+    "number": 712,
+    "title": "A Strong Wind and a Surge! Hakuba vs. Dellinger!"
   },
   {
     "id": "episode-713",
     "type": "episode",
-    "number": 713
+    "number": 713,
+    "title": "Barrier-Barrier! Homage God Fist Strikes!"
   },
   {
     "id": "episode-714",
     "type": "episode",
-    "number": 714
+    "number": 714,
+    "title": "The Healing Princess! Save Mansherry!"
   },
   {
     "id": "episode-715",
     "type": "episode",
-    "number": 715
+    "number": 715,
+    "title": "The Manly Duel! Se\u00f1or's Elegy of Love!"
   },
   {
     "id": "episode-716",
     "type": "episode",
-    "number": 716
+    "number": 716,
+    "title": "Stardust of Death! Diamante's Storm of Vicious Attacks!"
   },
   {
     "id": "episode-717",
     "type": "episode",
-    "number": 717
+    "number": 717,
+    "title": "Trueno Bastardo! Kyros' Furious Strike!"
   },
   {
     "id": "episode-718",
     "type": "episode",
-    "number": 718
+    "number": 718,
+    "title": "Moving Across the Ground! The Giant Statue Pica's Surprise Maneuver!"
   },
   {
     "id": "episode-719",
     "type": "episode",
-    "number": 719
+    "number": 719,
+    "title": "A Decisive Battle in Midair! Zoro's New Special Secret Technique Blasts!"
   },
   {
     "id": "episode-720",
     "type": "episode",
-    "number": 720
+    "number": 720,
+    "title": "So Long! Bellamy's Farewell Blow!"
   },
   {
     "id": "episode-721",
     "type": "episode",
-    "number": 721
+    "number": 721,
+    "title": "Law Dies - Luffy's Raging Onslaught!"
   },
   {
     "id": "episode-722",
     "type": "episode",
-    "number": 722
+    "number": 722,
+    "title": "A Blade of Tenacity! The Gamma Knife Counterattack!"
   },
   {
     "id": "episode-723",
     "type": "episode",
-    "number": 723
+    "number": 723,
+    "title": "A Collision of Haki! Luffy vs. Doflamingo!"
   },
   {
     "id": "episode-724",
     "type": "episode",
-    "number": 724
+    "number": 724,
+    "title": "Unassailable! The Stunning Secret of Tr\u00e9bol!"
   },
   {
     "id": "episode-725",
     "type": "episode",
-    "number": 725
+    "number": 725,
+    "title": "Anger Erupts! I Will Take Everything upon Myself!"
   },
   {
     "id": "episode-726",
     "type": "episode",
-    "number": 726
+    "number": 726,
+    "title": "Fourth Gear! The Phenomenal Bounce-Man!"
   },
   {
     "id": "episode-727",
     "type": "episode",
-    "number": 727
+    "number": 727,
+    "title": "A Massive Counterattack! Doflamingo's Awakening!"
   },
   {
     "id": "episode-728",
     "type": "episode",
-    "number": 728
+    "number": 728,
+    "title": "Luffy! An All-Out Leo Bazooka!"
   },
   {
     "id": "episode-729",
     "type": "episode",
-    "number": 729
+    "number": 729,
+    "title": "Flame Dragon King! Protect Luffy's Life!"
   },
   {
     "id": "episode-730",
     "type": "episode",
-    "number": 730
+    "number": 730,
+    "title": "Tears of Miracles! Mansherry's Fight!"
   },
   {
     "id": "episode-731",
     "type": "episode",
-    "number": 731
+    "number": 731,
+    "title": "As Long as We Breathe! Stop the Deadly Birdcage!"
   },
   {
     "id": "episode-732",
     "type": "episode",
-    "number": 732
+    "number": 732,
+    "title": "Dead or Alive! A Fateful Countdown!"
   },
   {
     "id": "episode-733",
     "type": "episode",
-    "number": 733
+    "number": 733,
+    "title": "Attack on a Celestial! Luffy's King Kong Gun of Anger!"
   },
   {
     "id": "episode-734",
     "type": "episode",
-    "number": 734
+    "number": 734,
+    "title": "To Be Free! Dressrosa's Delight!"
   },
   {
     "id": "episode-735",
     "type": "episode",
-    "number": 735
+    "number": 735,
+    "title": "The Unheard-of! Admiral Fujitora's Surprising Decision!"
   },
   {
     "id": "episode-736",
     "type": "episode",
-    "number": 736
+    "number": 736,
+    "title": "Sending a Shock Wave! The Worst Generation Goes Into Action!"
   },
   {
     "id": "episode-737",
     "type": "episode",
-    "number": 737
+    "number": 737,
+    "title": "The Birth of the Legend! The Adventures of the Revolutionary Warrior Sabo!"
   },
   {
     "id": "episode-738",
     "type": "episode",
-    "number": 738
+    "number": 738,
+    "title": "The Brothers' Bond! The Untold Story Behind Luffy and Sabo's Reunion!"
   },
   {
     "id": "episode-739",
     "type": "episode",
-    "number": 739
+    "number": 739,
+    "title": "The Strongest Creature! One of the Four Emperors - Kaido, King of the Beasts!"
   },
   {
     "id": "special-jimbei-cover-story",
@@ -3991,37 +4730,44 @@
   {
     "id": "episode-740",
     "type": "episode",
-    "number": 740
+    "number": 740,
+    "title": "Fujitora Takes Action! The Complete Siege of the Straw Hats!"
   },
   {
     "id": "episode-741",
     "type": "episode",
-    "number": 741
+    "number": 741,
+    "title": "A State of Emergency! Rebecca Is Kidnapped!"
   },
   {
     "id": "episode-742",
     "type": "episode",
-    "number": 742
+    "number": 742,
+    "title": "The Bond Between Father and Daughter! Kyros and Rebecca!"
   },
   {
     "id": "episode-743",
     "type": "episode",
-    "number": 743
+    "number": 743,
+    "title": "Men's Pride! Luffy vs. Fujitora, Head-to-Head!"
   },
   {
     "id": "episode-744",
     "type": "episode",
-    "number": 744
+    "number": 744,
+    "title": "No Way Out! Admiral Fujitora's Ruthless Pursuit!"
   },
   {
     "id": "episode-745",
     "type": "episode",
-    "number": 745
+    "number": 745,
+    "title": "Sons' Cups! The Straw Hat Fleet is Formed!"
   },
   {
     "id": "episode-746",
     "type": "episode",
-    "number": 746
+    "number": 746,
+    "title": "The Numerous Rivals Struggle Amongst Themselves! The Raging Monsters of the New World"
   },
   {
     "id": "special-bounty-cover-story",
@@ -4032,22 +4778,26 @@
   {
     "id": "episode-747",
     "type": "episode",
-    "number": 747
+    "number": 747,
+    "title": "The Silver Fortress! Luffy and Barto's Great Adventure!"
   },
   {
     "id": "episode-748",
     "type": "episode",
-    "number": 748
+    "number": 748,
+    "title": "An Underground Maze! Luffy vs. the Tram Human!"
   },
   {
     "id": "episode-749",
     "type": "episode",
-    "number": 749
+    "number": 749,
+    "title": "The Sword Technique Heats Up! Law and Zoro Finally Appear!"
   },
   {
     "id": "episode-750",
     "type": "episode",
-    "number": 750
+    "number": 750,
+    "title": "A Desperate Situation! Luffy Fights a Battle in Extreme Heat!"
   },
   {
     "id": "special-tv-special-11-heart-of-gold",
@@ -4070,637 +4820,764 @@
   {
     "id": "episode-751",
     "type": "episode",
-    "number": 751
+    "number": 751,
+    "title": "Curtain-up on a New Adventure! Arriving at the Phantom Island, Zou!"
   },
   {
     "id": "episode-752",
     "type": "episode",
-    "number": 752
+    "number": 752,
+    "title": "The New Warlord! The Legendary Whitebeard's Son Appears!"
   },
   {
     "id": "episode-753",
     "type": "episode",
-    "number": 753
+    "number": 753,
+    "title": "A Deadly Elephant Climb! A Great Adventure on the Back of the Giant Elephant!"
   },
   {
     "id": "episode-754",
     "type": "episode",
-    "number": 754
+    "number": 754,
+    "title": "A Battle Begins! Luffy vs. the Mink Tribe!"
   },
   {
     "id": "episode-755",
     "type": "episode",
-    "number": 755
+    "number": 755,
+    "title": "Garchu! The Straw Hats Reunite!"
   },
   {
     "id": "episode-756",
     "type": "episode",
-    "number": 756
+    "number": 756,
+    "title": "Start to Counterattack! Great Moves by the Twirly Hat Crew!"
   },
   {
     "id": "episode-757",
     "type": "episode",
-    "number": 757
+    "number": 757,
+    "title": "A Threat Descends! The Beast Pirates, Jack!"
   },
   {
     "id": "episode-758",
     "type": "episode",
-    "number": 758
+    "number": 758,
+    "title": "The King of the Day! Duke Dogstorm Appears!"
   },
   {
     "id": "episode-759",
     "type": "episode",
-    "number": 759
+    "number": 759,
+    "title": "The King of the Night! Master Cat Viper Emerges!"
   },
   {
     "id": "episode-760",
     "type": "episode",
-    "number": 760
+    "number": 760,
+    "title": "The Exterminated Capital! The Twirly Hat Crew Arrive!"
   },
   {
     "id": "episode-761",
     "type": "episode",
-    "number": 761
+    "number": 761,
+    "title": "The Time Limit Closes in! The Bond Between the Mink Tribe and the Crew!"
   },
   {
     "id": "episode-762",
     "type": "episode",
-    "number": 762
+    "number": 762,
+    "title": "The Delinquent Comes Home! Emperor Big Mom's Assassins!"
   },
   {
     "id": "episode-763",
     "type": "episode",
-    "number": 763
+    "number": 763,
+    "title": "The Truth Behind the Disappearance! Sanji Gets a Startling Invitation!"
   },
   {
     "id": "episode-764",
     "type": "episode",
-    "number": 764
+    "number": 764,
+    "title": "To My Buds! Sanji's Farewell Note!"
   },
   {
     "id": "episode-765",
     "type": "episode",
-    "number": 765
+    "number": 765,
+    "title": "Let's Go and Meet Master Cat Viper!"
   },
   {
     "id": "episode-766",
     "type": "episode",
-    "number": 766
+    "number": 766,
+    "title": "Luffy's Decision! Sanji on the Brink of Quitting!"
   },
   {
     "id": "episode-767",
     "type": "episode",
-    "number": 767
+    "number": 767,
+    "title": "A Volatile Situation! The Dog and the Cat and the Samurai!"
   },
   {
     "id": "episode-768",
     "type": "episode",
-    "number": 768
+    "number": 768,
+    "title": "The Third One! Raizo of the Mist, the Ninja, Appears!"
   },
   {
     "id": "episode-769",
     "type": "episode",
-    "number": 769
+    "number": 769,
+    "title": "A Red Stone! A Guide to the One Piece!"
   },
   {
     "id": "episode-770",
     "type": "episode",
-    "number": 770
+    "number": 770,
+    "title": "The Secret of the Land of Wano! The Kozuki Family and the Ponegliffs!"
   },
   {
     "id": "episode-771",
     "type": "episode",
-    "number": 771
+    "number": 771,
+    "title": "A Vow Between Two Men! Luffy and Kozuki Momonosuke!"
   },
   {
     "id": "episode-772",
     "type": "episode",
-    "number": 772
+    "number": 772,
+    "title": "The Legendary Journey! The Dog and the Cat and the Pirate King!"
   },
   {
     "id": "episode-773",
     "type": "episode",
-    "number": 773
+    "number": 773,
+    "title": "The Nightmare Returns! The Invincible Jack's Fierce Attack!"
   },
   {
     "id": "episode-774",
     "type": "episode",
-    "number": 774
+    "number": 774,
+    "title": "A Battle to Defend Zou! Luffy and Zunesha!"
   },
   {
     "id": "episode-775",
     "type": "episode",
-    "number": 775
+    "number": 775,
+    "title": "Save Zunesha! The Straw Hat's Rescue Operation!"
   },
   {
     "id": "episode-776",
     "type": "episode",
-    "number": 776
+    "number": 776,
+    "title": "Saying Goodbye and Descending from the Elephant! Setting Out to Take Back Sanji!"
   },
   {
     "id": "episode-777",
     "type": "episode",
-    "number": 777
+    "number": 777,
+    "title": "To the Reverie! Princess Vivi and Princess Shirahoshi!"
   },
   {
     "id": "episode-778",
     "type": "episode",
-    "number": 778
+    "number": 778,
+    "title": "To the Reverie! Rebecca and the Sakura Kingdom!"
   },
   {
     "id": "episode-779",
     "type": "episode",
-    "number": 779
+    "number": 779,
+    "title": "Kaido Returns! An Imminent Threat to the Worst Generation!"
   },
   {
     "id": "episode-780",
     "type": "episode",
-    "number": 780
+    "number": 780,
+    "title": "A Hungry Front! Luffy and the Navy Rookies!"
   },
   {
     "id": "episode-781",
     "type": "episode",
-    "number": 781
+    "number": 781,
+    "title": "The Implacable Three! A Big Chase After the Straw Hats!"
   },
   {
     "id": "episode-782",
     "type": "episode",
-    "number": 782
+    "number": 782,
+    "title": "The Devil's Fist! A Show Down! Luffy vs. Grount!"
   },
   {
     "id": "episode-783",
     "type": "episode",
-    "number": 783
+    "number": 783,
+    "title": "Sanji's Homecoming! Into Big Mom's Territory!"
   },
   {
     "id": "episode-784",
     "type": "episode",
-    "number": 784
+    "number": 784,
+    "title": "Zero and Four! Encountering Germa 66!"
   },
   {
     "id": "episode-785",
     "type": "episode",
-    "number": 785
+    "number": 785,
+    "title": "A Deadly Poison Crisis! Luffy and Reiju!"
   },
   {
     "id": "episode-786",
     "type": "episode",
-    "number": 786
+    "number": 786,
+    "title": "Totto Land! Emperor Big Mom Appears!"
   },
   {
     "id": "episode-787",
     "type": "episode",
-    "number": 787
+    "number": 787,
+    "title": "The Emperor's Daughter! Sanji's Fianc\u00e9e \u2013 Pudding!"
   },
   {
     "id": "episode-788",
     "type": "episode",
-    "number": 788
+    "number": 788,
+    "title": "A Massive Attack! Mom's Hunger Pangs!"
   },
   {
     "id": "episode-789",
     "type": "episode",
-    "number": 789
+    "number": 789,
+    "title": "The Capital City Falls?! Big Mom and Jimbei!"
   },
   {
     "id": "episode-790",
     "type": "episode",
-    "number": 790
+    "number": 790,
+    "title": "The Emperor's Castle! Arriving at the Whole Cake Island!"
   },
   {
     "id": "episode-791",
     "type": "episode",
-    "number": 791
+    "number": 791,
+    "title": "A Mysterious Forest Full of Candies! Luffy vs. Luffy?!"
   },
   {
     "id": "episode-792",
     "type": "episode",
-    "number": 792
+    "number": 792,
+    "title": "Mom's Assassin! Luffy and the Seducing Woods!"
   },
   {
     "id": "episode-793",
     "type": "episode",
-    "number": 793
+    "number": 793,
+    "title": "A Seafaring Kingdom! Germa's King Judge!"
   },
   {
     "id": "episode-794",
     "type": "episode",
-    "number": 794
+    "number": 794,
+    "title": "A Battle Between Father and Son! Judge vs. Sanji!"
   },
   {
     "id": "episode-795",
     "type": "episode",
-    "number": 795
+    "number": 795,
+    "title": "A Giant Ambition! Big Mom and Caesar!"
   },
   {
     "id": "episode-796",
     "type": "episode",
-    "number": 796
+    "number": 796,
+    "title": "The Land of Souls! Mom's Fatal Ability!"
   },
   {
     "id": "episode-797",
     "type": "episode",
-    "number": 797
+    "number": 797,
+    "title": "A Top Officer! The Sweet 3 General Cracker Appears!"
   },
   {
     "id": "episode-798",
     "type": "episode",
-    "number": 798
+    "number": 798,
+    "title": "An Enemy Worth 800 million! Luffy vs. Thousand Armed Cracker!"
   },
   {
     "id": "episode-799",
     "type": "episode",
-    "number": 799
+    "number": 799,
+    "title": "An All-out Duel! Gear Four vs. the Bis-Bis Ability"
   },
   {
     "id": "episode-800",
     "type": "episode",
-    "number": 800
+    "number": 800,
+    "title": "The First and the Second Join! The Vinsmoke Family!"
   },
   {
     "id": "episode-801",
     "type": "episode",
-    "number": 801
+    "number": 801,
+    "title": "The Benefactor's Life! Sanji and Owner Zeff!"
   },
   {
     "id": "episode-802",
     "type": "episode",
-    "number": 802
+    "number": 802,
+    "title": "An Angry Sanji! The Secret of Germa 66!"
   },
   {
     "id": "episode-803",
     "type": "episode",
-    "number": 803
+    "number": 803,
+    "title": "The Past that He Let Go of! Vinsmoke Sanji!"
   },
   {
     "id": "episode-804",
     "type": "episode",
-    "number": 804
+    "number": 804,
+    "title": "To the East Blue! Sanji's Resolute Departure!"
   },
   {
     "id": "episode-805",
     "type": "episode",
-    "number": 805
+    "number": 805,
+    "title": "A Battle of Limits! Luffy and the Infinite Biscuits!"
   },
   {
     "id": "episode-806",
     "type": "episode",
-    "number": 806
+    "number": 806,
+    "title": "The Power of Satiety! A New Gear Four Form - Tank Man!"
   },
   {
     "id": "episode-807",
     "type": "episode",
-    "number": 807
+    "number": 807,
+    "title": "A Heartbreaking Duel! Luffy vs Sanji! (Part 1)"
   },
   {
     "id": "episode-808",
     "type": "episode",
-    "number": 808
+    "number": 808,
+    "title": "A Heartbreaking Duel! Luffy vs Sanji! - Part 2"
   },
   {
     "id": "episode-809",
     "type": "episode",
-    "number": 809
+    "number": 809,
+    "title": "A Storm of Revenge! An Enraged Army Comes to Attack!"
   },
   {
     "id": "episode-810",
     "type": "episode",
-    "number": 810
+    "number": 810,
+    "title": "The End of the Adventure! Sanji's Resolute Proposal!"
   },
   {
     "id": "episode-811",
     "type": "episode",
-    "number": 811
+    "number": 811,
+    "title": "I'll Wait Here! Luffy vs. the Enraged Army!"
   },
   {
     "id": "episode-812",
     "type": "episode",
-    "number": 812
+    "number": 812,
+    "title": "Invading the Chateau! Reach the Road Ponegliff!"
   },
   {
     "id": "episode-813",
     "type": "episode",
-    "number": 813
+    "number": 813,
+    "title": "A Fateful Confrontation! Luffy and Big Mom!"
   },
   {
     "id": "episode-814",
     "type": "episode",
-    "number": 814
+    "number": 814,
+    "title": "Shout of the Soul! Brook and Pedro's Lightning Operation!"
   },
   {
     "id": "episode-815",
     "type": "episode",
-    "number": 815
+    "number": 815,
+    "title": "Goodbye! Pudding's Tearful Determination!"
   },
   {
     "id": "episode-816",
     "type": "episode",
-    "number": 816
+    "number": 816,
+    "title": "The History of the Left Eye! Pedro vs. Baron Tamago!"
   },
   {
     "id": "episode-817",
     "type": "episode",
-    "number": 817
+    "number": 817,
+    "title": "Moist Cigarette! The Night Before Sanji's Wedding!"
   },
   {
     "id": "episode-818",
     "type": "episode",
-    "number": 818
+    "number": 818,
+    "title": "The Undaunted Soul! Brook vs. Big Mom!"
   },
   {
     "id": "episode-819",
     "type": "episode",
-    "number": 819
+    "number": 819,
+    "title": "Sora's Wish! Germa's Failure - Sanji!"
   },
   {
     "id": "episode-820",
     "type": "episode",
-    "number": 820
+    "number": 820,
+    "title": "To Reach Sanji! Luffy's Vengeful Hell-bent Dash!"
   },
   {
     "id": "episode-821",
     "type": "episode",
-    "number": 821
+    "number": 821,
+    "title": "The Chateau in Turmoil! Luffy, to the Rendezvous!"
   },
   {
     "id": "episode-822",
     "type": "episode",
-    "number": 822
+    "number": 822,
+    "title": "Deciding to Say Goodbye! Sanji and his Straw-Hat Bento!"
   },
   {
     "id": "episode-823",
     "type": "episode",
-    "number": 823
+    "number": 823,
+    "title": "The Emperor Rolls Over! Rescue Brook Mission!"
   },
   {
     "id": "episode-824",
     "type": "episode",
-    "number": 824
+    "number": 824,
+    "title": "The Rendezvous! Luffy, a One-on-One at His Limit!"
   },
   {
     "id": "episode-825",
     "type": "episode",
-    "number": 825
+    "number": 825,
+    "title": "A Liar! Luffy and Sanji!"
   },
   {
     "id": "episode-826",
     "type": "episode",
-    "number": 826
+    "number": 826,
+    "title": "Sanji Comes Back! Crash! The Tea Party from Hell!"
   },
   {
     "id": "episode-827",
     "type": "episode",
-    "number": 827
+    "number": 827,
+    "title": "A Secret Meeting! Luffy vs. the Fire Tank Pirates!"
   },
   {
     "id": "episode-828",
     "type": "episode",
-    "number": 828
+    "number": 828,
+    "title": "The Deadly Pact! Luffy & Bege's Allied Forces!"
   },
   {
     "id": "episode-829",
     "type": "episode",
-    "number": 829
+    "number": 829,
+    "title": "Luffy Engages in a Secret Maneuver! The Wedding Full of Conspiracies Starts Soon!"
   },
   {
     "id": "episode-830",
     "type": "episode",
-    "number": 830
+    "number": 830,
+    "title": "The Family Gets Together! The Hellish Tea Party Starts!"
   },
   {
     "id": "episode-831",
     "type": "episode",
-    "number": 831
+    "number": 831,
+    "title": "The Broken Couple! Sanji and Pudding Enter!"
   },
   {
     "id": "episode-832",
     "type": "episode",
-    "number": 832
+    "number": 832,
+    "title": "A Deadly Kiss! The Mission to Assassinate the Emperor Kicks Off!"
   },
   {
     "id": "episode-833",
     "type": "episode",
-    "number": 833
+    "number": 833,
+    "title": "Returning the Sake Cup! The Manly Jimbei Pays His Debt!"
   },
   {
     "id": "episode-834",
     "type": "episode",
-    "number": 834
+    "number": 834,
+    "title": "The Mission Failed?! The Big Mom Pirates Strike Back!"
   },
   {
     "id": "episode-835",
     "type": "episode",
-    "number": 835
+    "number": 835,
+    "title": "Run, Sanji! SOS! Germa 66!"
   },
   {
     "id": "episode-836",
     "type": "episode",
-    "number": 836
+    "number": 836,
+    "title": "Mom's Secret! The Giant's Island Elbaph and a Little Monster!"
   },
   {
     "id": "episode-837",
     "type": "episode",
-    "number": 837
+    "number": 837,
+    "title": "The Birth of Mom! The Day That Carmel Vanished!"
   },
   {
     "id": "episode-838",
     "type": "episode",
-    "number": 838
+    "number": 838,
+    "title": "The Launcher Blasts! The Moment of Big Mom's Assassination!"
   },
   {
     "id": "episode-839",
     "type": "episode",
-    "number": 839
+    "number": 839,
+    "title": "The Evil Army! Transform! Germa 66!"
   },
   {
     "id": "episode-840",
     "type": "episode",
-    "number": 840
+    "number": 840,
+    "title": "Cutting the Father-Son Relationship! Sanji and Judge!"
   },
   {
     "id": "episode-841",
     "type": "episode",
-    "number": 841
+    "number": 841,
+    "title": "Escape From the Tea Party! Luffy vs. Big Mom!"
   },
   {
     "id": "episode-842",
     "type": "episode",
-    "number": 842
+    "number": 842,
+    "title": "The Execution Begins! Luffy's Allied Forces Are Annihilated?!"
   },
   {
     "id": "episode-843",
     "type": "episode",
-    "number": 843
+    "number": 843,
+    "title": "The Castle Collapses! The Straw Hat's Great Escape Begins!"
   },
   {
     "id": "episode-844",
     "type": "episode",
-    "number": 844
+    "number": 844,
+    "title": "The Spear of Elbaph! Onslaught! The Flying Big Mom!"
   },
   {
     "id": "episode-845",
     "type": "episode",
-    "number": 845
+    "number": 845,
+    "title": "Pudding's Determination! Ablaze! The Seducing Woods!"
   },
   {
     "id": "episode-846",
     "type": "episode",
-    "number": 846
+    "number": 846,
+    "title": "A Lightning Counterattack! Nami and Zeus the Thundercloud!"
   },
   {
     "id": "episode-847",
     "type": "episode",
-    "number": 847
+    "number": 847,
+    "title": "A Coincidental Reunion! Sanji and the Lovestruck Evil Pudding!"
   },
   {
     "id": "episode-848",
     "type": "episode",
-    "number": 848
+    "number": 848,
+    "title": "Save the Sunny! Fighting Bravely! Chopper and Brook!"
   },
   {
     "id": "episode-849",
     "type": "episode",
-    "number": 849
+    "number": 849,
+    "title": "Before the Dawn! Pedro, the Captain of the Guardians!"
   },
   {
     "id": "episode-850",
     "type": "episode",
-    "number": 850
+    "number": 850,
+    "title": "I'll Be Back! Luffy, Deadly Departure"
   },
   {
     "id": "episode-851",
     "type": "episode",
-    "number": 851
+    "number": 851,
+    "title": "The Man with a Bounty of Billion! The Strongest Sweet General, Katakuri!"
   },
   {
     "id": "episode-852",
     "type": "episode",
-    "number": 852
+    "number": 852,
+    "title": "A Hard Battle Starts! Luffy vs. Katakuri!"
   },
   {
     "id": "episode-853",
     "type": "episode",
-    "number": 853
+    "number": 853,
+    "title": "The Green Room! An Invincible Helmsman, Jimbei!"
   },
   {
     "id": "episode-854",
     "type": "episode",
-    "number": 854
+    "number": 854,
+    "title": "The Threat of the Mole! Luffy's Silent Fight!"
   },
   {
     "id": "episode-855",
     "type": "episode",
-    "number": 855
+    "number": 855,
+    "title": "The End of the Deadly Battle?! Katakuri's Awakening in Anger!"
   },
   {
     "id": "episode-856",
     "type": "episode",
-    "number": 856
+    "number": 856,
+    "title": "The Forbidden Secret! Katakuri's Merienda!"
   },
   {
     "id": "episode-857",
     "type": "episode",
-    "number": 857
+    "number": 857,
+    "title": "Luffy Fights Back! The Invincible Katakuri's Weak Point!"
   },
   {
     "id": "episode-858",
     "type": "episode",
-    "number": 858
+    "number": 858,
+    "title": "Another Crisis! Gear Four vs. Unstoppable Donuts!"
   },
   {
     "id": "episode-859",
     "type": "episode",
-    "number": 859
+    "number": 859,
+    "title": "The Rebellious Daughter, Chiffon! Sanji's Big Plan for Transporting the Cake!"
   },
   {
     "id": "episode-860",
     "type": "episode",
-    "number": 860
+    "number": 860,
+    "title": "A Man's Way of Life! Bege and Luffy's Determination as Captains!"
   },
   {
     "id": "episode-861",
     "type": "episode",
-    "number": 861
+    "number": 861,
+    "title": "The Cake Sank?! Sanji and Bege's Getaway Battle!"
   },
   {
     "id": "episode-862",
     "type": "episode",
-    "number": 862
+    "number": 862,
+    "title": "Sulong! Carrot's Big Mystic Transformation!"
   },
   {
     "id": "episode-863",
     "type": "episode",
-    "number": 863
+    "number": 863,
+    "title": "Break Through! The Straw Hat's Mighty Sea Battle!"
   },
   {
     "id": "episode-864",
     "type": "episode",
-    "number": 864
+    "number": 864,
+    "title": "Finally, They Clash! The Emperor of the Sea vs. the Straw Hats!"
   },
   {
     "id": "episode-865",
     "type": "episode",
-    "number": 865
+    "number": 865,
+    "title": "Dark King's Direct Precepts! The Battle Against Katakuri Turns Around!"
   },
   {
     "id": "episode-866",
     "type": "episode",
-    "number": 866
+    "number": 866,
+    "title": "Finally He Returns! Sanji, the Man Who'll Stop the Emperor of the Sea!"
   },
   {
     "id": "episode-867",
     "type": "episode",
-    "number": 867
+    "number": 867,
+    "title": "Lurking in the Darkness! An Assassin Targeting Luffy!"
   },
   {
     "id": "episode-868",
     "type": "episode",
-    "number": 868
+    "number": 868,
+    "title": "One Man's Determination! Katakuri's Deadly Big Fight!"
   },
   {
     "id": "episode-869",
     "type": "episode",
-    "number": 869
+    "number": 869,
+    "title": "Wake Up! The Color of Observation Able to Top the Strongest!"
   },
   {
     "id": "episode-870",
     "type": "episode",
-    "number": 870
+    "number": 870,
+    "title": "A Fist of Divine Speed! Another Gear Four Application Activated!"
   },
   {
     "id": "episode-871",
     "type": "episode",
-    "number": 871
+    "number": 871,
+    "title": "Finally, It's Over! The Climax of the Intense Fight against Katakuri!"
   },
   {
     "id": "episode-872",
     "type": "episode",
-    "number": 872
+    "number": 872,
+    "title": "A Desperate Situation! The Iron-tight Entrapment of Luffy!"
   },
   {
     "id": "episode-873",
     "type": "episode",
-    "number": 873
+    "number": 873,
+    "title": "Pulling Back from the Brink! The Formidable Reinforcements \u2013 Germa!"
   },
   {
     "id": "episode-874",
     "type": "episode",
-    "number": 874
+    "number": 874,
+    "title": "The Last Hope! The Sun Pirates Emerge!"
   },
   {
     "id": "episode-875",
     "type": "episode",
-    "number": 875
+    "number": 875,
+    "title": "A Captivating Flavor! Sanji's Cake of Happiness!"
   },
   {
     "id": "episode-876",
     "type": "episode",
-    "number": 876
+    "number": 876,
+    "title": "The Man of Humanity and Justice! Jimbei, a Desperate Massive Ocean Current"
   },
   {
     "id": "episode-877",
     "type": "episode",
-    "number": 877
+    "number": 877,
+    "title": "The Parting Time! Pudding's Last Wish!"
   },
   {
     "id": "special-grand-fleet-cover-story",
@@ -4711,182 +5588,218 @@
   {
     "id": "episode-878",
     "type": "episode",
-    "number": 878
+    "number": 878,
+    "title": "The World is Stunned! The Fifth Emperor of the Sea Emerges!"
   },
   {
     "id": "episode-879",
     "type": "episode",
-    "number": 879
+    "number": 879,
+    "title": "To the Reverie! The Straw Hats' Sworn Allies Come Together!"
   },
   {
     "id": "episode-880",
     "type": "episode",
-    "number": 880
+    "number": 880,
+    "title": "Sabo Goes into Action! All the Captains of the Revolutionary Army Appear!"
   },
   {
     "id": "episode-881",
     "type": "episode",
-    "number": 881
+    "number": 881,
+    "title": "Going into Action! The Implacable New Admiral of the Fleet - Sakazuki!"
   },
   {
     "id": "episode-882",
     "type": "episode",
-    "number": 882
+    "number": 882,
+    "title": "The Paramount War! The Inherited Will of the King of the Pirates!"
   },
   {
     "id": "episode-883",
     "type": "episode",
-    "number": 883
+    "number": 883,
+    "title": "One Step Forward for Her Dream! Shirahoshi Goes Out in the Sun!"
   },
   {
     "id": "episode-884",
     "type": "episode",
-    "number": 884
+    "number": 884,
+    "title": "I Miss Him! Vivi and Rebecca's Sentiments!"
   },
   {
     "id": "episode-885",
     "type": "episode",
-    "number": 885
+    "number": 885,
+    "title": "In the Dark Recesses of the Holyland! A Mysterious Giant Straw Hat!"
   },
   {
     "id": "episode-886",
     "type": "episode",
-    "number": 886
+    "number": 886,
+    "title": "The Holyland in Tumult! The Targeted Princess Shirahoshi!"
   },
   {
     "id": "episode-887",
     "type": "episode",
-    "number": 887
+    "number": 887,
+    "title": "An Explosive Situation! Two Emperors of the Sea Going After Luffy!"
   },
   {
     "id": "episode-888",
     "type": "episode",
-    "number": 888
+    "number": 888,
+    "title": "Sabo Enraged! The Tragedy of the Revolutionary Army Officer Kuma!"
   },
   {
     "id": "episode-889",
     "type": "episode",
-    "number": 889
+    "number": 889,
+    "title": "Finally, It Starts! The Conspiracy-filled Reverie!"
   },
   {
     "id": "episode-890",
     "type": "episode",
-    "number": 890
+    "number": 890,
+    "title": "Marco! The Keeper of Whitebeard's Last Memento!"
   },
   {
     "id": "episode-891",
     "type": "episode",
-    "number": 891
+    "number": 891,
+    "title": "Climbing Up a Waterfall! A Great Journey Through the Land of Wano's Sea Zone!"
   },
   {
     "id": "episode-892",
     "type": "episode",
-    "number": 892
+    "number": 892,
+    "title": "The Land of Wano! To the Samurai Country where Cherry Blossoms Flutter!"
   },
   {
     "id": "episode-893",
     "type": "episode",
-    "number": 893
+    "number": 893,
+    "title": "Otama Appears! Luffy vs. Kaido's Army!"
   },
   {
     "id": "episode-894",
     "type": "episode",
-    "number": 894
+    "number": 894,
+    "title": "He'll Come! The Legend of Ace in the Land of Wano!"
   },
   {
     "id": "episode-897",
     "type": "episode",
-    "number": 897
+    "number": 897,
+    "title": "Save Otama! Straw Hat, Bounding through the Wasteland!"
   },
   {
     "id": "episode-898",
     "type": "episode",
-    "number": 898
+    "number": 898,
+    "title": "The Headliner! Hawkins the Magician Appears!"
   },
   {
     "id": "episode-899",
     "type": "episode",
-    "number": 899
+    "number": 899,
+    "title": "Defeat is Inevitable! The Strawman's Fierce Attack!"
   },
   {
     "id": "episode-900",
     "type": "episode",
-    "number": 900
+    "number": 900,
+    "title": "The Greatest Day of My Life! Otama and Her Sweet Red-bean Soup!"
   },
   {
     "id": "episode-901",
     "type": "episode",
-    "number": 901
+    "number": 901,
+    "title": "Charging into the Enemy's Territory! Bakura Town - Where Officials Thrive!"
   },
   {
     "id": "episode-902",
     "type": "episode",
-    "number": 902
+    "number": 902,
+    "title": "The Yokozuna Appears! The Invincible Urashima Goes After Okiku!"
   },
   {
     "id": "episode-903",
     "type": "episode",
-    "number": 903
+    "number": 903,
+    "title": "A Climactic Sumo Battle! Straw Hat vs. the Strongest Ever Yokozuna!"
   },
   {
     "id": "episode-904",
     "type": "episode",
-    "number": 904
+    "number": 904,
+    "title": "Luffy Rages! Rescue Otama from Danger!"
   },
   {
     "id": "episode-905",
     "type": "episode",
-    "number": 905
+    "number": 905,
+    "title": "Taking Back Otama! A Fierce Fight Against Holdem!"
   },
   {
     "id": "episode-906",
     "type": "episode",
-    "number": 906
+    "number": 906,
+    "title": "Duel! The Magician and the Surgeon of Death!"
   },
   {
     "id": "episode-908",
     "type": "episode",
-    "number": 908
+    "number": 908,
+    "title": "The Coming of the Treasure Ship! Luffytaro Returns the Favor!"
   },
   {
     "id": "episode-909",
     "type": "episode",
-    "number": 909
+    "number": 909,
+    "title": "Mysterious Grave Markers! A Reunion at the Ruins of Oden Castle!"
   },
   {
     "id": "episode-910",
     "type": "episode",
-    "number": 910
+    "number": 910,
+    "title": "A Legendary Samurai! The Man Who Roger Admired!"
   },
   {
     "id": "episode-911",
     "type": "episode",
-    "number": 911
+    "number": 911,
+    "title": "Bringing Down the Emperor of the Sea! A Secret Raid Operation Begins!"
   },
   {
     "id": "episode-912",
     "type": "episode",
-    "number": 912
+    "number": 912,
+    "title": "The Strongest Man in the World! Shutenmaru, the Thieves Brigade Chief!"
   },
   {
     "id": "episode-913",
     "type": "episode",
-    "number": 913
+    "number": 913,
+    "title": "Everyone is Annihilated! Kaido's Furious Blast Breath!"
   },
   {
     "id": "episode-914",
     "type": "episode",
-    "number": 914
+    "number": 914,
+    "title": "Finally Clashing! The Ferocious Luffy vs. Kaido!"
   },
   {
     "id": "episode-915",
     "type": "episode",
-    "number": 915
+    "number": 915,
+    "title": "Destructive! One Shot, One Kill \u2013 Thunder Bagua!"
   },
   {
     "id": "episode-916",
     "type": "episode",
-    "number": 916
+    "number": 916,
+    "title": "A Living Hell! Luffy, Humiliated in the Great Mine!"
   },
   {
     "id": "special-bege-cover-story",
@@ -4897,12 +5810,14 @@
   {
     "id": "episode-895",
     "type": "episode",
-    "number": 895
+    "number": 895,
+    "title": "Side Story! The World's Greatest Bounty Hunter, Cidre!"
   },
   {
     "id": "episode-896",
     "type": "episode",
-    "number": 896
+    "number": 896,
+    "title": "Side Story! Clash! Luffy vs. the King of Carbonation!"
   },
   {
     "id": "movie-movie-14-stampede",
@@ -4913,857 +5828,1028 @@
   {
     "id": "episode-917",
     "type": "episode",
-    "number": 917
+    "number": 917,
+    "title": "The Holyland in Tumult! Emperor of the Sea Blackbeard Cackles!"
   },
   {
     "id": "episode-918",
     "type": "episode",
-    "number": 918
+    "number": 918,
+    "title": "It's On! The Special Operation to Bring Down Kaido!"
   },
   {
     "id": "episode-919",
     "type": "episode",
-    "number": 919
+    "number": 919,
+    "title": "Rampage! The Prisoners \u2013 Luffy and Kid!"
   },
   {
     "id": "episode-920",
     "type": "episode",
-    "number": 920
+    "number": 920,
+    "title": "A Great Sensation! Sanji's Special Soba!"
   },
   {
     "id": "episode-921",
     "type": "episode",
-    "number": 921
+    "number": 921,
+    "title": "Luxurious and Gorgeous! Wano's Most Beautiful Woman \u2013 Komurasaki!"
   },
   {
     "id": "episode-922",
     "type": "episode",
-    "number": 922
+    "number": 922,
+    "title": "A Tale of Chivalry! Zoro and Tonoyasu's Little Trip!"
   },
   {
     "id": "episode-923",
     "type": "episode",
-    "number": 923
+    "number": 923,
+    "title": "A State of Emergency! Big Mom Closes In!"
   },
   {
     "id": "episode-924",
     "type": "episode",
-    "number": 924
+    "number": 924,
+    "title": "The Capital in an Uproar! Another Assassin Targets Sanji!"
   },
   {
     "id": "episode-925",
     "type": "episode",
-    "number": 925
+    "number": 925,
+    "title": "Dashing! The Righteous Soba Mask!"
   },
   {
     "id": "episode-926",
     "type": "episode",
-    "number": 926
+    "number": 926,
+    "title": "A Desperate Situation! Orochi's Menacing Oniwabanshu!"
   },
   {
     "id": "episode-927",
     "type": "episode",
-    "number": 927
+    "number": 927,
+    "title": "Pandemonium! The Monster Snake, Shogun Orochi!"
   },
   {
     "id": "episode-928",
     "type": "episode",
-    "number": 928
+    "number": 928,
+    "title": "The Flower Falls! The Final Moment of the Most Beautiful Woman in the Land of Wano!"
   },
   {
     "id": "episode-929",
     "type": "episode",
-    "number": 929
+    "number": 929,
+    "title": "The Bond Between Prisoners! Luffy and Old Man Hyo!"
   },
   {
     "id": "episode-930",
     "type": "episode",
-    "number": 930
+    "number": 930,
+    "title": "All-Star! Queen the Plague Appears!"
   },
   {
     "id": "episode-931",
     "type": "episode",
-    "number": 931
+    "number": 931,
+    "title": "Climb Up! Luffy's Desperate Escape!"
   },
   {
     "id": "episode-932",
     "type": "episode",
-    "number": 932
+    "number": 932,
+    "title": "Dead or Alive! Queen's Sumo Inferno!"
   },
   {
     "id": "episode-933",
     "type": "episode",
-    "number": 933
+    "number": 933,
+    "title": "Gyukimaru! Zoro Fights a Duel on Bandit's Bridge!"
   },
   {
     "id": "episode-934",
     "type": "episode",
-    "number": 934
+    "number": 934,
+    "title": "A Big Turnover! The Three-Sword Style Overcomes Danger!"
   },
   {
     "id": "episode-935",
     "type": "episode",
-    "number": 935
+    "number": 935,
+    "title": "Zoro, Stunned! The Shocking Identity of the Mysterious Woman!"
   },
   {
     "id": "episode-936",
     "type": "episode",
-    "number": 936
+    "number": 936,
+    "title": "Get the Hang of It! The Land of Wano's Haki: Ryuo!"
   },
   {
     "id": "episode-937",
     "type": "episode",
-    "number": 937
+    "number": 937,
+    "title": "Tonoyasu! Ebisu Town's Most Loved!"
   },
   {
     "id": "episode-938",
     "type": "episode",
-    "number": 938
+    "number": 938,
+    "title": "Shaking the Nation! The Identity of Ushimitsu Kozo the Chivalrous Thief!"
   },
   {
     "id": "episode-939",
     "type": "episode",
-    "number": 939
+    "number": 939,
+    "title": "The Straw Hats Run! Save the Captive Tonoyasu!"
   },
   {
     "id": "episode-940",
     "type": "episode",
-    "number": 940
+    "number": 940,
+    "title": "Zoro's Fury! The Truth About the Smile!"
   },
   {
     "id": "episode-941",
     "type": "episode",
-    "number": 941
+    "number": 941,
+    "title": "Toko's Tears! Orochi's Pitiless Bullets!"
   },
   {
     "id": "episode-942",
     "type": "episode",
-    "number": 942
+    "number": 942,
+    "title": "The Straw Hats Step In! An Uproarious Deadly Battle at the Execution Ground!"
   },
   {
     "id": "episode-943",
     "type": "episode",
-    "number": 943
+    "number": 943,
+    "title": "Luffy's Determination! Win Through the Sumo Inferno!"
   },
   {
     "id": "episode-944",
     "type": "episode",
-    "number": 944
+    "number": 944,
+    "title": "The Storm Has Come! A Raging Big Mom!"
   },
   {
     "id": "episode-945",
     "type": "episode",
-    "number": 945
+    "number": 945,
+    "title": "A Grudge Over Red-bean Soup! Luffy Gets into a Desperate Situation!"
   },
   {
     "id": "episode-946",
     "type": "episode",
-    "number": 946
+    "number": 946,
+    "title": "Stop the Emperor of the Sea! Queen's Secret Plan!"
   },
   {
     "id": "episode-947",
     "type": "episode",
-    "number": 947
+    "number": 947,
+    "title": "Brutal Ammunition! The Plague Rounds Aim at Luffy!"
   },
   {
     "id": "episode-948",
     "type": "episode",
-    "number": 948
+    "number": 948,
+    "title": "Start Fighting Back! Luffy and the Akazaya Samurai!"
   },
   {
     "id": "episode-949",
     "type": "episode",
-    "number": 949
+    "number": 949,
+    "title": "We're Here to Win! Luffy's Desperate Scream!"
   },
   {
     "id": "episode-950",
     "type": "episode",
-    "number": 950
+    "number": 950,
+    "title": "Warriors' Dream! Luffy's Conquer of Udon!"
   },
   {
     "id": "episode-951",
     "type": "episode",
-    "number": 951
+    "number": 951,
+    "title": "Orochi's Hunting Party! The Ninja Group vs. Zoro!"
   },
   {
     "id": "episode-952",
     "type": "episode",
-    "number": 952
+    "number": 952,
+    "title": "Tension Rises in Onigashima! Two Emperors of the Sea Meet?!"
   },
   {
     "id": "episode-953",
     "type": "episode",
-    "number": 953
+    "number": 953,
+    "title": "Hiyori's Confession! A Reunion at Bandit's Bridge!"
   },
   {
     "id": "episode-954",
     "type": "episode",
-    "number": 954
+    "number": 954,
+    "title": "Its Name is Enma! Oden's Great Swords!"
   },
   {
     "id": "episode-955",
     "type": "episode",
-    "number": 955
+    "number": 955,
+    "title": "A New Alliance?! Kaido's Army Gathers!"
   },
   {
     "id": "episode-956",
     "type": "episode",
-    "number": 956
+    "number": 956,
+    "title": "Ticking Down to the Great Battle! The Straw Hats Go into Combat Mode!"
   },
   {
     "id": "episode-907",
     "type": "episode",
-    "number": 907
+    "number": 907,
+    "title": "Romance Dawn"
   },
   {
     "id": "episode-957",
     "type": "episode",
-    "number": 957
+    "number": 957,
+    "title": "Big News! An Incident That Will Affect the Seven Warlords!"
   },
   {
     "id": "episode-958",
     "type": "episode",
-    "number": 958
+    "number": 958,
+    "title": "A Legendary Battle! Garp and Roger!"
   },
   {
     "id": "episode-959",
     "type": "episode",
-    "number": 959
+    "number": 959,
+    "title": "The Rendezvous Port! The Land of Wano Act Three Begins!"
   },
   {
     "id": "episode-960",
     "type": "episode",
-    "number": 960
+    "number": 960,
+    "title": "The Number-One Samurai in Wano Country! Kozuki Oden Appears"
   },
   {
     "id": "episode-961",
     "type": "episode",
-    "number": 961
+    "number": 961,
+    "title": "Tearfully Swearing Allegiance! Oden and Kin'emon!"
   },
   {
     "id": "episode-962",
     "type": "episode",
-    "number": 962
+    "number": 962,
+    "title": "Changing Destiny! The Whitebeard Pirates Cast Ashore!"
   },
   {
     "id": "episode-963",
     "type": "episode",
-    "number": 963
+    "number": 963,
+    "title": "Oden's Determination! Whitebeard's Test!"
   },
   {
     "id": "episode-964",
     "type": "episode",
-    "number": 964
+    "number": 964,
+    "title": "Whitebeard's Little Brother! Oden's Great Adventure!"
   },
   {
     "id": "episode-965",
     "type": "episode",
-    "number": 965
+    "number": 965,
+    "title": "Crossing Swords! Roger and Whitebeard!"
   },
   {
     "id": "episode-966",
     "type": "episode",
-    "number": 966
+    "number": 966,
+    "title": "Roger's Wish! A New Journey!"
   },
   {
     "id": "episode-967",
     "type": "episode",
-    "number": 967
+    "number": 967,
+    "title": "Devoting His Life! Roger's Adventure!"
   },
   {
     "id": "episode-968",
     "type": "episode",
-    "number": 968
+    "number": 968,
+    "title": "The King of the Pirates is Born! Arriving at the Last Island!"
   },
   {
     "id": "episode-969",
     "type": "episode",
-    "number": 969
+    "number": 969,
+    "title": "To the Land of Wano! The Roger Pirates Disband!"
   },
   {
     "id": "episode-970",
     "type": "episode",
-    "number": 970
+    "number": 970,
+    "title": "Sad News! The Opening of the Great Pirate Era!"
   },
   {
     "id": "episode-971",
     "type": "episode",
-    "number": 971
+    "number": 971,
+    "title": "Raid! Oden and the Akazaya Nine!"
   },
   {
     "id": "episode-972",
     "type": "episode",
-    "number": 972
+    "number": 972,
+    "title": "The End of the Battle! Oden vs. Kaido!"
   },
   {
     "id": "episode-973",
     "type": "episode",
-    "number": 973
+    "number": 973,
+    "title": "Boiled to Death! Oden's One-hour Struggle!"
   },
   {
     "id": "episode-974",
     "type": "episode",
-    "number": 974
+    "number": 974,
+    "title": "Oden Wouldn't Be Oden If It Wasn't Boiled!"
   },
   {
     "id": "episode-975",
     "type": "episode",
-    "number": 975
+    "number": 975,
+    "title": "The Castle on Fire! The Fate of the Kozuki Clan!"
   },
   {
     "id": "episode-976",
     "type": "episode",
-    "number": 976
+    "number": 976,
+    "title": "Back to the Present Day! 20 Years Later!"
   },
   {
     "id": "episode-977",
     "type": "episode",
-    "number": 977
+    "number": 977,
+    "title": "The Sea Is For Pirates! Raid! To Onigashima!"
   },
   {
     "id": "episode-978",
     "type": "episode",
-    "number": 978
+    "number": 978,
+    "title": "The Worst Generation Charges in! The Battle of the Stormy Sea!"
   },
   {
     "id": "episode-979",
     "type": "episode",
-    "number": 979
+    "number": 979,
+    "title": "Good Luck?! Leader Kin'emon's Plot!"
   },
   {
     "id": "episode-980",
     "type": "episode",
-    "number": 980
+    "number": 980,
+    "title": "A Tearful Promise! The Kidnapped Momonosuke"
   },
   {
     "id": "episode-981",
     "type": "episode",
-    "number": 981
+    "number": 981,
+    "title": "A New Member! 'First Son of the Sea' Jimbei!"
   },
   {
     "id": "episode-982",
     "type": "episode",
-    "number": 982
+    "number": 982,
+    "title": "Kaidou's Trump Card: The Tobi Roppo Appear"
   },
   {
     "id": "episode-983",
     "type": "episode",
-    "number": 983
+    "number": 983,
+    "title": "The Samurai Warriors' Earnestness! The Straw Hats Land at Onigashima!"
   },
   {
     "id": "episode-984",
     "type": "episode",
-    "number": 984
+    "number": 984,
+    "title": "Luffy Goes Out of Control?! Sneaking into Kaido's Banquet!"
   },
   {
     "id": "episode-985",
     "type": "episode",
-    "number": 985
+    "number": 985,
+    "title": "Thinking of Otama! Luffy's Furious Strike!"
   },
   {
     "id": "episode-986",
     "type": "episode",
-    "number": 986
+    "number": 986,
+    "title": "Fighting Music! An Ability That Harms Luffy!"
   },
   {
     "id": "episode-987",
     "type": "episode",
-    "number": 987
+    "number": 987,
+    "title": "His Dream Broken?! The Trap That Lures Sanji!"
   },
   {
     "id": "episode-988",
     "type": "episode",
-    "number": 988
+    "number": 988,
+    "title": "Reinforcements Arrive! The Commander of the Whitebeard Pirates!"
   },
   {
     "id": "episode-989",
     "type": "episode",
-    "number": 989
+    "number": 989,
+    "title": "The Pact Between Men! The Fierce Fighting of Brachio Tank!"
   },
   {
     "id": "episode-990",
     "type": "episode",
-    "number": 990
+    "number": 990,
+    "title": "Thunder Bagua! Here Comes Kaido's Son!"
   },
   {
     "id": "episode-991",
     "type": "episode",
-    "number": 991
+    "number": 991,
+    "title": "Enemy or Ally? Luffy and Yamato!"
   },
   {
     "id": "episode-992",
     "type": "episode",
-    "number": 992
+    "number": 992,
+    "title": "Desire to be Oden! Yamato's Dream!"
   },
   {
     "id": "episode-993",
     "type": "episode",
-    "number": 993
+    "number": 993,
+    "title": "Explosive?! The Handcuffs that Shackle Yamato's Freedom!"
   },
   {
     "id": "episode-994",
     "type": "episode",
-    "number": 994
+    "number": 994,
+    "title": "The Akazaya Face-off! Kikunojo vs. Kanjuro!"
   },
   {
     "id": "episode-995",
     "type": "episode",
-    "number": 995
+    "number": 995,
+    "title": "Raid! Inheriting Oden's Will"
   },
   {
     "id": "episode-996",
     "type": "episode",
-    "number": 996
+    "number": 996,
+    "title": "Onigashima in Tumult! Luffy's All-Out War Begins!"
   },
   {
     "id": "episode-997",
     "type": "episode",
-    "number": 997
+    "number": 997,
+    "title": "The Battle Under the Moon! The Berserker, Sulong the Moon Lion!"
   },
   {
     "id": "episode-998",
     "type": "episode",
-    "number": 998
+    "number": 998,
+    "title": "Zeus' Treason?! The Cornered Nami!"
   },
   {
     "id": "episode-999",
     "type": "episode",
-    "number": 999
+    "number": 999,
+    "title": "I'll Protect You! Yamato Meets Momonosuke!"
   },
   {
     "id": "episode-1000",
     "type": "episode",
-    "number": 1000
+    "number": 1000,
+    "title": "Overwhelming Strength! The Straw Hats Come Together!"
   },
   {
     "id": "episode-1001",
     "type": "episode",
-    "number": 1001
+    "number": 1001,
+    "title": "A Risky Invitation! A Plot to Eliminate Queen!"
   },
   {
     "id": "episode-1002",
     "type": "episode",
-    "number": 1002
+    "number": 1002,
+    "title": "A New Rivalry! Nami and Ulti!"
   },
   {
     "id": "episode-1003",
     "type": "episode",
-    "number": 1003
+    "number": 1003,
+    "title": "A Heroic Blade! Akazaya vs. Kaido, Again Once More!"
   },
   {
     "id": "episode-1004",
     "type": "episode",
-    "number": 1004
+    "number": 1004,
+    "title": "An Inherited Technique! Unleashing Oden's Secret Swordplay!"
   },
   {
     "id": "episode-1005",
     "type": "episode",
-    "number": 1005
+    "number": 1005,
+    "title": "The Power of Ice Oni! A New Version of the Plague Rounds!"
   },
   {
     "id": "episode-1006",
     "type": "episode",
-    "number": 1006
+    "number": 1006,
+    "title": "I Won't Forgive Him! Chopper's Determination!"
   },
   {
     "id": "episode-1007",
     "type": "episode",
-    "number": 1007
+    "number": 1007,
+    "title": "Zoro's Pursuit! Ice Oni Tag!"
   },
   {
     "id": "episode-1008",
     "type": "episode",
-    "number": 1008
+    "number": 1008,
+    "title": "Nami Surrenders?! Ulti's Fierce Headbutt!"
   },
   {
     "id": "episode-1009",
     "type": "episode",
-    "number": 1009
+    "number": 1009,
+    "title": "Sasaki's Onslaught! Armored Division vs. Yamato!"
   },
   {
     "id": "episode-1010",
     "type": "episode",
-    "number": 1010
+    "number": 1010,
+    "title": "Eliminate the Ice Oni! Chopper's Fire Trick!"
   },
   {
     "id": "episode-1011",
     "type": "episode",
-    "number": 1011
+    "number": 1011,
+    "title": "It's Not Okay! The Spider lures Sanji!"
   },
   {
     "id": "episode-1012",
     "type": "episode",
-    "number": 1012
+    "number": 1012,
+    "title": "A Turnaround Move! The Flames of Marco the Phoenix!"
   },
   {
     "id": "episode-1013",
     "type": "episode",
-    "number": 1013
+    "number": 1013,
+    "title": "Yamato's Past! The Man Who Came for an Emperor of the Sea!"
   },
   {
     "id": "episode-1014",
     "type": "episode",
-    "number": 1014
+    "number": 1014,
+    "title": "Marco's Tears! The Bond of the Whitebeard Pirates!"
   },
   {
     "id": "episode-1015",
     "type": "episode",
-    "number": 1015
+    "number": 1015,
+    "title": "Straw Hat Luffy! The Man Who Will Become the King of the Pirates!"
   },
   {
     "id": "episode-1016",
     "type": "episode",
-    "number": 1016
+    "number": 1016,
+    "title": "The Battle of the Monsters! The Three Stubborn Captains!"
   },
   {
     "id": "episode-1017",
     "type": "episode",
-    "number": 1017
+    "number": 1017,
+    "title": "A Barrage of Powerful Techniques! The Fierce Attacks of the Worst Generation!"
   },
   {
     "id": "episode-1018",
     "type": "episode",
-    "number": 1018
+    "number": 1018,
+    "title": "Kaido Laughs! The Emperors of the Sea vs. the New Generation!"
   },
   {
     "id": "episode-1019",
     "type": "episode",
-    "number": 1019
+    "number": 1019,
+    "title": "Otama's Secret Plan! Operation Kibi Dango!"
   },
   {
     "id": "episode-1020",
     "type": "episode",
-    "number": 1020
+    "number": 1020,
+    "title": "Sanji's Scream! An SOS Echoes Over the Island!"
   },
   {
     "id": "episode-1021",
     "type": "episode",
-    "number": 1021
+    "number": 1021,
+    "title": "Spank Strikes! Sanji's Woman-trouble!"
   },
   {
     "id": "episode-1022",
     "type": "episode",
-    "number": 1022
+    "number": 1022,
+    "title": "No Regrets! Luffy and Boss, a Master-Disciple Bond!"
   },
   {
     "id": "episode-1023",
     "type": "episode",
-    "number": 1023
+    "number": 1023,
+    "title": "All Set! Chopperphage Nebulizer!"
   },
   {
     "id": "episode-1024",
     "type": "episode",
-    "number": 1024
+    "number": 1024,
+    "title": "Oden Appears! The Confused Hearts of the Akazaya Members!"
   },
   {
     "id": "episode-1025",
     "type": "episode",
-    "number": 1025
+    "number": 1025,
+    "title": "The Worst Generation Gets Wiped Out?! The Emperors' Deadly Attack!"
   },
   {
     "id": "episode-1026",
     "type": "episode",
-    "number": 1026
+    "number": 1026,
+    "title": "The Supernovas Strike Back! The Mission to Tear Apart the Emperors!"
   },
   {
     "id": "episode-1027",
     "type": "episode",
-    "number": 1027
+    "number": 1027,
+    "title": "Defend Luffy! Zoro and Law's Sword Technique!"
   },
   {
     "id": "episode-1028",
     "type": "episode",
-    "number": 1028
+    "number": 1028,
+    "title": "Surpass the Emperor of the Sea! Luffy Strikes Back with an Iron Fist"
   },
   {
     "id": "episode-1031",
     "type": "episode",
-    "number": 1031
+    "number": 1031,
+    "title": "Nami Screams: A Deadly Death Race!"
   },
   {
     "id": "episode-1032",
     "type": "episode",
-    "number": 1032
+    "number": 1032,
+    "title": "The Dawn of the Land of Wano: The All-Out Battle Heats Up!"
   },
   {
     "id": "episode-1033",
     "type": "episode",
-    "number": 1033
+    "number": 1033,
+    "title": "The Conclusion! Luffy, Accelerating Fist of the Supreme King"
   },
   {
     "id": "episode-1034",
     "type": "episode",
-    "number": 1034
+    "number": 1034,
+    "title": "Luffy Defeated! The Straw Hats in Jeopardy?!"
   },
   {
     "id": "episode-1035",
     "type": "episode",
-    "number": 1035
+    "number": 1035,
+    "title": "The Animal Kingdom Pirates Trample Down! The End of the Kozuki Clan!"
   },
   {
     "id": "episode-1036",
     "type": "episode",
-    "number": 1036
+    "number": 1036,
+    "title": "Fight Against the Dark Night: The Commander-in-Chief of the Land of Wano Sounds Off"
   },
   {
     "id": "episode-1037",
     "type": "episode",
-    "number": 1037
+    "number": 1037,
+    "title": "Believe in Luffy! The Alliance's Counterattack Begins!"
   },
   {
     "id": "episode-1038",
     "type": "episode",
-    "number": 1038
+    "number": 1038,
+    "title": "Nami's Lethal Attack! O-Tama's Desperate Challenge!"
   },
   {
     "id": "episode-1039",
     "type": "episode",
-    "number": 1039
+    "number": 1039,
+    "title": "A Dramatic Increase of Allies! Straw Hats Fight Back!"
   },
   {
     "id": "episode-1040",
     "type": "episode",
-    "number": 1040
+    "number": 1040,
+    "title": "The Pride of a Helmsman? The Enraged Jimbei!"
   },
   {
     "id": "episode-1041",
     "type": "episode",
-    "number": 1041
+    "number": 1041,
+    "title": "Showdown Battles of the Monsters! Yamato and Franky"
   },
   {
     "id": "episode-1042",
     "type": "episode",
-    "number": 1042
+    "number": 1042,
+    "title": "The Predator's Trap: Black Maria's Temptation"
   },
   {
     "id": "episode-1043",
     "type": "episode",
-    "number": 1043
+    "number": 1043,
+    "title": "Slash the Nightmare: Brook Draws His Freezing Sword!"
   },
   {
     "id": "episode-1044",
     "type": "episode",
-    "number": 1044
+    "number": 1044,
+    "title": "Clutch! A Demon Incarnate, Robin!"
   },
   {
     "id": "episode-1045",
     "type": "episode",
-    "number": 1045
+    "number": 1045,
+    "title": "A Spell! Kid and Zoro Facing Threats!"
   },
   {
     "id": "episode-1046",
     "type": "episode",
-    "number": 1046
+    "number": 1046,
+    "title": "Taking a Chance! The Two Arms Go into Battle!"
   },
   {
     "id": "episode-1047",
     "type": "episode",
-    "number": 1047
+    "number": 1047,
+    "title": "Ascend to the Dawn! A Pink Dragon Gets Agitated"
   },
   {
     "id": "episode-1048",
     "type": "episode",
-    "number": 1048
+    "number": 1048,
+    "title": "For the Future! Yamato and the Great Swordsmen's Pledge"
   },
   {
     "id": "episode-1049",
     "type": "episode",
-    "number": 1049
+    "number": 1049,
+    "title": "Luffy Soars! Revenge Against the King of the Beasts"
   },
   {
     "id": "episode-1050",
     "type": "episode",
-    "number": 1050
+    "number": 1050,
+    "title": "Two Dragons Face Off! Momonosuke's Determination!"
   },
   {
     "id": "episode-1051",
     "type": "episode",
-    "number": 1051
+    "number": 1051,
+    "title": "A Legend All over again! Luffy's fist roars in the sky"
   },
   {
     "id": "episode-1052",
     "type": "episode",
-    "number": 1052
+    "number": 1052,
+    "title": "The Situation Has Grown Tense! The End of Onigashima!"
   },
   {
     "id": "episode-1053",
     "type": "episode",
-    "number": 1053
+    "number": 1053,
+    "title": "Sanji's Mutation? The Two Arms in Crisis!"
   },
   {
     "id": "episode-1054",
     "type": "episode",
-    "number": 1054
+    "number": 1054,
+    "title": "Death to Your Partner! Killer's Deadly Gamble!"
   },
   {
     "id": "episode-1055",
     "type": "episode",
-    "number": 1055
+    "number": 1055,
+    "title": "A Shadowy Figure Pulls the Strings! Onigashima in Flames"
   },
   {
     "id": "episode-1056",
     "type": "episode",
-    "number": 1056
+    "number": 1056,
+    "title": "A Countercharge! Law and Kid's Return-Attack Combination"
   },
   {
     "id": "episode-1057",
     "type": "episode",
-    "number": 1057
+    "number": 1057,
+    "title": "For Luffy: Sanji and Zoro's Oath"
   },
   {
     "id": "episode-1058",
     "type": "episode",
-    "number": 1058
+    "number": 1058,
+    "title": "The Onslaught of Kazenbo: Orochi's Evil Clutches Close in"
   },
   {
     "id": "episode-1059",
     "type": "episode",
-    "number": 1059
+    "number": 1059,
+    "title": "Zoro Faces Adversity: A Monster! King the Wildfire"
   },
   {
     "id": "episode-1060",
     "type": "episode",
-    "number": 1060
+    "number": 1060,
+    "title": "The Secret of Enma! The Cursed Sword Entrusted to Zoro"
   },
   {
     "id": "episode-1061",
     "type": "episode",
-    "number": 1061
+    "number": 1061,
+    "title": "The Strike of an Ifrit! Sanji vs. Queen"
   },
   {
     "id": "episode-1062",
     "type": "episode",
-    "number": 1062
+    "number": 1062,
+    "title": "The Three-Sword Style of the Supreme King! Zoro vs. King"
   },
   {
     "id": "episode-1063",
     "type": "episode",
-    "number": 1063
+    "number": 1063,
+    "title": "Luffy is on the Move! A Turning Point to a New Era!"
   },
   {
     "id": "episode-1064",
     "type": "episode",
-    "number": 1064
+    "number": 1064,
+    "title": "Drunken Dragon Bagua! The Lawless Dragon Closing in on Luffy"
   },
   {
     "id": "episode-1065",
     "type": "episode",
-    "number": 1065
+    "number": 1065,
+    "title": "The Destruction of the Alliance?! Fire up, the Will of the New Generation!"
   },
   {
     "id": "episode-1066",
     "type": "episode",
-    "number": 1066
+    "number": 1066,
+    "title": "Here Comes Main Act! Powerful Techniques of Shockwave and Magnetism"
   },
   {
     "id": "episode-1067",
     "type": "episode",
-    "number": 1067
+    "number": 1067,
+    "title": "To the New Era! Settled! The Determination of the Brats"
   },
   {
     "id": "episode-1068",
     "type": "episode",
-    "number": 1068
+    "number": 1068,
+    "title": "Moon Princess Echoes! The Final Phase of the Land of Wano!"
   },
   {
     "id": "episode-1069",
     "type": "episode",
-    "number": 1069
+    "number": 1069,
+    "title": "There is Only One Winner: Luffy vs. Kaido"
   },
   {
     "id": "episode-1070",
     "type": "episode",
-    "number": 1070
+    "number": 1070,
+    "title": "Luffy is Defeated?! The Determination of Those Left Behind"
   },
   {
     "id": "episode-1071",
     "type": "episode",
-    "number": 1071
+    "number": 1071,
+    "title": "Luffy's Peak: Attained! Gear Five"
   },
   {
     "id": "episode-1072",
     "type": "episode",
-    "number": 1072
+    "number": 1072,
+    "title": "The Ridiculous Power! Gear Five in Full Play"
   },
   {
     "id": "episode-1073",
     "type": "episode",
-    "number": 1073
+    "number": 1073,
+    "title": "No Way Out! A Hellish Scene on Onigashima"
   },
   {
     "id": "episode-1074",
     "type": "episode",
-    "number": 1074
+    "number": 1074,
+    "title": "I Trust Momo: Luffy's Final Powerful Technique!"
   },
   {
     "id": "episode-1075",
     "type": "episode",
-    "number": 1075
+    "number": 1075,
+    "title": "20 Years Worth of Prayers! Take Back the Land of Wano"
   },
   {
     "id": "episode-1076",
     "type": "episode",
-    "number": 1076
+    "number": 1076,
+    "title": "The World That Luffy Wants!"
   },
   {
     "id": "episode-1077",
     "type": "episode",
-    "number": 1077
+    "number": 1077,
+    "title": "The Curtain Falls! The Winner, Straw Hat Luffy!"
   },
   {
     "id": "episode-1078",
     "type": "episode",
-    "number": 1078
+    "number": 1078,
+    "title": "He Returns! The Shogun of the Land of Wano, Kozuki Momonosuke"
   },
   {
     "id": "episode-1079",
     "type": "episode",
-    "number": 1079
+    "number": 1079,
+    "title": "The Morning Comes! Luffy and the Others Rest!"
   },
   {
     "id": "episode-1080",
     "type": "episode",
-    "number": 1080
+    "number": 1080,
+    "title": "A Celebration Banquet! The New Emperors of the Sea!"
   },
   {
     "id": "episode-1081",
     "type": "episode",
-    "number": 1081
+    "number": 1081,
+    "title": "The World Will Burn! The Onslaught of a Navy Admiral!"
   },
   {
     "id": "episode-1082",
     "type": "episode",
-    "number": 1082
+    "number": 1082,
+    "title": "The Coming of the New Era! The Red-Haired's Imperial Rage"
   },
   {
     "id": "episode-1083",
     "type": "episode",
-    "number": 1083
+    "number": 1083,
+    "title": "The World That Moves On! A New Organization, Cross Guild!"
   },
   {
     "id": "episode-1084",
     "type": "episode",
-    "number": 1084
+    "number": 1084,
+    "title": "Time to Depart: Wano Country and the Straw Hats"
   },
   {
     "id": "episode-1085",
     "type": "episode",
-    "number": 1085
+    "number": 1085,
+    "title": "The Last Curtain! Luffy and Momonosuke's Vow"
   },
   {
     "id": "episode-1086",
     "type": "episode",
-    "number": 1086
+    "number": 1086,
+    "title": "The New Emperor! Buggy the Genius Jester!"
   },
   {
     "id": "episode-1029",
     "type": "episode",
-    "number": 1029
+    "number": 1029,
+    "title": "A Faint Memory! Luffy and Red-Haired's Daughter Uta!"
   },
   {
     "id": "episode-1030",
     "type": "episode",
-    "number": 1030
+    "number": 1030,
+    "title": "A Pledge for the Next Genesis! Luffy and Uta!"
   },
   {
     "id": "special-the-captain-s-log-of-the-legend-red-haired-shanks",
@@ -5786,386 +6872,463 @@
   {
     "id": "episode-1087",
     "type": "episode",
-    "number": 1087
+    "number": 1087,
+    "title": "War on the Island of Women! A Case Involving Koby the Hero"
   },
   {
     "id": "episode-1088",
     "type": "episode",
-    "number": 1088
+    "number": 1088,
+    "title": "Luffy's Dream"
   },
   {
     "id": "episode-1089",
     "type": "episode",
-    "number": 1089
+    "number": 1089,
+    "title": "Entering a New Chapter! Luffy and Sabo's Paths!"
   },
   {
     "id": "episode-1090",
     "type": "episode",
-    "number": 1090
+    "number": 1090,
+    "title": "A New Island! Future Island Egghead"
   },
   {
     "id": "episode-1091",
     "type": "episode",
-    "number": 1091
+    "number": 1091,
+    "title": "Brimming with the Future! An Adventure on the Island of Science!"
   },
   {
     "id": "episode-1092",
     "type": "episode",
-    "number": 1092
+    "number": 1092,
+    "title": "Bonney's Lamentation! Darkness Lurking on the Future Island"
   },
   {
     "id": "episode-1093",
     "type": "episode",
-    "number": 1093
+    "number": 1093,
+    "title": "The Winner Takes All! Law vs. Blackbeard!"
   },
   {
     "id": "episode-1094",
     "type": "episode",
-    "number": 1094
+    "number": 1094,
+    "title": "The Mystery Deepens! Egghead Labophase"
   },
   {
     "id": "episode-1095",
     "type": "episode",
-    "number": 1095
+    "number": 1095,
+    "title": "The Brain of a Genius - Six Vegapunks!"
   },
   {
     "id": "episode-1096",
     "type": "episode",
-    "number": 1096
+    "number": 1096,
+    "title": "A Forbidden Piece of History! A Theory Concerning a Kingdom"
   },
   {
     "id": "episode-1097",
     "type": "episode",
-    "number": 1097
+    "number": 1097,
+    "title": "The Will of Ohara! The Inherited Research"
   },
   {
     "id": "episode-1098",
     "type": "episode",
-    "number": 1098
+    "number": 1098,
+    "title": "The Eccentric Dream of a Genius!"
   },
   {
     "id": "episode-1099",
     "type": "episode",
-    "number": 1099
+    "number": 1099,
+    "title": "Preparations for Interception! Rob Lucci Strikes!"
   },
   {
     "id": "episode-1100",
     "type": "episode",
-    "number": 1100
+    "number": 1100,
+    "title": "Powers on a Different Level! Luffy vs. Lucci!"
   },
   {
     "id": "episode-1101",
     "type": "episode",
-    "number": 1101
+    "number": 1101,
+    "title": "The Strongest Form of Humanity! The Seraphim's Powers!"
   },
   {
     "id": "episode-1102",
     "type": "episode",
-    "number": 1102
+    "number": 1102,
+    "title": "Sinister Schemes! The Operation to Escape Egghead"
   },
   {
     "id": "episode-1103",
     "type": "episode",
-    "number": 1103
+    "number": 1103,
+    "title": "Turn Back My Father! Bonney's Futile Wish!"
   },
   {
     "id": "episode-1104",
     "type": "episode",
-    "number": 1104
+    "number": 1104,
+    "title": "A Desperate Situation! The Seraphim's All-out Attack!"
   },
   {
     "id": "episode-1105",
     "type": "episode",
-    "number": 1105
+    "number": 1105,
+    "title": "A Beautiful Act of Treason! The Spy, Stussy!"
   },
   {
     "id": "episode-1106",
     "type": "episode",
-    "number": 1106
+    "number": 1106,
+    "title": "Trouble Occurs! Seek Dr. Vegapunk!"
   },
   {
     "id": "episode-1107",
     "type": "episode",
-    "number": 1107
+    "number": 1107,
+    "title": "A Shudder! The Evil Hand Creeping Up on the Laboratory"
   },
   {
     "id": "episode-1108",
     "type": "episode",
-    "number": 1108
+    "number": 1108,
+    "title": "Incomprehensible! The Seraphim's Rebellion!"
   },
   {
     "id": "episode-1109",
     "type": "episode",
-    "number": 1109
+    "number": 1109,
+    "title": "A Tough Decision! An Unusual United Front!"
   },
   {
     "id": "episode-1110",
     "type": "episode",
-    "number": 1110
+    "number": 1110,
+    "title": "Survive! Deadly Combat with the Strongest Form of Humanity!"
   },
   {
     "id": "episode-1111",
     "type": "episode",
-    "number": 1111
+    "number": 1111,
+    "title": "The Second Ohara! The Mastermind's Ambition!"
   },
   {
     "id": "episode-1112",
     "type": "episode",
-    "number": 1112
+    "number": 1112,
+    "title": "Clash! Shanks vs. Eustass Kid"
   },
   {
     "id": "episode-1113",
     "type": "episode",
-    "number": 1113
+    "number": 1113,
+    "title": "Run, Koby! A Desperate Escape Strategy!"
   },
   {
     "id": "episode-1114",
     "type": "episode",
-    "number": 1114
+    "number": 1114,
+    "title": "For the Beloved Pupil: The Fist of Vice Admiral Garp"
   },
   {
     "id": "episode-1115",
     "type": "episode",
-    "number": 1115
+    "number": 1115,
+    "title": "The Marines Surprised! Marine Headquarters' Former Admiral, Kuzan"
   },
   {
     "id": "episode-1116",
     "type": "episode",
-    "number": 1116
+    "number": 1116,
+    "title": "Let's Go Get It! Buggy's Big Declaration"
   },
   {
     "id": "episode-1117",
     "type": "episode",
-    "number": 1117
+    "number": 1117,
+    "title": "Sabo Returns: The Shocking Truth to Be Told!"
   },
   {
     "id": "episode-1118",
     "type": "episode",
-    "number": 1118
+    "number": 1118,
+    "title": "The Holy Land in Tumult! Sai and Leo's Full-Power Blow!"
   },
   {
     "id": "episode-1119",
     "type": "episode",
-    "number": 1119
+    "number": 1119,
+    "title": "The Entrusted Message! King Cobra's Resolve"
   },
   {
     "id": "episode-1120",
     "type": "episode",
-    "number": 1120
+    "number": 1120,
+    "title": "The World Is Shaken! The Ruler's Judgment and the Five Elders' Actions"
   },
   {
     "id": "episode-1121",
     "type": "episode",
-    "number": 1121
+    "number": 1121,
+    "title": "Garp and Kuzan - A Master and a Pupil's Beliefs Clash"
   },
   {
     "id": "episode-1122",
     "type": "episode",
-    "number": 1122
+    "number": 1122,
+    "title": "The Last Lesson! Impact Inherited"
   },
   {
     "id": "episode-1123",
     "type": "episode",
-    "number": 1123
+    "number": 1123,
+    "title": "The World Shakes! The Straw Hats' Hostage Situation"
   },
   {
     "id": "episode-1124",
     "type": "episode",
-    "number": 1124
+    "number": 1124,
+    "title": "Completely Surrounded! The Operation to Escape Egghead"
   },
   {
     "id": "episode-1125",
     "type": "episode",
-    "number": 1125
+    "number": 1125,
+    "title": "A Clash of Two Men's Determination! Kizaru and Sentomaru"
   },
   {
     "id": "episode-1126",
     "type": "episode",
-    "number": 1126
+    "number": 1126,
+    "title": "Looming Despair! Admiral Kizaru's Depressing Mission"
   },
   {
     "id": "episode-1127",
     "type": "episode",
-    "number": 1127
+    "number": 1127,
+    "title": "Luffy vs. Kizaru! A Fierce Kaleidoscopic Battle"
   },
   {
     "id": "episode-1128",
     "type": "episode",
-    "number": 1128
+    "number": 1128,
+    "title": "The Nightmare Strikes - Godhead of Science & Defense, St. Saturn"
   },
   {
     "id": "episode-1129",
     "type": "episode",
-    "number": 1129
+    "number": 1129,
+    "title": "Kuma's Past: Better Off Dead in This World"
   },
   {
     "id": "episode-1130",
     "type": "episode",
-    "number": 1130
+    "number": 1130,
+    "title": "A History Erased! God Valley of Despair"
   },
   {
     "id": "episode-1131",
     "type": "episode",
-    "number": 1131
+    "number": 1131,
+    "title": "A Fleeting Moment of Happiness: Kumachi and Ginny"
   },
   {
     "id": "episode-1132",
     "type": "episode",
-    "number": 1132
+    "number": 1132,
+    "title": "A Pledge to Ginny: Kuma Becomes a Father"
   },
   {
     "id": "episode-1133",
     "type": "episode",
-    "number": 1133
+    "number": 1133,
+    "title": "To Save His Daughter: Kuma the Timid Pacifist"
   },
   {
     "id": "episode-1134",
     "type": "episode",
-    "number": 1134
+    "number": 1134,
+    "title": "Cruel Fate: Kuma's Decision as a Father"
   },
   {
     "id": "episode-1135",
     "type": "episode",
-    "number": 1135
+    "number": 1135,
+    "title": "To the Sea Where My Father is! The Future Bonney Chooses"
   },
   {
     "id": "episode-1136",
     "type": "episode",
-    "number": 1136
+    "number": 1136,
+    "title": "Kuma's Life"
   },
   {
     "id": "episode-1137",
     "type": "episode",
-    "number": 1137
+    "number": 1137,
+    "title": "I'm Sorry, Dad: Bonney's Tears and Kuma's Fist"
   },
   {
     "id": "episode-1138",
     "type": "episode",
-    "number": 1138
+    "number": 1138,
+    "title": "Thank You, Dad: Bonney and Kuma's Warm Embrace"
   },
   {
     "id": "episode-1139",
     "type": "episode",
-    "number": 1139
+    "number": 1139,
+    "title": "Destroy Egghead: The Buster Call is Invoked"
   },
   {
     "id": "episode-1140",
     "type": "episode",
-    "number": 1140
+    "number": 1140,
+    "title": "An Admired Hero: The Warrior of Liberation Who Saves Bonney"
   },
   {
     "id": "episode-1141",
     "type": "episode",
-    "number": 1141
+    "number": 1141,
+    "title": "Reliable Reinforcements! Dorry and Brogy Arrive!"
   },
   {
     "id": "episode-1142",
     "type": "episode",
-    "number": 1142
+    "number": 1142,
+    "title": "Come In, World: Vegapunk's Message"
   },
   {
     "id": "episode-1143",
     "type": "episode",
-    "number": 1143
+    "number": 1143,
+    "title": "Vegapunk's Secret Plan: A Tense Worldwide Broadcast"
   },
   {
     "id": "episode-1144",
     "type": "episode",
-    "number": 1144
+    "number": 1144,
+    "title": "The Worst Nightmare: The Five Elders Come Together"
   },
   {
     "id": "episode-1145",
     "type": "episode",
-    "number": 1145
+    "number": 1145,
+    "title": "Friends Fight Together! Luffy and the Warriors of Elbaph"
   },
   {
     "id": "episode-1146",
     "type": "episode",
-    "number": 1146
+    "number": 1146,
+    "title": "An Imminent Threat: Stussy and Edison's Resolve"
   },
   {
     "id": "episode-1147",
     "type": "episode",
-    "number": 1147
+    "number": 1147,
+    "title": "A Stunning Conclusion: Vegapunk's Great Prediction"
   },
   {
     "id": "episode-1148",
     "type": "episode",
-    "number": 1148
+    "number": 1148,
+    "title": "The Lost History - Joyboy, the First Pirate"
   },
   {
     "id": "episode-1149",
     "type": "episode",
-    "number": 1149
+    "number": 1149,
+    "title": "The Void Century - A Revelation About a Sinking World"
   },
   {
     "id": "episode-1150",
     "type": "episode",
-    "number": 1150
+    "number": 1150,
+    "title": "Get the Ship Moving! The Iron Giant Activates"
   },
   {
     "id": "episode-1151",
     "type": "episode",
-    "number": 1151
+    "number": 1151,
+    "title": "Her and Her Father's Dream! Bonney's Free Future"
   },
   {
     "id": "episode-1152",
     "type": "episode",
-    "number": 1152
+    "number": 1152,
+    "title": "Her Father and Mother's Legacy! Bonney's Nika Punch"
   },
   {
     "id": "episode-1153",
     "type": "episode",
-    "number": 1153
+    "number": 1153,
+    "title": "The Upheaval of an Era! The Color of the Supreme King That Leads Luffy"
   },
   {
     "id": "episode-1154",
     "type": "episode",
-    "number": 1154
+    "number": 1154,
+    "title": "The Truth Behind the Secret Plan - Vegapunk Claims Victory"
   },
   {
     "id": "episode-1155",
     "type": "episode",
-    "number": 1155
+    "number": 1155,
+    "title": "The Promised Horizon - Off to the Long-Awaited Elbaph!"
   },
   {
     "id": "episode-1156",
     "type": "episode",
-    "number": 1156
+    "number": 1156,
+    "title": "The Long-sought Elbaph! The Big Reunion Banquet"
   },
   {
     "id": "episode-1157",
     "type": "episode",
-    "number": 1157
+    "number": 1157,
+    "title": "Nami in a Fix! An Adventure in Block Kingdom"
   },
   {
     "id": "episode-1158",
     "type": "episode",
-    "number": 1158
+    "number": 1158,
+    "title": "A Quest in the Land of Mystery! The Secret of the Sun God"
   },
   {
     "id": "episode-1159",
     "type": "episode",
-    "number": 1159
+    "number": 1159,
+    "title": "Destroy the Miniature Garden: Escape Block Kingdom!"
   },
   {
     "id": "episode-1160",
     "type": "episode",
-    "number": 1160
+    "number": 1160,
+    "title": "An Encounter on a Snowfield: Loki, the Accursed Prince"
   },
   {
     "id": "episode-1161",
     "type": "episode",
-    "number": 1161
+    "number": 1161,
+    "title": "A Dangerous Deal! Loki of the Underworld and Luffy"
   },
   {
     "id": "episode-1162",
     "type": "episode",
-    "number": 1162
+    "number": 1162,
+    "title": "A Gargantuan Wave of Emotion: The Dreamlike Scenery of Elbaph"
   },
   {
     "id": "episode-1163",
     "type": "episode",
-    "number": 1163
+    "number": 1163,
+    "title": "I Want You to Praise Me: The Reunion of Robin and Saul"
   }
 ]

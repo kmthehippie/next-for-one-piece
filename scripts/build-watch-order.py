@@ -4,6 +4,8 @@ import re
 from pathlib import Path
 
 LATEST_EPISODE = 1163
+ROOT = Path(__file__).resolve().parents[1]
+TITLES = json.loads((ROOT / "episode-titles.json").read_text())
 
 MOVED_EPISODES = {
     291,
@@ -27,7 +29,7 @@ MOVED_EPISODES = {
 
 
 def episode(number):
-    return {"id": f"episode-{number}", "type": "episode", "number": number}
+    return {"id": f"episode-{number}", "type": "episode", "number": number, "title": TITLES[str(number)]}
 
 
 def named(kind, name, after_episode):
@@ -181,5 +183,5 @@ def build():
 
 
 if __name__ == "__main__":
-    out = Path(__file__).resolve().parents[1] / "watch-order.json"
+    out = ROOT / "watch-order.json"
     out.write_text(json.dumps(build(), indent=2) + "\n")

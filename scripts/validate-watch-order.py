@@ -19,8 +19,9 @@ episodes = []
 for item in items:
     assert item["type"] in ALLOWED_TYPES, item
     if item["type"] == "episode":
-        assert set(item) == {"id", "type", "number"}, item
+        assert set(item) == {"id", "type", "number", "title"}, item
         assert item["id"] == f"episode-{item['number']}", item
+        assert isinstance(item["title"], str) and item["title"], item
         episodes.append(item["number"])
     else:
         assert set(item) == {"id", "type", "name", "after_episode"}, item
